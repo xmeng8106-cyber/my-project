@@ -1,6 +1,349 @@
 [
   {
     "来源": "TheBlock",
+    "标题": "WLFI treasury firm AI Financial posts $271 million quarterly net loss, flags doubt over survival within one year",
+    "链接": "https://www.theblock.co/post/401788/wlfi-treasury-ai-financial-posts-loss?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-19 09:01",
+    "title_zh": "WLFI财务公司AI Financial公布季度净亏损2.71亿美元，对一年内的生存表示怀疑"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Republican lawmakers call for permanent CBDC ban as House vote approaches",
+    "链接": "https://cointelegraph.com/news/us-lawmakers-permanent-cbdc-ban-housing-bill-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-19 07:08",
+    "title_zh": "随着众议院投票临近，共和党议员呼吁永久禁止 CBDC"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Ethereum Foundation sees 2 more high-profile departures",
+    "链接": "https://cointelegraph.com/news/ethereum-foundation-sees-2-more-high-profile-departures-amid-wave-of-resignations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-19 07:04",
+    "title_zh": "以太坊基金会又有两名高调离职"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Spot bitcoin ETFs log $649 million in net outflows, largest since January",
+    "链接": "https://www.theblock.co/post/401780/spot-bitcoin-etf-649-million-outflows?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-19 06:39",
+    "title_zh": "现货比特币 ETF 净流出 6.49 亿美元，创 1 月份以来最大净流出"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "About 10% of Americans used crypto in 2025, highest level since 2022: Fed",
+    "链接": "https://cointelegraph.com/news/10-percent-of-americans-invested-or-used-crypto-in-2025-federal-reserve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-19 05:13",
+    "title_zh": "美联储：2025 年约有 10% 的美国人使用加密货币，这是 2022 年以来的最高水平"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Echo Protocol's eBTC exploited for $77M in admin key compromise",
+    "链接": "https://cointelegraph.com/news/echo-protocols-ebtc-exploited-for-76m-in-admin-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-19 04:52",
+    "title_zh": "Echo Protocol 的 eBTC 在管理密钥泄露中被利用价值 7700 万美元"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Ether pullback was ‘attractive opportunity’ for 71,672 ETH buy: Bitmine’s Lee",
+    "链接": "https://cointelegraph.com/news/tom-lee-bitmine-buys-71672-eth-during-price-pullback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-19 04:21",
+    "title_zh": "Bitmine 的 Lee 表示，以太币回调是买入 71,672 ETH 的“有吸引力的机会”"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Minnesota signs law allowing banks, credit unions to offer crypto custody services",
+    "链接": "https://www.theblock.co/post/401775/minnesota-bank-crypto-custody?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-19 03:56",
+    "title_zh": "明尼苏达州签署法律允许银行、信用合作社提供加密货币托管服务"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "BTCFi protocol Echo exploited, targeting eBTC market on Monad: onchain analysts",
+    "链接": "https://www.theblock.co/post/401771/echo-protocol-monad-exploit?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-19 02:49",
+    "title_zh": "BTCFi 协议 Echo 被利用，瞄准 Monad 上的 eBTC 市场：链上分析师"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "SEC to make ‘innovation exemption’ for tokenized stock trading: Report",
+    "链接": "https://cointelegraph.com/news/sec-to-make-innovation-exemption-for-tokenized-stock-trading-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-19 02:37",
+    "title_zh": "美国证券交易委员会将对代币化股票交易实行“创新豁免”：报告"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "SEC’s innovation exemption for tokenized stocks to come as early as this week: Bloomberg",
+    "链接": "https://www.theblock.co/post/401766/sec-innovation-exemption-tokenized-securities-this-week?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-19 01:49",
+    "title_zh": "美国证券交易委员会对代币化股票的创新豁免最早将于本周出台：彭博社"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Retail Bitcoin investor demand falls by 73% as futures selling tops $2B: Are the bears back?",
+    "链接": "https://cointelegraph.com/markets/bitcoin-retail-demand-on-binance-drops-73-as-futures-selling-tops-2b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-18 23:40",
+    "title_zh": "随着期货售价突破 2B 美元，散户比特币投资者需求下降 73%：空头回来了吗？"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Odds against rate cuts high as new US Fed chair set for swearing in",
+    "链接": "https://cointelegraph.com/news/interest-rates-fed-chair-kevin-warsh-sworn-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-18 22:49",
+    "title_zh": "新任美联储主席宣誓就职，降息的可能性很高"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Galaxy secures New York BitLicense to expand institutional crypto services",
+    "链接": "https://cointelegraph.com/news/galaxy-secures-new-york-bitlicense-institutional-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-18 22:20",
+    "title_zh": "Galaxy 获得纽约 BitLicense 以扩展机构加密服务"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Ethereum’s onchain conviction grows as staked ETH rises, even as price underperforms",
+    "链接": "https://www.theblock.co/post/401709/ethereum-onchain-conviction-grows-staked-eth-rises-price-underperforms?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-18 21:51",
+    "title_zh": "尽管价格表现不佳，但随着质押 ETH 的上涨，以太坊的链上信念也随之增强"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin lost its hold on $80K, but three events may send it back sooner than markets expect",
+    "链接": "https://cointelegraph.com/markets/bitcoin-lost-its-hold-on-80k-but-three-events-may-send-it-back-sooner-than-markets-expect?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-18 21:47",
+    "title_zh": "比特币失去了 8 万美元的地位，但三个事件可能会比市场预期更早让其回归"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Ohio man sentenced to 9 years for running $10 million crypto Ponzi scheme",
+    "链接": "https://www.theblock.co/post/401761/ohio-man-sentenced-to-9-years-for-running-10-million-crypto-ponzi-scheme?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-18 21:33",
+    "title_zh": "俄亥俄州男子因实施价值 1000 万美元的加密货币庞氏骗局被判 9 年徒刑"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Soluna revenue jumps 58% as hosting business offsets weaker Bitcoin mining",
+    "链接": "https://cointelegraph.com/news/soluna-q1-revenue-rises-58-data-center-hosting-surpasses-crypto-mining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-18 21:28",
+    "title_zh": "Soluna 收入跃升 58%，托管业务抵消了比特币挖矿疲软的影响"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Georgia primary to test crypto PAC’s support for Democratic candidate",
+    "链接": "https://cointelegraph.com/news/georgia-primary-jasmine-clark-crypto-pacs-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-18 21:20",
+    "title_zh": "佐治亚州初选将测试加密 PAC 对民主党候选人的支持"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin’s trend defining battle starts at the $74K support: Analyst",
+    "链接": "https://cointelegraph.com/markets/bitcoin-analyst-flags-74k-as-btcs-biggest-support-battle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-18 19:57",
+    "title_zh": "分析师：比特币的趋势决定性战斗从 7.4 万美元支撑位开始"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Ostium’s onchain perpetuals exchange to be ‘powered’ by Nasdaq data",
+    "链接": "https://www.theblock.co/post/401743/ostiums-onchain-perpetuals-exchange-nasdaq-data?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-18 19:56",
+    "title_zh": "Ostium 的链上永续合约交易将由纳斯达克数据“提供支持”"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Zerohash secures first EMI license under MiCA for stablecoin and brokerage services in Europe",
+    "链接": "https://www.theblock.co/post/401741/zerohash-first-emi-license-mica-stablecoin-brokerage-services-europe?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-18 19:27",
+    "title_zh": "Zerohash 在 MiCA 下获得第一个 EMI 许可证，在欧洲提供稳定币和经纪服务"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Galaxy scores New York BitLicense to offer digital asset services in the state",
+    "链接": "https://www.theblock.co/post/401732/galaxy-new-york-bitlicense-offer-digital-asset-services-state?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-18 18:25",
+    "title_zh": "Galaxy 获得纽约 BitLicense 以在该州提供数字资产服务"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Price predictions 5/18: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA",
+    "链接": "https://cointelegraph.com/markets/price-predictions-518-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-18 17:58",
+    "title_zh": "价格预测 5/18：SPX、DXY、BTC、ETH、XRP、BNB、SOL、DOGE、HYPE、ADA"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Minnesota legalizes crypto custody services for banks, credit unions",
+    "链接": "https://cointelegraph.com/news/minnesota-crypto-custody-services-banks-credit-unions-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-18 17:52",
+    "title_zh": "明尼苏达州将银行、信用合作社的加密货币托管服务合法化"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Revolut unveils first physical crypto card as industry-wide card usage grows",
+    "链接": "https://www.theblock.co/post/401726/revolut-first-physical-crypto-card-industry-usage-grows?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-18 17:30",
+    "title_zh": "随着全行业卡使用量的增长，Revolut 推出首款物理加密卡"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Crypto funds see $1B in outflows as Iran tensions revive risk-off sentiment",
+    "链接": "https://cointelegraph.com/news/crypto-funds-1b-outflows-iran-tensions-risk-off-bitcoin-ether?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-18 17:01",
+    "title_zh": "由于伊朗紧张局势重振避险情绪，加密货币基金出现 10 亿美元资金外流"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Two more Ethereum Foundation researchers resign amid wave of departures",
+    "链接": "https://www.theblock.co/post/401718/two-more-ethereum-foundation-researchers-resign-amid-wave-of-departures?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-18 16:50",
+    "title_zh": "又有两名以太坊基金会研究人员在离职潮中辞职"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bitwise to add HYPE to balance sheet using fees from Hyperliquid ETF",
+    "链接": "https://www.theblock.co/post/401688/bitwise-add-hype-balance-sheet-fees-hyperliquid-etf?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-18 16:42",
+    "title_zh": "Bitwise 将使用 Hyperliquid ETF 的费用将 HYPE 添加到资产负债表中"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Kraken co-CEO says exchange revenue, up 3% to $507 million, is a ‘more resilient’ mix amid spending spree",
+    "链接": "https://www.theblock.co/post/401702/kraken-co-ceo-says-exchange-revenue-up-3-to-507-million-is-a-more-resilient-mix-amid-spending-spree?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-18 16:03",
+    "title_zh": "Kraken 联合首席执行官表示，交易所收入增长 3%，达到 5.07 亿美元，在消费狂潮中是一个“更具弹性”的组合"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Ethereum traders say bears ‘in control’ after ETH price drop to $2K",
+    "链接": "https://cointelegraph.com/markets/ethereum-traders-say-bears-in-control-eth-price-drop-2k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-18 15:36",
+    "title_zh": "以太坊交易员表示，以太坊价格跌至 2000 美元后，空头“掌控一切”"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Hyperliquid eyes 55% price rise after Silicon Valley investor's 'massive HYPE buy'",
+    "链接": "https://cointelegraph.com/markets/hyperliquid-eyes-55-price-rise-silicon-valley-investors-massive-hype-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-18 15:10",
+    "title_zh": "硅谷投资者“大规模炒作”后，Hyperliquid 的股价将上涨 55%"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "UK proposes near-24/7 settlement to prepare markets for tokenization",
+    "链接": "https://cointelegraph.com/news/fca-bank-england-publish-tokenization-settlement-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-18 14:59",
+    "title_zh": "英国提议近 24/7 结算，为市场代币化做好准备"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Tether invests in remittance fintech LemFi to expand USDT settlement across Africa and Asia",
+    "链接": "https://www.theblock.co/post/401666/tether-invests-remittance-fintech-lemfi-expand-usdt-settlement-africa-asia?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-18 14:53",
+    "title_zh": "Tether 投资汇款金融科技 LemFi，以扩大非洲和亚洲的 USDT 结算"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin Depot stock crashes 71% premarket after Chapter 11 filing",
+    "链接": "https://cointelegraph.com/news/bitcoin-depot-stock-crash-chapter-11-bankruptcy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-18 14:26",
+    "title_zh": "根据美国破产法第 11 章申请后，Bitcoin Depot 股价盘前暴跌 71%"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Standard Chartered to absorb Zodia Custody’s crypto business into its own operations: Bloomberg",
+    "链接": "https://www.theblock.co/post/401663/standard-chartered-absorb-zodia-custody-crypto-business-bloomberg?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-18 14:08",
+    "title_zh": "渣打银行将 Zodia Custody 的加密业务纳入自己的业务：彭博社"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "HIVE stock rallies 35% after unveiling 320MW ‘AI gigafactory’ project in Toronto",
+    "链接": "https://www.theblock.co/post/401656/hive-stock-rallies-40-unveiling-320mw-ai-gigafactory-project-toronto?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-18 14:07",
+    "title_zh": "在多伦多推出 320MW“人工智能超级工厂”项目后，HIVE 股价上涨 35%"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Deploi Launches Direct Issuance Infrastructure for Private Credit on Polygon, Secures ISIN Allocations from Nasdaq CSD",
+    "链接": "https://cointelegraph.com/press-releases/deploi-launches-direct-issuance-infrastructure-for-private-credit-on-polygon-secures-isin-allocations-from-nasdaq-csd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-18 14:02",
+    "title_zh": "Deploi 在 Polygon 上启动私人信贷直接发行基础设施，确保纳斯达克 CSD 的 ISIN 分配"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Saylor’s Strategy scoops $2B Bitcoin, holdings reach 843,738 BTC",
+    "链接": "https://cointelegraph.com/news/strategy-2-billion-bitcoin-holdings-reach-843-738-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-18 13:44",
+    "title_zh": "Saylor’s Strategy 买入 20 亿美元比特币，持有量达到 843,738 BTC"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Standard Chartered to absorb Zodia Custody’s core business, spin out Zodia Solutions",
+    "链接": "https://cointelegraph.com/news/standard-chartered-zodia-custodys-core-business-spin-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-18 13:31",
+    "title_zh": "渣打银行将吸收 Zodia Custody 的核心业务，并分拆 Zodia Solutions"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bitmine lifts ether treasury to 5.28 million ETH as total holdings top $12 billion",
+    "链接": "https://www.theblock.co/post/401653/bitmine-lifts-ether-treasury-to-5-28-million-eth-as-total-holdings-top-12-billion?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-18 13:28",
+    "title_zh": "Bitmine 将以太币库存增至 528 万 ETH，总持有量突破 120 亿美元"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Weekly crypto ETP outflows top $1B, ending six-week positive streak amid Iran-linked risk-off: CoinShares",
+    "链接": "https://www.theblock.co/post/401649/weekly-crypto-etp-outflows-top-1b-ending-six-week-positive-streak-amid-iran-linked-risk-off-coinshares?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-18 13:22",
+    "title_zh": "每周加密货币 ETP 流出量突破 10 亿美元，结束了与伊朗相关的避险情绪中连续六周的上涨趋势：CoinShares"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "South Korea's KB Financial completes stablecoin pilot for offline payments",
+    "链接": "https://cointelegraph.com/news/south-korean-kb-financial-stablecoin-pilot-offline-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-18 12:42",
+    "title_zh": "韩国 KB Financial 完成线下支付稳定币试点"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "‘Big dot energy’: Michael Saylor’s Strategy buys another 24,869 BTC for $2 billion as total holdings top 4% of bitcoin supply",
+    "链接": "https://www.theblock.co/post/401627/big-dot-energy-michael-saylors-strategy-buys-more-bitcoin?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-18 12:07",
+    "title_zh": "“大点能源”：Michael Saylor 的策略以 20 亿美元购买了另外 24,869 枚比特币，总持有量占比特币供应量的 4%"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin falls to $76K after Trump says ‘clock is ticking’ for Iran",
+    "链接": "https://cointelegraph.com/markets/bitcoin-falls-to-76k-after-trump-says-clock-is-ticking-for-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-18 11:25",
+    "title_zh": "特朗普称伊朗“时间紧迫”后，比特币跌至 7.6 万美元"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "XRP price may explode to $15 amid 'quiet accumulation,' analyst claims",
+    "链接": "https://cointelegraph.com/markets/xrp-price-may-explode-15-dollars-quiet-accumulation-analyst-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-18 11:19",
+    "title_zh": "分析师称，XRP 价格可能会在“安静积累”中飙升至 15 美元"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Proof of Talk returns to the Louvre with 100+ C-Level speakers representing $18 trillion in AUM",
+    "链接": "https://cointelegraph.com/press-releases/proof-of-talk-returns-to-the-louvre-with-100-c-level-speakers-representing-18-trillion-in-aum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-18 11:00",
+    "title_zh": "Proof of Talk 重返卢浮宫，拥有 100 多位 C 级演讲者，资产管理规模达 18 万亿美元"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "South Korea reviews Hana Bank’s Dunamu stake under banking rules: Report",
+    "链接": "https://cointelegraph.com/news/koreas-fsc-reviewing-hana-banks-dunamu-stake-separation-rules-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-18 10:54",
+    "title_zh": "韩国根据银行业规则审查韩亚银行 (Hana Bank) 持有的 Dunamu 股份：报告"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Goldman Sachs exits XRP, Solana ETF exposure in Q1 2026",
+    "链接": "https://cointelegraph.com/news/goldman-sachs-xrp-solana-etf-exposure-q1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-18 10:47",
+    "title_zh": "高盛将于 2026 年第一季度退出 XRP 和 Solana ETF 敞口"
+  },
+  {
+    "来源": "TheBlock",
     "标题": "Iran-linked report says Hormuz Safe bitcoin-settled insurance platform aims to generate $10 billion",
     "链接": "https://www.theblock.co/post/401612/iran-linked-report-says-hormuz-safe-bitcoin-settled-insurance-platform-aims-to-generate-10-billion?utm_source=rss&utm_medium=rss",
     "时间": "2026-05-18 09:27",
