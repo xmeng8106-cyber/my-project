@@ -75,7 +75,7 @@ def render_section(sid, label, items, accent, bg):
         body = (f'{preview}'
                 f'<details class="more-block">'
                 f'<summary class="more-btn">展开更多 {count - PREVIEW_COUNT} 条</summary>'
-                f'{rest}'
+                f'<div class="more-inner">{rest}</div>'
                 f'</details>')
 
     return (f'<section id="{sid}" style="border-top:4px solid {accent};background:{bg}">'
@@ -112,7 +112,7 @@ def render_html(news_list):
 <style>
 *,*::before,*::after{{box-sizing:border-box;margin:0;padding:0}}
 body{{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB",sans-serif;
-  background:#f0f2f5;color:#1a1a2e;min-height:100vh;font-size:16px;
+  background:#f0f2f5;color:#1a1a2e;min-height:100vh;font-size:15px;
   -webkit-text-size-adjust:100%;text-size-adjust:100%}}
 header{{background:#0f172a;color:#e2e8f0;padding:1.5rem 1.5rem .75rem}}
 header h1{{font-size:1.5rem;font-weight:700;letter-spacing:.02em}}
@@ -125,56 +125,61 @@ nav::-webkit-scrollbar{{display:none}}
   text-decoration:none;padding:.4rem .75rem;border-radius:99px;
   white-space:nowrap;transition:background .15s,color .15s}}
 .nav-item:hover,.nav-item:active{{background:#1e293b;color:var(--a,#e2e8f0)}}
-main{{max-width:780px;margin:1.5rem auto;padding:0 1rem}}
-section{{border-radius:14px;padding:1.2rem 1.4rem;margin-bottom:1.25rem}}
-.sec-title{{font-size:1.08rem;font-weight:700;margin-bottom:1rem;
+.grid{{display:grid;grid-template-columns:repeat(6,1fr);gap:1rem;
+  max-width:1600px;margin:1.25rem auto;padding:0 1rem;align-items:start}}
+section{{border-radius:14px;padding:1.1rem 1.1rem}}
+.sec-title{{font-size:1rem;font-weight:700;margin-bottom:.9rem;
   padding-bottom:.5rem;border-bottom:1px solid rgba(0,0,0,.07);
   display:flex;align-items:center;gap:.4rem}}
 .sec-count{{font-size:.7rem;font-weight:600;background:rgba(0,0,0,.08);
   color:inherit;padding:.15rem .45rem;border-radius:99px}}
-.empty{{font-size:.875rem;color:#94a3b8;padding:.5rem 0}}
-.card{{background:#fff;border-radius:12px;padding:1rem 1.1rem;
-  margin-bottom:.85rem;box-shadow:0 1px 4px rgba(0,0,0,.07);
+.empty{{font-size:.85rem;color:#94a3b8;padding:.5rem 0}}
+.card{{background:#fff;border-radius:10px;padding:.85rem .95rem;
+  margin-bottom:.7rem;box-shadow:0 1px 3px rgba(0,0,0,.07);
   transition:box-shadow .2s;-webkit-tap-highlight-color:transparent}}
-.card:last-child{{margin-bottom:0}}
-.card:hover{{box-shadow:0 5px 16px rgba(0,0,0,.11)}}
+.card:hover{{box-shadow:0 4px 14px rgba(0,0,0,.11)}}
 .card-alert{{border-left:3px solid #ef4444;background:#fff8f8}}
-.card-alert:hover{{box-shadow:0 5px 16px rgba(239,68,68,.13)}}
-.meta{{display:flex;gap:.4rem;align-items:center;margin-bottom:.6rem;flex-wrap:wrap}}
-.source{{font-size:.7rem;font-weight:700;padding:.22rem .6rem;
+.card-alert:hover{{box-shadow:0 4px 14px rgba(239,68,68,.12)}}
+.meta{{display:flex;gap:.35rem;align-items:center;margin-bottom:.5rem;flex-wrap:wrap}}
+.source{{font-size:.67rem;font-weight:700;padding:.18rem .5rem;
   border-radius:99px;white-space:nowrap}}
-.time{{font-size:.78rem;color:#94a3b8}}
-.title{{font-size:1.05rem;font-weight:600;color:#1e293b;text-decoration:none;
-  line-height:1.7;display:block;word-break:break-all}}
+.time{{font-size:.72rem;color:#94a3b8}}
+.title{{font-size:.92rem;font-weight:600;color:#1e293b;text-decoration:none;
+  line-height:1.65;display:block;word-break:break-all}}
 .title:hover{{color:#2563eb}}
-.orig{{margin-top:.7rem;border-top:1px solid #f1f5f9;padding-top:.6rem}}
-.orig summary{{font-size:.8rem;color:#64748b;cursor:pointer;user-select:none;
+.orig{{margin-top:.55rem;border-top:1px solid #f1f5f9;padding-top:.5rem}}
+.orig summary{{font-size:.75rem;color:#64748b;cursor:pointer;user-select:none;
   list-style:none;display:flex;align-items:center;gap:.3rem;
-  padding:.25rem 0;min-height:2.4rem}}
+  padding:.2rem 0;min-height:2rem}}
 .orig summary::marker,.orig summary::-webkit-details-marker{{display:none}}
-.orig summary::after{{content:"▾";font-size:.72rem;transition:transform .2s}}
+.orig summary::after{{content:"▾";font-size:.68rem;transition:transform .2s}}
 .orig[open] summary::after{{transform:rotate(-180deg)}}
-.orig-text{{margin-top:.4rem;font-size:.88rem;color:#64748b;
-  line-height:1.6;word-break:break-word}}
-.more-block{{margin-top:.85rem}}
-.more-btn{{font-size:.82rem;font-weight:600;color:#64748b;cursor:pointer;
-  user-select:none;list-style:none;display:inline-flex;align-items:center;
-  gap:.35rem;padding:.45rem .9rem;border-radius:99px;
-  background:rgba(0,0,0,.06);transition:background .15s;
-  -webkit-tap-highlight-color:transparent}}
-.more-btn:hover{{background:rgba(0,0,0,.1)}}
+.orig-text{{margin-top:.35rem;font-size:.82rem;color:#64748b;
+  line-height:1.55;word-break:break-word}}
+.more-block{{margin-top:.7rem}}
 .more-block summary::marker,.more-block summary::-webkit-details-marker{{display:none}}
-.more-block summary::after{{content:"▾";font-size:.72rem;transition:transform .2s}}
+.more-btn{{font-size:.78rem;font-weight:600;color:#64748b;cursor:pointer;
+  user-select:none;list-style:none;display:inline-flex;align-items:center;gap:.3rem;
+  padding:.4rem .8rem;border-radius:99px;background:rgba(0,0,0,.06);
+  transition:background .15s;-webkit-tap-highlight-color:transparent}}
+.more-btn:hover{{background:rgba(0,0,0,.1)}}
+.more-block summary::after{{content:"▾";font-size:.68rem;transition:transform .2s;margin-left:.2rem}}
 .more-block[open] summary::after{{transform:rotate(-180deg)}}
-.more-block[open] .more-btn{{margin-bottom:.85rem}}
-footer{{text-align:center;padding:2.5rem 1rem;font-size:.8rem;color:#94a3b8;line-height:1.6}}
+.more-inner{{margin-top:.7rem}}
+footer{{text-align:center;padding:2rem 1rem;font-size:.8rem;color:#94a3b8;line-height:1.6}}
+@media(max-width:1200px){{
+  .grid{{grid-template-columns:repeat(3,1fr)}}
+}}
+@media(max-width:768px){{
+  .grid{{grid-template-columns:repeat(2,1fr)}}
+}}
 @media(max-width:600px){{
   header{{padding:1.1rem 1rem .6rem}}
-  header h1{{font-size:1.35rem}}
-  main{{padding:0 .75rem;margin-top:1rem}}
-  section{{padding:1rem 1rem;border-radius:12px}}
-  .card{{padding:.85rem .9rem}}
-  .title{{font-size:1.02rem}}
+  header h1{{font-size:1.3rem}}
+  .grid{{grid-template-columns:1fr;padding:0 .75rem;gap:.9rem;margin-top:1rem}}
+  section{{padding:.9rem .9rem}}
+  .card{{padding:.75rem .8rem}}
+  .title{{font-size:.9rem}}
 }}
 </style>
 </head>
@@ -186,9 +191,9 @@ footer{{text-align:center;padding:2.5rem 1rem;font-size:.8rem;color:#94a3b8;line
 <nav>
 {nav_items}
 </nav>
-<main>
+<div class="grid">
 {sections_html}
-</main>
+</div>
 <footer>由 web3-news-agent 自动生成</footer>
 <script>
 if ('serviceWorker' in navigator) {{
