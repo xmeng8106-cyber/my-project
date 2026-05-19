@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
-import json, re
+import json
 from datetime import datetime
 
 DATA_FILE = "news_data.json"
 OUTPUT_FILE = "index.html"
+PREVIEW_COUNT = 5  # 默认展示条数，超出部分折叠
 
 SOURCE_COLORS = {
     "TheBlock":      ("#dbeafe", "#1d4ed8"),
@@ -16,12 +17,12 @@ SOURCE_COLORS = {
 DEFAULT_COLOR = ("#f1f5f9", "#475569")
 
 SECTIONS = [
-    ("flash",    "⚡ 快讯速报", None,                                              "#3b82f6", "#eff6ff"),
-    ("market",   "📈 市场行情", ["BTC","ETH","价格","涨","跌","新高","美元"],       "#10b981", "#f0fdf4"),
-    ("policy",   "🏛️ 监管政策", ["SEC","监管","合规","政府","立法","禁止","央行"],   "#8b5cf6", "#f5f3ff"),
-    ("tech",     "🔧 项目技术", ["DeFi","Layer2","以太坊","公链","协议","升级","空投"], "#f59e0b", "#fffbeb"),
-    ("finance",  "💰 融资机构", ["融资","投资","收购","基金","VC","上市","亿美元"],  "#14b8a6", "#f0fdfa"),
-    ("security", "🚨 安全事件", ["hack","黑客","攻击","漏洞","跑路","被盗","exploit"], "#ef4444", "#fff1f2"),
+    ("flash",    "⚡ 快讯速报", None,                                                "#3b82f6", "#eff6ff"),
+    ("market",   "📈 市场行情", ["BTC","ETH","价格","涨","跌","新高","美元"],         "#10b981", "#f0fdf4"),
+    ("policy",   "🏛️ 监管政策", ["SEC","监管","合规","政府","立法","禁止","央行"],     "#8b5cf6", "#f5f3ff"),
+    ("tech",     "🔧 项目技术", ["DeFi","Layer2","以太坊","公链","协议","升级","空投"],"#f59e0b", "#fffbeb"),
+    ("finance",  "💰 融资机构", ["融资","投资","收购","基金","VC","上市","亿美元"],    "#14b8a6", "#f0fdfa"),
+    ("security", "🚨 安全事件", ["hack","黑客","攻击","漏洞","跑路","被盗","exploit"],"#ef4444", "#fff1f2"),
 ]
 
 def source_style(name):
@@ -39,10 +40,7 @@ def matches(item, keywords):
 def classify(news_list):
     result = {}
     for sid, _, keywords, _, _ in SECTIONS:
-        if keywords is None:
-            result[sid] = list(news_list)
-        else:
-            result[sid] = [i for i in news_list if matches(i, keywords)]
+        result[sid] = list(news_list) if keywords is None else [i for i in news_list if matches(i, keywords)]
     return result
 
 def render_card(item, alert=False):
@@ -51,31 +49,39 @@ def render_card(item, alert=False):
     link = item["链接"]
     if zh:
         title_block = f'<a class="title" href="{link}" target="_blank" rel="noopener">{zh}</a>'
-        orig_block  = (f'<details class="orig">'
-                       f'<summary>英文原标题</summary>'
-                       f'<p class="orig-text">{en}</p>'
-                       f'</details>')
+        orig_block  = (f'<details class="orig"><summary>英文原标题</summary>'
+                       f'<p class="orig-text">{en}</p></details>')
     else:
         title_block = f'<a class="title" href="{link}" target="_blank" rel="noopener">{en}</a>'
         orig_block  = ""
-
     card_class = 'card card-alert' if alert else 'card'
     return (f'<article class="{card_class}">'
             f'<div class="meta">'
             f'<span class="source" style="{source_style(item["来源"])}">{item["来源"]}</span>'
             f'<span class="time">{item["时间"]}</span>'
-            f'</div>'
-            f'{title_block}{orig_block}'
-            f'</article>')
+            f'</div>{title_block}{orig_block}</article>')
 
 def render_section(sid, label, items, accent, bg):
-    cards_html = "\n".join(render_card(i, alert=(sid == "security")) for i in items) if items else '<p class="empty">暂无相关新闻</p>'
     count = len(items)
-    return (f'<section id="{sid}" style="background:{bg};border-top:4px solid {accent}">'
+    is_security = sid == "security"
+
+    if not items:
+        body = '<p class="empty">暂无相关新闻</p>'
+    elif count <= PREVIEW_COUNT:
+        body = "\n".join(render_card(i, is_security) for i in items)
+    else:
+        preview = "\n".join(render_card(i, is_security) for i in items[:PREVIEW_COUNT])
+        rest    = "\n".join(render_card(i, is_security) for i in items[PREVIEW_COUNT:])
+        body = (f'{preview}'
+                f'<details class="more-block">'
+                f'<summary class="more-btn">展开更多 {count - PREVIEW_COUNT} 条</summary>'
+                f'{rest}'
+                f'</details>')
+
+    return (f'<section id="{sid}" style="border-top:4px solid {accent};background:{bg}">'
             f'<h2 class="sec-title" style="color:{accent}">'
-            f'{label} <span class="sec-count">{count}</span>'
-            f'</h2>'
-            f'{cards_html}'
+            f'{label} <span class="sec-count">{count}</span></h2>'
+            f'{body}'
             f'</section>')
 
 def render_html(news_list):
@@ -83,10 +89,9 @@ def render_html(news_list):
     classified = classify(news_list)
 
     nav_items = "".join(
-        f'<a class="nav-item" href="#{sid}" style="--accent:{accent}">{label}</a>'
+        f'<a class="nav-item" href="#{sid}" style="--a:{accent}">{label}</a>'
         for sid, label, _, accent, _ in SECTIONS
     )
-
     sections_html = "\n".join(
         render_section(sid, label, classified[sid], accent, bg)
         for sid, label, _, accent, bg in SECTIONS
@@ -107,65 +112,69 @@ def render_html(news_list):
 <style>
 *,*::before,*::after{{box-sizing:border-box;margin:0;padding:0}}
 body{{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB",sans-serif;
-  background:#f0f2f5;color:#1a1a2e;min-height:100vh;font-size:15px;
+  background:#f0f2f5;color:#1a1a2e;min-height:100vh;font-size:16px;
   -webkit-text-size-adjust:100%;text-size-adjust:100%}}
 header{{background:#0f172a;color:#e2e8f0;padding:1.5rem 1.5rem .75rem}}
 header h1{{font-size:1.5rem;font-weight:700;letter-spacing:.02em}}
 header p{{margin-top:.4rem;font-size:.875rem;color:#94a3b8}}
 nav{{position:sticky;top:0;z-index:100;background:#0f172a;
   border-top:1px solid #1e293b;padding:.5rem 1rem;
-  display:flex;gap:.5rem;overflow-x:auto;-webkit-overflow-scrolling:touch;
-  scrollbar-width:none}}
+  display:flex;gap:.5rem;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none}}
 nav::-webkit-scrollbar{{display:none}}
 .nav-item{{flex-shrink:0;font-size:.78rem;font-weight:600;color:#94a3b8;
   text-decoration:none;padding:.4rem .75rem;border-radius:99px;
   white-space:nowrap;transition:background .15s,color .15s}}
-.nav-item:hover,.nav-item:active{{background:#1e293b;color:var(--accent,#e2e8f0)}}
-.grid{{display:grid;grid-template-columns:repeat(3,1fr);gap:1.25rem;
-  max-width:1400px;margin:1.25rem auto;padding:0 1.25rem;
-  align-items:start}}
-section{{border-radius:14px;padding:1.1rem 1.1rem;
-  box-shadow:0 1px 4px rgba(0,0,0,.07)}}
-.sec-title{{font-size:1rem;font-weight:700;margin-bottom:.9rem;
+.nav-item:hover,.nav-item:active{{background:#1e293b;color:var(--a,#e2e8f0)}}
+main{{max-width:780px;margin:1.5rem auto;padding:0 1rem}}
+section{{border-radius:14px;padding:1.2rem 1.4rem;margin-bottom:1.25rem}}
+.sec-title{{font-size:1.08rem;font-weight:700;margin-bottom:1rem;
   padding-bottom:.5rem;border-bottom:1px solid rgba(0,0,0,.07);
   display:flex;align-items:center;gap:.4rem}}
-.sec-count{{font-size:.7rem;font-weight:600;background:rgba(0,0,0,.07);
-  color:inherit;padding:.15rem .45rem;border-radius:99px;opacity:.8}}
-.empty{{font-size:.85rem;color:#94a3b8;padding:.5rem 0}}
-.card{{background:#fff;border-radius:10px;padding:.9rem 1rem;
-  margin-bottom:.75rem;box-shadow:0 1px 3px rgba(0,0,0,.06);
+.sec-count{{font-size:.7rem;font-weight:600;background:rgba(0,0,0,.08);
+  color:inherit;padding:.15rem .45rem;border-radius:99px}}
+.empty{{font-size:.875rem;color:#94a3b8;padding:.5rem 0}}
+.card{{background:#fff;border-radius:12px;padding:1rem 1.1rem;
+  margin-bottom:.85rem;box-shadow:0 1px 4px rgba(0,0,0,.07);
   transition:box-shadow .2s;-webkit-tap-highlight-color:transparent}}
 .card:last-child{{margin-bottom:0}}
-.card:hover{{box-shadow:0 4px 14px rgba(0,0,0,.1)}}
+.card:hover{{box-shadow:0 5px 16px rgba(0,0,0,.11)}}
 .card-alert{{border-left:3px solid #ef4444;background:#fff8f8}}
-.card-alert:hover{{box-shadow:0 4px 14px rgba(239,68,68,.12)}}
-.meta{{display:flex;gap:.4rem;align-items:center;margin-bottom:.55rem;flex-wrap:wrap}}
-.source{{font-size:.68rem;font-weight:700;padding:.2rem .55rem;
+.card-alert:hover{{box-shadow:0 5px 16px rgba(239,68,68,.13)}}
+.meta{{display:flex;gap:.4rem;align-items:center;margin-bottom:.6rem;flex-wrap:wrap}}
+.source{{font-size:.7rem;font-weight:700;padding:.22rem .6rem;
   border-radius:99px;white-space:nowrap}}
-.time{{font-size:.75rem;color:#94a3b8}}
-.title{{font-size:.95rem;font-weight:600;color:#1e293b;text-decoration:none;
-  line-height:1.65;display:block;word-break:break-all}}
+.time{{font-size:.78rem;color:#94a3b8}}
+.title{{font-size:1.05rem;font-weight:600;color:#1e293b;text-decoration:none;
+  line-height:1.7;display:block;word-break:break-all}}
 .title:hover{{color:#2563eb}}
-.orig{{margin-top:.6rem;border-top:1px solid #f1f5f9;padding-top:.5rem}}
-.orig summary{{font-size:.78rem;color:#64748b;cursor:pointer;user-select:none;
+.orig{{margin-top:.7rem;border-top:1px solid #f1f5f9;padding-top:.6rem}}
+.orig summary{{font-size:.8rem;color:#64748b;cursor:pointer;user-select:none;
   list-style:none;display:flex;align-items:center;gap:.3rem;
-  padding:.25rem 0;min-height:2.2rem}}
+  padding:.25rem 0;min-height:2.4rem}}
 .orig summary::marker,.orig summary::-webkit-details-marker{{display:none}}
-.orig summary::after{{content:"▾";font-size:.7rem;transition:transform .2s}}
+.orig summary::after{{content:"▾";font-size:.72rem;transition:transform .2s}}
 .orig[open] summary::after{{transform:rotate(-180deg)}}
-.orig-text{{margin-top:.4rem;font-size:.85rem;color:#64748b;
+.orig-text{{margin-top:.4rem;font-size:.88rem;color:#64748b;
   line-height:1.6;word-break:break-word}}
-footer{{text-align:center;padding:2rem 1rem;font-size:.8rem;color:#94a3b8;line-height:1.6}}
-@media(max-width:1024px){{
-  .grid{{grid-template-columns:repeat(2,1fr)}}
-}}
+.more-block{{margin-top:.85rem}}
+.more-btn{{font-size:.82rem;font-weight:600;color:#64748b;cursor:pointer;
+  user-select:none;list-style:none;display:inline-flex;align-items:center;
+  gap:.35rem;padding:.45rem .9rem;border-radius:99px;
+  background:rgba(0,0,0,.06);transition:background .15s;
+  -webkit-tap-highlight-color:transparent}}
+.more-btn:hover{{background:rgba(0,0,0,.1)}}
+.more-block summary::marker,.more-block summary::-webkit-details-marker{{display:none}}
+.more-block summary::after{{content:"▾";font-size:.72rem;transition:transform .2s}}
+.more-block[open] summary::after{{transform:rotate(-180deg)}}
+.more-block[open] .more-btn{{margin-bottom:.85rem}}
+footer{{text-align:center;padding:2.5rem 1rem;font-size:.8rem;color:#94a3b8;line-height:1.6}}
 @media(max-width:600px){{
   header{{padding:1.1rem 1rem .6rem}}
-  header h1{{font-size:1.3rem}}
-  .grid{{grid-template-columns:1fr;padding:0 .75rem;gap:1rem;margin-top:1rem}}
-  section{{padding:.9rem .9rem}}
-  .card{{padding:.8rem .85rem}}
-  .title{{font-size:.92rem}}
+  header h1{{font-size:1.35rem}}
+  main{{padding:0 .75rem;margin-top:1rem}}
+  section{{padding:1rem 1rem;border-radius:12px}}
+  .card{{padding:.85rem .9rem}}
+  .title{{font-size:1.02rem}}
 }}
 </style>
 </head>
@@ -177,9 +186,9 @@ footer{{text-align:center;padding:2rem 1rem;font-size:.8rem;color:#94a3b8;line-h
 <nav>
 {nav_items}
 </nav>
-<div class="grid">
+<main>
 {sections_html}
-</div>
+</main>
 <footer>由 web3-news-agent 自动生成</footer>
 <script>
 if ('serviceWorker' in navigator) {{
