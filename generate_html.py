@@ -4,30 +4,26 @@ from datetime import datetime
 
 DATA_FILE = "news_data.json"
 OUTPUT_FILE = "index.html"
-PREVIEW_COUNT = 5  # 默认展示条数，超出部分折叠
+PREVIEW_COUNT = 5
 
 SOURCE_COLORS = {
-    "TheBlock":      ("#dbeafe", "#1d4ed8"),
-    "Cointelegraph": ("#fef3c7", "#b45309"),
-    "CoinDesk":      ("#d1fae5", "#065f46"),
-    "BlockBeats":    ("#ede9fe", "#6d28d9"),
-    "吴说区块链":    ("#fce7f3", "#9d174d"),
-    "PANews":        ("#ccfbf1", "#0f766e"),
+    "TheBlock":      "#1d4ed8",
+    "Cointelegraph": "#b45309",
+    "CoinDesk":      "#065f46",
+    "BlockBeats":    "#6d28d9",
+    "吴说区块链":    "#9d174d",
+    "PANews":        "#0f766e",
 }
-DEFAULT_COLOR = ("#f1f5f9", "#475569")
+DEFAULT_FG = "#57534e"
 
 SECTIONS = [
-    ("flash",    "⚡ 快讯速报", None,                                                "#3b82f6", "#eff6ff"),
-    ("market",   "📈 市场行情", ["BTC","ETH","价格","涨","跌","新高","美元"],         "#10b981", "#f0fdf4"),
-    ("policy",   "🏛️ 监管政策", ["SEC","监管","合规","政府","立法","禁止","央行"],     "#8b5cf6", "#f5f3ff"),
-    ("tech",     "🔧 项目技术", ["DeFi","Layer2","以太坊","公链","协议","升级","空投"],"#f59e0b", "#fffbeb"),
-    ("finance",  "💰 融资机构", ["融资","投资","收购","基金","VC","上市","亿美元"],    "#14b8a6", "#f0fdfa"),
-    ("security", "🚨 安全事件", ["hack","黑客","攻击","漏洞","跑路","被盗","exploit"],"#ef4444", "#fff1f2"),
+    ("flash",    "⚡ 快讯速报", None,                                                False),
+    ("market",   "📈 市场行情", ["BTC","ETH","价格","涨","跌","新高","美元"],         False),
+    ("policy",   "🏛 监管政策", ["SEC","监管","合规","政府","立法","禁止","央行"],     False),
+    ("tech",     "🔧 项目技术", ["DeFi","Layer2","以太坊","公链","协议","升级","空投"],False),
+    ("finance",  "💰 融资机构", ["融资","投资","收购","基金","VC","上市","亿美元"],    False),
+    ("security", "🚨 安全事件", ["hack","黑客","攻击","漏洞","跑路","被盗","exploit"],True),
 ]
-
-def source_style(name):
-    bg, fg = SOURCE_COLORS.get(name, DEFAULT_COLOR)
-    return f'background:{bg};color:{fg}'
 
 def load_news(filepath):
     with open(filepath, "r", encoding="utf-8") as f:
@@ -39,62 +35,70 @@ def matches(item, keywords):
 
 def classify(news_list):
     result = {}
-    for sid, _, keywords, _, _ in SECTIONS:
+    for sid, _, keywords, _ in SECTIONS:
         result[sid] = list(news_list) if keywords is None else [i for i in news_list if matches(i, keywords)]
     return result
 
-def render_card(item, alert=False):
+def render_item(item, is_security=False):
     zh   = item.get("title_zh", "")
     en   = item["标题"]
     link = item["链接"]
-    if zh:
-        title_block = f'<a class="title" href="{link}" target="_blank" rel="noopener">{zh}</a>'
-        orig_block  = (f'<details class="orig"><summary>英文原标题</summary>'
-                       f'<p class="orig-text">{en}</p></details>')
-    else:
-        title_block = f'<a class="title" href="{link}" target="_blank" rel="noopener">{en}</a>'
-        orig_block  = ""
-    card_class = 'card card-alert' if alert else 'card'
-    return (f'<article class="{card_class}">'
-            f'<div class="meta">'
-            f'<span class="source" style="{source_style(item["来源"])}">{item["来源"]}</span>'
-            f'<span class="time">{item["时间"]}</span>'
-            f'</div>{title_block}{orig_block}</article>')
+    src  = item["来源"]
+    t    = item["时间"]
+    color = SOURCE_COLORS.get(src, DEFAULT_FG)
 
-def render_section(sid, label, items, accent, bg):
+    if zh:
+        title_html = f'<a class="news-title" href="{link}" target="_blank" rel="noopener">{zh}</a>'
+        orig_html  = (f'<details class="orig"><summary>英文原标题</summary>'
+                      f'<p class="orig-text">{en}</p></details>')
+    else:
+        title_html = f'<a class="news-title" href="{link}" target="_blank" rel="noopener">{en}</a>'
+        orig_html  = ""
+
+    alert_cls = " item-alert" if is_security else ""
+    return (f'<div class="news-item{alert_cls}">'
+            f'<div class="news-meta">'
+            f'<span class="src-tag" style="color:{color}">{src.upper()}</span>'
+            f'<span class="news-time">{t}</span>'
+            f'</div>'
+            f'{title_html}{orig_html}'
+            f'</div>')
+
+def render_section(sid, label, items, is_security):
     count = len(items)
-    is_security = sid == "security"
+    sec_cls = " sec-danger" if is_security else ""
 
     if not items:
         body = '<p class="empty">暂无相关新闻</p>'
     elif count <= PREVIEW_COUNT:
-        body = "\n".join(render_card(i, is_security) for i in items)
+        body = "".join(render_item(i, is_security) for i in items)
     else:
-        preview = "\n".join(render_card(i, is_security) for i in items[:PREVIEW_COUNT])
-        rest    = "\n".join(render_card(i, is_security) for i in items[PREVIEW_COUNT:])
+        preview = "".join(render_item(i, is_security) for i in items[:PREVIEW_COUNT])
+        rest    = "".join(render_item(i, is_security) for i in items[PREVIEW_COUNT:])
         body = (f'{preview}'
                 f'<details class="more-block">'
-                f'<summary class="more-btn">展开更多 {count - PREVIEW_COUNT} 条</summary>'
+                f'<summary class="more-btn">展开更多 {count - PREVIEW_COUNT} 条 ▾</summary>'
                 f'<div class="more-inner">{rest}</div>'
                 f'</details>')
 
-    return (f'<section id="{sid}" style="border-top:4px solid {accent};background:{bg}">'
-            f'<h2 class="sec-title" style="color:{accent}">'
-            f'{label} <span class="sec-count">{count}</span></h2>'
+    return (f'<section id="{sid}" class="news-section{sec_cls}">'
+            f'<h2 class="sec-head">{label}'
+            f'<span class="sec-count">{count} 条</span></h2>'
             f'{body}'
             f'</section>')
 
 def render_html(news_list):
     updated = datetime.now().strftime("%Y-%m-%d %H:%M")
+    date_str = datetime.now().strftime("%Y年%m月%d日")
     classified = classify(news_list)
 
     nav_items = "".join(
-        f'<a class="nav-item" href="#{sid}" style="--a:{accent}">{label}</a>'
-        for sid, label, _, accent, _ in SECTIONS
+        f'<a class="nav-link" href="#{sid}">{label}</a>'
+        for sid, label, _, _ in SECTIONS
     )
-    sections_html = "\n".join(
-        render_section(sid, label, classified[sid], accent, bg)
-        for sid, label, _, accent, bg in SECTIONS
+    sections_html = "".join(
+        render_section(sid, label, classified[sid], danger)
+        for sid, label, _, danger in SECTIONS
     )
 
     return f"""<!DOCTYPE html>
@@ -102,99 +106,178 @@ def render_html(news_list):
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Web3 News</title>
+<title>Web3 日报</title>
 <link rel="manifest" href="manifest.json">
-<meta name="theme-color" content="#0f172a">
+<meta name="theme-color" content="#fffdf7">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="W3 新闻">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Web3日报">
 <link rel="apple-touch-icon" href="icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet">
 <style>
 *,*::before,*::after{{box-sizing:border-box;margin:0;padding:0}}
-body{{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB",sans-serif;
-  background:#f0f2f5;color:#1a1a2e;min-height:100vh;font-size:15px;
-  -webkit-text-size-adjust:100%;text-size-adjust:100%}}
-header{{background:#0f172a;color:#e2e8f0;padding:1.5rem 1.5rem .75rem}}
-header h1{{font-size:1.5rem;font-weight:700;letter-spacing:.02em}}
-header p{{margin-top:.4rem;font-size:.875rem;color:#94a3b8}}
-nav{{position:sticky;top:0;z-index:100;background:#0f172a;
-  border-top:1px solid #1e293b;padding:.5rem 1rem;
-  display:flex;gap:.5rem;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none}}
+body{{
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB",sans-serif;
+  background:#fffdf7;color:#1c1917;min-height:100vh;font-size:16px;
+  -webkit-text-size-adjust:100%;text-size-adjust:100%
+}}
+
+/* ── 报头 ── */
+.masthead-wrap{{
+  max-width:780px;margin:0 auto;padding:2rem 1.5rem 0;text-align:center
+}}
+.masthead{{
+  font-family:"Playfair Display",Georgia,serif;
+  font-size:3rem;font-weight:900;letter-spacing:.04em;color:#1c1917;
+  line-height:1
+}}
+.masthead-sub{{
+  font-family:Georgia,serif;font-size:.8rem;
+  color:#57534e;letter-spacing:.15em;text-transform:uppercase;
+  margin-top:.5rem
+}}
+.masthead-meta{{
+  display:flex;justify-content:space-between;align-items:center;
+  font-size:.78rem;color:#57534e;margin-top:.75rem;padding:.5rem 0;
+  border-top:3px solid #1c1917;border-bottom:1px solid #1c1917
+}}
+
+/* ── 导航 ── */
+nav{{
+  position:sticky;top:0;z-index:100;background:#fffdf7;
+  border-bottom:2px solid #1c1917;
+  padding:0 1.5rem;overflow-x:auto;-webkit-overflow-scrolling:touch;
+  scrollbar-width:none
+}}
 nav::-webkit-scrollbar{{display:none}}
-.nav-item{{flex-shrink:0;font-size:.78rem;font-weight:600;color:#94a3b8;
-  text-decoration:none;padding:.4rem .75rem;border-radius:99px;
-  white-space:nowrap;transition:background .15s,color .15s}}
-.nav-item:hover,.nav-item:active{{background:#1e293b;color:var(--a,#e2e8f0)}}
-.grid{{display:grid;grid-template-columns:repeat(6,1fr);gap:1rem;
-  max-width:1600px;margin:1.25rem auto;padding:0 1rem;align-items:start}}
-section{{border-radius:14px;padding:1.1rem 1.1rem}}
-.sec-title{{font-size:1rem;font-weight:700;margin-bottom:.9rem;
-  padding-bottom:.5rem;border-bottom:1px solid rgba(0,0,0,.07);
-  display:flex;align-items:center;gap:.4rem}}
-.sec-count{{font-size:.7rem;font-weight:600;background:rgba(0,0,0,.08);
-  color:inherit;padding:.15rem .45rem;border-radius:99px}}
-.empty{{font-size:.85rem;color:#94a3b8;padding:.5rem 0}}
-.card{{background:#fff;border-radius:10px;padding:.85rem .95rem;
-  margin-bottom:.7rem;box-shadow:0 1px 3px rgba(0,0,0,.07);
-  transition:box-shadow .2s;-webkit-tap-highlight-color:transparent}}
-.card:hover{{box-shadow:0 4px 14px rgba(0,0,0,.11)}}
-.card-alert{{border-left:3px solid #ef4444;background:#fff8f8}}
-.card-alert:hover{{box-shadow:0 4px 14px rgba(239,68,68,.12)}}
-.meta{{display:flex;gap:.35rem;align-items:center;margin-bottom:.5rem;flex-wrap:wrap}}
-.source{{font-size:.67rem;font-weight:700;padding:.18rem .5rem;
-  border-radius:99px;white-space:nowrap}}
-.time{{font-size:.72rem;color:#94a3b8}}
-.title{{font-size:.92rem;font-weight:600;color:#1e293b;text-decoration:none;
-  line-height:1.65;display:block;word-break:break-all}}
-.title:hover{{color:#2563eb}}
-.orig{{margin-top:.55rem;border-top:1px solid #f1f5f9;padding-top:.5rem}}
-.orig summary{{font-size:.75rem;color:#64748b;cursor:pointer;user-select:none;
-  list-style:none;display:flex;align-items:center;gap:.3rem;
-  padding:.2rem 0;min-height:2rem}}
+.nav-inner{{
+  max-width:780px;margin:0 auto;
+  display:flex;gap:0
+}}
+.nav-link{{
+  flex-shrink:0;font-size:.78rem;font-weight:700;color:#57534e;
+  text-decoration:none;padding:.65rem .9rem;letter-spacing:.02em;
+  border-bottom:3px solid transparent;margin-bottom:-2px;
+  white-space:nowrap;transition:color .15s,border-color .15s
+}}
+.nav-link:hover{{color:#1c1917;border-bottom-color:#1c1917}}
+
+/* ── 主内容 ── */
+main{{max-width:780px;margin:1.5rem auto 0;padding:0 1.5rem}}
+
+/* ── 版块 ── */
+.news-section{{margin-bottom:2.5rem}}
+.sec-danger .sec-head{{color:#b91c1c;border-bottom-color:#b91c1c}}
+.sec-head{{
+  font-family:"Playfair Display",Georgia,serif;
+  font-size:1.35rem;font-weight:700;color:#1c1917;
+  padding-bottom:.5rem;margin-bottom:0;
+  border-bottom:2px solid #1c1917;
+  display:flex;align-items:baseline;gap:.5rem
+}}
+.sec-count{{
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  font-size:.72rem;font-weight:400;color:#57534e;letter-spacing:.02em
+}}
+
+/* ── 新闻条目 ── */
+.news-item{{
+  padding:.85rem 0;
+  border-bottom:1px solid #e8e0d0
+}}
+.news-item:last-of-type{{border-bottom:none}}
+.item-alert{{
+  border-left:3px solid #b91c1c;
+  padding-left:.85rem;
+  margin-left:-.85rem
+}}
+.news-meta{{
+  display:flex;align-items:center;gap:.6rem;margin-bottom:.4rem
+}}
+.src-tag{{
+  font-size:.65rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;
+  white-space:nowrap
+}}
+.news-time{{font-size:.72rem;color:#57534e}}
+.news-title{{
+  font-family:Georgia,"Times New Roman",serif;
+  font-size:1.05rem;font-weight:700;color:#1c1917;
+  text-decoration:none;line-height:1.65;display:block;word-break:break-word
+}}
+.news-title:hover{{color:#b45309;text-decoration:underline;text-underline-offset:3px}}
+
+/* ── 英文原标题 ── */
+.orig{{margin-top:.5rem}}
+.orig summary{{
+  font-size:.75rem;color:#57534e;cursor:pointer;user-select:none;
+  list-style:none;display:inline-flex;align-items:center;gap:.3rem;
+  padding:.2rem 0
+}}
 .orig summary::marker,.orig summary::-webkit-details-marker{{display:none}}
-.orig summary::after{{content:"▾";font-size:.68rem;transition:transform .2s}}
+.orig summary::after{{content:"▾";font-size:.65rem;transition:transform .2s}}
 .orig[open] summary::after{{transform:rotate(-180deg)}}
-.orig-text{{margin-top:.35rem;font-size:.82rem;color:#64748b;
-  line-height:1.55;word-break:break-word}}
-.more-block{{margin-top:.7rem}}
+.orig-text{{
+  margin-top:.35rem;font-size:.82rem;color:#57534e;
+  font-style:italic;line-height:1.55;word-break:break-word
+}}
+
+/* ── 展开更多 ── */
+.more-block{{border-top:1px dashed #e8e0d0;margin-top:.1rem}}
 .more-block summary::marker,.more-block summary::-webkit-details-marker{{display:none}}
-.more-btn{{font-size:.78rem;font-weight:600;color:#64748b;cursor:pointer;
-  user-select:none;list-style:none;display:inline-flex;align-items:center;gap:.3rem;
-  padding:.4rem .8rem;border-radius:99px;background:rgba(0,0,0,.06);
-  transition:background .15s;-webkit-tap-highlight-color:transparent}}
-.more-btn:hover{{background:rgba(0,0,0,.1)}}
-.more-block summary::after{{content:"▾";font-size:.68rem;transition:transform .2s;margin-left:.2rem}}
-.more-block[open] summary::after{{transform:rotate(-180deg)}}
-.more-inner{{margin-top:.7rem}}
-footer{{text-align:center;padding:2rem 1rem;font-size:.8rem;color:#94a3b8;line-height:1.6}}
-@media(max-width:1200px){{
-  .grid{{grid-template-columns:repeat(3,1fr)}}
+.more-btn{{
+  font-size:.78rem;font-weight:600;color:#57534e;cursor:pointer;
+  user-select:none;list-style:none;display:inline-flex;align-items:center;
+  padding:.6rem 0;letter-spacing:.02em;transition:color .15s;
+  -webkit-tap-highlight-color:transparent
 }}
-@media(max-width:768px){{
-  .grid{{grid-template-columns:repeat(2,1fr)}}
+.more-btn:hover{{color:#1c1917}}
+.empty{{font-size:.875rem;color:#57534e;padding:.75rem 0;font-style:italic}}
+
+/* ── 页脚 ── */
+footer{{
+  max-width:780px;margin:0 auto;
+  padding:1.5rem 1.5rem 2.5rem;
+  border-top:2px solid #1c1917;
+  display:flex;flex-direction:column;gap:.3rem
 }}
+.footer-main{{font-size:.8rem;color:#57534e;font-style:italic}}
+.footer-sub{{font-size:.72rem;color:#a8a29e}}
+
+/* ── 手机端 ── */
 @media(max-width:600px){{
-  header{{padding:1.1rem 1rem .6rem}}
-  header h1{{font-size:1.3rem}}
-  .grid{{grid-template-columns:1fr;padding:0 .75rem;gap:.9rem;margin-top:1rem}}
-  section{{padding:.9rem .9rem}}
-  .card{{padding:.75rem .8rem}}
-  .title{{font-size:.9rem}}
+  .masthead{{font-size:2.2rem}}
+  .masthead-wrap{{padding:1.5rem 1rem 0}}
+  nav{{padding:0 1rem}}
+  main{{padding:0 1rem;margin-top:1.25rem}}
+  .news-title{{font-size:.98rem}}
+  .sec-head{{font-size:1.2rem}}
+  footer{{padding:1.25rem 1rem 2rem}}
 }}
 </style>
 </head>
 <body>
-<header>
-  <h1>⚡ Web3 News</h1>
-  <p>共 {len(news_list)} 条 · 更新于 {updated}</p>
-</header>
-<nav>
-{nav_items}
-</nav>
-<div class="grid">
-{sections_html}
+<div class="masthead-wrap">
+  <p class="masthead-sub">数字资产 · 区块链 · 加密货币</p>
+  <h1 class="masthead">Web3 日报</h1>
+  <div class="masthead-meta">
+    <span>{date_str}</span>
+    <span>共 {len(news_list)} 条 · 更新于 {updated}</span>
+  </div>
 </div>
-<footer>由 web3-news-agent 自动生成</footer>
+<nav>
+  <div class="nav-inner">
+    {nav_items}
+  </div>
+</nav>
+<main>
+{sections_html}
+</main>
+<footer>
+  <span class="footer-main">由 web3-news-agent 自动生成</span>
+  <span class="footer-sub">每 30 分钟自动更新 · 数据来源：TheBlock / Cointelegraph / CoinDesk / BlockBeats / 吴说区块链 / PANews</span>
+</footer>
 <script>
 if ('serviceWorker' in navigator) {{
   navigator.serviceWorker.register('./sw.js');
