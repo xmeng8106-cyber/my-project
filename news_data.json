@@ -1,6 +1,188 @@
 [
   {
     "来源": "TheBlock",
+    "标题": "Gemini crypto exchange launches AI data feed powered by Grok",
+    "链接": "https://www.theblock.co/post/402961/gemini-crypto-exchange-launches-ai-data-feed-powered-grok?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-28 20:40",
+    "title_zh": "Gemini 加密货币交易所推出由 Grok 提供支持的 AI 数据源"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "CryptoQuant says bitcoin whale and dolphin accumulation stalled as demand remains weak",
+    "链接": "https://www.theblock.co/post/402954/cryptoquant-bitcoin-whale-dolphin-accumulation-stalled-demand-weak?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-28 20:03",
+    "title_zh": "CryptoQuant表示，由于需求依然疲弱，比特币鲸鱼和海豚的积累陷入停滞"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "The Digital Chamber ramps up pressure on Congress with call to action to pass Clarity Act",
+    "链接": "https://www.theblock.co/post/402948/the-digital-chamber-ramps-up-pressure-on-congress-with-call-to-action-to-pass-clarity-act?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-28 19:35",
+    "title_zh": "数字商会加大对国会的压力，呼吁采取行动通过《清晰度法案》"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Kalshi’s turn: Prediction markets platform sues Minnesota over law going into effect in August",
+    "链接": "https://www.theblock.co/post/402937/kalshis-prediction-markets-sues-minnesota-law-ban?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-28 17:55",
+    "title_zh": "卡尔希轮到了：预测市场平台就明尼苏达州八月份生效的法律提起诉讼"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Tether’s USAT supply grows 540% month-over-month, latest attestation shows",
+    "链接": "https://www.theblock.co/post/402933/tethers-usat-supply-grows-540-month-over-month-latest-attestation-shows?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-28 17:38",
+    "title_zh": "最新证明显示，Tether 的 USAT 供应量环比增长 540%"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Hyperliquid-based prop trading platform Hypernova raises $3 million in pre-seed funding",
+    "链接": "https://www.theblock.co/post/402923/hyperliquid-prop-trading-platform-hypernova-crypto-funding?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-28 17:30",
+    "title_zh": "基于 Hyperliquid 的道具交易平台 Hypernova 筹集了 300 万美元的种子前资金"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Trezor adds native USDt, USDC yield via Morpho integration",
+    "链接": "https://cointelegraph.com/news/trezor-usdc-usdt-yield-morpho-trezor-suite?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-28 17:28",
+    "title_zh": "Trezor 通过 Morpho 集成增加了原生 USDt、USDC 收益"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "French company abandons crypto treasury strategy, will liquidate Bitcoin holdings",
+    "链接": "https://cointelegraph.com/news/sequans-crypto-treasury-strategy-liquidate-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-28 17:22",
+    "title_zh": "法国公司放弃加密货币战略，将清算比特币持有量"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "P2P.org launches real-time data stream for Sui and Hyperliquid",
+    "链接": "https://cointelegraph.com/press-releases/p2porg-launches-real-time-data-stream-for-sui-and-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-28 16:57",
+    "title_zh": "P2P.org 推出 Sui 和 Hyperliquid 实时数据流"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Grayscale’s Hyperliquid ETF negotiating ‘seed’ investment of roughly $115 million in HYPE tokens",
+    "链接": "https://www.theblock.co/post/402903/grayscale-hyperliquid-etf-negotiating-seed-investment-115-million-hype-tokens?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-28 16:22",
+    "title_zh": "Grayscale 的 Hyperliquid ETF 正在洽谈约 1.15 亿美元的 HYPE 代币“种子”投资"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Sui blockchain experiences second ‘stall’ in five months",
+    "链接": "https://www.theblock.co/post/402907/sui-blockchain-experiences-second-stall-in-five-months?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-28 15:43",
+    "title_zh": "Sui区块链经历五个月内第二次“停滞”"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "VanEck’s tokenized VBILL US Treasury fund can now be used as collateral on Euler",
+    "链接": "https://www.theblock.co/post/402904/vaneck-tokenized-vbill-us-treasury-fund-collateral-euler?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-28 15:37",
+    "title_zh": "VanEck 的代币化 VBILL 美国国债基金现可用作 Euler 的抵押品"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Argentina bill targets crypto payments to illegal gambling sites",
+    "链接": "https://cointelegraph.com/news/argentina-bill-crypto-payments-illegal-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-28 15:05",
+    "title_zh": "阿根廷法案针对非法赌博网站进行加密支付"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Sequans completes bitcoin treasury unwind, refocuses on IoT semiconductors",
+    "链接": "https://www.theblock.co/post/402883/sequans-completes-bitcoin-treasury-unwind-refocuses-iot-semiconductors?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-28 14:48",
+    "title_zh": "Sequans 完成比特币金库剥离，重新专注于物联网半导体"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "ERC-7943 author says institutions can’t play DeFi’s ‘pirate game’",
+    "链接": "https://cointelegraph.com/features/erc-7943-author-institutions-defi-pirate-game?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-28 14:45",
+    "title_zh": "ERC-7943作者表示机构不能玩 DeFi 的“海盗游戏”"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "StanChart says Ethereum price will catch up to bullish internal metrics",
+    "链接": "https://cointelegraph.com/news/standard-chartered-says-ethereums-onchain-metrics-are-improving-eth-price-underperforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-28 14:26",
+    "title_zh": "渣打银行表示以太坊价格将赶上看涨的内部指标"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "JPMorgan says bitcoin and gold ETF outflows point to ‘cooling’ debasement trade amid hopes for Iran-US deal",
+    "链接": "https://www.theblock.co/post/402888/jpmorgan-bitcoin-gold-etf-outflows-cooling-debasement-trade-hopes-iran-us-deal?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-28 14:14",
+    "title_zh": "摩根大通表示，在伊朗与美国达成协议的希望之际，比特币和黄金 ETF 资金流出表明贬值贸易“降温”"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin bids farewell to CME futures gaps with $67K still on the radar",
+    "链接": "https://cointelegraph.com/markets/bitcoin-bids-farewell-to-cme-gaps-with-67k-still-on-the-radar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-28 13:52",
+    "title_zh": "比特币告别 CME 期货缺口，仍关注 6.7 万美元"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "XRP drops to 16-week lows: Can price fall below $1?",
+    "链接": "https://cointelegraph.com/markets/xrp-drops-to-a-16-week-lows-can-price-fall-below-1-dollar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-28 13:40",
+    "title_zh": "XRP 跌至 16 周低点：价格能否跌破 1 美元？"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Aave Labs’ Push gains UK FCA crypto registration",
+    "链接": "https://cointelegraph.com/news/aave-labs-push-gains-uk-fca-crypto-registration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-28 13:28",
+    "title_zh": "Aave Labs 的 Push 获得英国 FCA 加密货币注册"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "VanEck debuts first US spot BNB ETF in latest crypto investment product expansion",
+    "链接": "https://www.theblock.co/post/402874/vaneck-debuts-first-us-spot-bnb-etf-latest-crypto-investment-product-expansion?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-28 13:23",
+    "title_zh": "VanEck 在最新的加密投资产品扩展中首次推出美国现货 BNB ETF"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Samsung units take $408M stake in Upbit operator Dunamu: Report",
+    "链接": "https://cointelegraph.com/news/samsung-dunamu-stake-upbit-digital-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-28 12:50",
+    "title_zh": "三星旗下子公司收购 Upbit 运营商 Dunamu 价值 4.08 亿美元的股份：报告"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Ethereum under $2K: ETH whales sell as retail remains bullish",
+    "链接": "https://cointelegraph.com/markets/ethereum-under-2k-eth-whales-sell-as-retail-remains-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-28 12:49",
+    "title_zh": "以太坊跌破 2000 美元：ETH 鲸鱼抛售，零售仍看涨"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "BlackRock Bitcoin ETF sees near-record outflows as BTC dips below $75K",
+    "链接": "https://cointelegraph.com/news/blackrocks-bitcoin-etf-ibit-near-record-outflows-btc-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-28 12:22",
+    "title_zh": "随着 BTC 跌破 7.5 万美元，贝莱德比特币 ETF 资金流出接近创纪录水平"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Mystery Bitcoin burn destroys 107 BTC worth about $8.5M",
+    "链接": "https://cointelegraph.com/news/unknown-sender-burns-107-btc-unexplained-bitcoin-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-28 12:09",
+    "title_zh": "神秘的比特币销毁销毁了价值约 850 万美元的 107 个 BTC"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "BNB joins US spot ETF market through VanEck’s VBNB launch",
+    "链接": "https://cointelegraph.com/news/bnb-enters-us-spot-etf-market-through-vanecks-vbnb-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-28 07:00",
+    "title_zh": "通过 VanEck 推出 VBNB，BNB 加入美国现货 ETF 市场"
+  },
+  {
+    "来源": "TheBlock",
     "标题": "Standard Chartered compares Ethereum to Amazon during 2001 dot-com bubble burst, says ETH will catch up to internal metrics",
     "链接": "https://www.theblock.co/post/402864/standard-chartered-ethereum-amazon-dot-com-bubble-eth-will-catch-up?utm_source=rss&utm_medium=rss",
     "时间": "2026-05-28 12:27",
