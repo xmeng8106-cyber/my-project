@@ -1,5 +1,124 @@
 [
   {
+    "来源": "Cointelegraph",
+    "标题": "Sui network temporarily stalls again after Thursday's outage",
+    "链接": "https://cointelegraph.com/news/sui-temporary-stall-several-hours-second-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-29 18:46",
+    "title_zh": "周四停电后，隋网络再次暂时瘫痪"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Coinbase brings global crypto derivatives markets to US institutional clients",
+    "链接": "https://cointelegraph.com/news/coinbase-regulated-access-global-crypto-perpetual-futures-options-us-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-29 17:56",
+    "title_zh": "Coinbase 为美国机构客户带来全球加密货币衍生品市场"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "JPMorgan CEO Jamie Dimon blasts Coinbase’s Brian Armstrong, plans to fight Clarity Act",
+    "链接": "https://www.theblock.co/post/403049/jpmorgan-ceo-jamie-dimon-blasts-coinbases-brian-armstrong-plans-fight-clarity-act?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-29 17:52",
+    "title_zh": "摩根大通首席执行官杰米·戴蒙 (Jamie Dimon) 抨击 Coinbase 的布莱恩·阿姆斯特朗 (Brian Armstrong)，计划反对《澄清法案》"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin plums new six-week lows as analyst eyes BTC price dip 'end' at $72K",
+    "链接": "https://cointelegraph.com/markets/bitcoin-plums-new-six-week-lows-as-analyst-eyes-btc-price-dip-end-at-72k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-29 17:03",
+    "title_zh": "分析师预计比特币价格跌至 7.2 万美元，比特币跌至六周新低"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Ex-Celsius CEO files motion to vacate sentence after lawyers withdraw",
+    "链接": "https://cointelegraph.com/news/celsius-alex-mashinsky-motion-vacate-sentence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-29 16:58",
+    "title_zh": "律师撤诉后，Celsius 前首席执行官提出撤销判决的动议"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Ethereum analysts say ‘downside pressure’ remains as $1.8K becomes key",
+    "链接": "https://cointelegraph.com/markets/analysts-say-ethereums-downside-pressure-remains-as-18k-becomes-key?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-29 15:50",
+    "title_zh": "以太坊分析师称“下行压力”依然存在，1800 美元成为关键"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Texas appoints CleanSpark exec, bitcoin miner CEO to Strategic Bitcoin Reserve committee",
+    "链接": "https://www.theblock.co/post/403026/texas-cleanspark-exec-bitcoin-miner-ceo-strategic-bitcoin-reserve-committee?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-29 15:11",
+    "title_zh": "德克萨斯州任命 CleanSpark 执行官、比特币矿商首席执行官为比特币战略储备委员会成员"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "CFTC opens door for crypto perpetual future contracts in US as Coinbase, Kalshi move forward",
+    "链接": "https://www.theblock.co/post/403040/cftc-opens-door-for-crypto-perpetual-future-contracts-in-us-as-coinbase-kalshi-move-forward?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-29 14:45",
+    "title_zh": "随着 Coinbase、Kalshi 的推进，CFTC 在美国开启了加密货币永续合约的大门"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Sui blockchain suffers more downtime following Thursday’s six-hour outage",
+    "链接": "https://www.theblock.co/post/403028/sui-blockchain-suffers-more-downtime-following-thursdays-six-hour-outage?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-29 14:20",
+    "title_zh": "在周四的六小时中断之后，Sui 区块链遭受了更多的停机时间"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin ETFs bleed $2.8B in record nine-day outflow streak",
+    "链接": "https://cointelegraph.com/news/bitcoin-etfs-longest-outflow-streak-institutional-demand-cools?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-29 14:20",
+    "title_zh": "比特币 ETF 连续 9 天流出创纪录亏损 $2.8B"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Wintermute extends trading infrastructure into prediction markets",
+    "链接": "https://www.theblock.co/post/403029/wintermute-extends-trading-infrastructure-into-prediction-markets?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-29 14:07",
+    "title_zh": "Wintermute 将交易基础设施扩展到预测市场"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Why is Stellar's XLM up by over 50% this week?",
+    "链接": "https://cointelegraph.com/markets/why-is-stellars-xlm-up-by-over-50-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-29 13:34",
+    "title_zh": "为什么Stellar的XLM本周涨幅超过50%？"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "NYSE parent ICE pushes ‘level playing field’ for 24/7 onchain perps",
+    "链接": "https://cointelegraph.com/news/nyse-ice-level-playing-field-247-onchain-perps-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-29 13:25",
+    "title_zh": "纽约证券交易所母公司 ICE 为 24/7 的链上员工提供“公平竞争环境”"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin falls out of the global top 10 assets as market cap dips below $1.5T",
+    "链接": "https://cointelegraph.com/markets/bitcoin-falls-out-of-the-global-top-10-assets-as-its-market-cap-dips-below-15t?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-29 12:09",
+    "title_zh": "比特币市值跌破 1.5T 美元，跌出全球十大资产行列"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Strategy situation ‘out of hand,’ says Arca exec on $15B preferred stock burden",
+    "链接": "https://cointelegraph.com/news/strategy-situation-out-of-hand-says-arca-cio-15-billion-prefs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-29 12:05",
+    "title_zh": "Arca 高管就 $15B 优先股负担表示，战略形势“失控”"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Texas Bitcoin reserve plans shift from ETF to direct BTC custody",
+    "链接": "https://cointelegraph.com/news/texas-plans-shift-bitcoin-reserve-from-etf-to-direct-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-29 11:39",
+    "title_zh": "德克萨斯州比特币储备计划从 ETF 转向直接 BTC 托管"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "DxSale drained for $7.3M in BNB Chain liquidity exploit",
+    "链接": "https://cointelegraph.com/news/memecoin-platform-dxsale-drained-73m-1400-lps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-29 10:42",
+    "title_zh": "DxSale 因 BNB 链流动性漏洞而损失 730 万美元"
+  },
+  {
     "来源": "TheBlock",
     "标题": "Aave Labs secures dual UK licenses for regulated crypto payments infrastructure through local subsidiary",
     "链接": "https://www.theblock.co/post/403014/aave-labs-secures-dual-uk-licenses-for-regulated-crypto-payments-infrastructure-through-local-subsidiary?utm_source=rss&utm_medium=rss",
