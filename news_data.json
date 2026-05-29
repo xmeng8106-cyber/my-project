@@ -1,6 +1,167 @@
 [
   {
     "来源": "TheBlock",
+    "标题": "Aave Labs secures dual UK licenses for regulated crypto payments infrastructure through local subsidiary",
+    "链接": "https://www.theblock.co/post/403014/aave-labs-secures-dual-uk-licenses-for-regulated-crypto-payments-infrastructure-through-local-subsidiary?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-29 10:18",
+    "title_zh": "Aave Labs 通过当地子公司获得英国受监管加密支付基础设施的双重许可证"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Base launches Azul on mainnet, pushing Coinbase’s Ethereum L2 toward full decentralization",
+    "链接": "https://www.theblock.co/post/403003/base-launches-azul-on-mainnet-pushing-coinbases-ethereum-l2-toward-full-decentralization?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-29 09:31",
+    "title_zh": "Base 在主网上推出 Azul，推动 Coinbase 的以太坊 L2 走向完全去中心化"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Ventuals to compensate traders after pre-IPO SpaceX perps plunge 45% on Hyperliquid",
+    "链接": "https://www.theblock.co/post/402991/ventuals-to-compensate-traders-after-pre-ipo-spacex-perps-plunge-45-on-hyperliquid?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-29 09:12",
+    "title_zh": "SpaceX 上市前因 Hyperliquid 股价暴跌 45%，风险投资公司对交易员进行补偿"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "‘First and only’: Paxos secures SEC registration as clearing and settlement agency",
+    "链接": "https://www.theblock.co/post/402994/paxos-sec-registration?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-29 08:51",
+    "title_zh": "“第一个也是唯一一个”：Paxos 作为清算和结算机构获得 SEC 注册"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "OKX Ventures, Korea Investment & Securities to buy 19.6% Coinone stake for $106M",
+    "链接": "https://cointelegraph.com/news/okx-ventures-korea-investment-securities-buy-196-stake-in-coinone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-29 08:31",
+    "title_zh": "OKX Ventures 和韩国投资证券公司将以 1.06 亿美元收购 Coinone 19.6% 的股份"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "NYSE parent ICE held multiple talks with Hyperliquid to evaluate onchain perps market, CEO says",
+    "链接": "https://www.theblock.co/post/402975/ice-ceo-hyperliquid?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-29 06:27",
+    "title_zh": "首席执行官表示，纽约证券交易所母公司 ICE 与 Hyperliquid 进行了多次会谈，以评估链上永续市场"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "OKX confirms $53 million investment to acquire 20% stake in Coinone crypto exchange",
+    "链接": "https://www.theblock.co/post/402969/okx-confirms-53-million-coinone?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-29 06:00",
+    "title_zh": "OKX确认投资5300万美元收购Coinone加密货币交易所20%的股份"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "SEC approves Paxos as ‘blockchain-native’ clearing agency",
+    "链接": "https://cointelegraph.com/news/paxos-becomes-first-crypto-firm-to-win-sec-clearing-agency-registration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-29 05:37",
+    "title_zh": "SEC 批准 Paxos 成为“区块链原生”清算机构"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin’s major holders halt buys as demand slows: CryptoQuant",
+    "链接": "https://cointelegraph.com/news/bitcoin-hodling-structure-weakening-across-major-investor-cohorts-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-29 04:33",
+    "title_zh": "随着需求放缓，比特币的主要持有者停止购买：CryptoQuant"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Sui Network back online after ‘crash bug’ causes 6-hour outage",
+    "链接": "https://cointelegraph.com/news/sui-network-back-online-after-crash-bug-six-hour-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-29 04:08",
+    "title_zh": "Sui Network在“崩溃bug”导致6小时中断后恢复上线"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin’s trapped under $74K while $9B options expiry looms: Are bears back in control?",
+    "链接": "https://cointelegraph.com/markets/bitcoins-trapped-under-74k-while-9b-options-expiry-looms-are-bears-back-in-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-29 03:44",
+    "title_zh": "比特币跌破 7.4 万美元，而 90 亿美元期权即将到期：空头是否重新掌控局面？"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Treasury Secretary Scott Bessent reiterates ‘no CBDC’ commitment under Trump admin",
+    "链接": "https://www.theblock.co/post/402971/scott-bessent-reiterates-no-cbdc?utm_source=rss&utm_medium=rss",
+    "时间": "2026-05-29 02:53",
+    "title_zh": "财政部长 Scott Bessent 重申特朗普政府下“不使用 CBDC”的承诺"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Buy $72K dip, or jump ship: What will Bitcoin bulls do?",
+    "链接": "https://cointelegraph.com/markets/buy-the-72k-dip-or-jump-ship-what-will-bitcoin-bulls-do?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-29 01:10",
+    "title_zh": "逢低买入 7.2 万美元，或者跳槽：比特币多头会做什么？"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Gemini taps Grok for personalized AI-powered prediction market feeds",
+    "链接": "https://cointelegraph.com/news/gemini-taps-grok-personalized-ai-powered-prediction-market-feeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-29 00:59",
+    "title_zh": "Gemini 利用 Grok 提供基于人工智能的个性化预测市场信息"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Solana open interest drops 30% as altcoins slump: Is $68 SOL next?",
+    "链接": "https://cointelegraph.com/markets/solana-open-interest-drops-30-as-68-retest-comes-back-into-play?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-28 22:39",
+    "title_zh": "随着山寨币暴跌，Solana 未平仓合约下降 30%：下一个是 68 美元的 SOL 吗？"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Fidelity Digital Assets highlights 'growing evidence' of shift from dollar-based systems",
+    "链接": "https://cointelegraph.com/news/fidelity-digital-assets-shift-dollar-based-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-28 22:32",
+    "title_zh": "富达数字资产强调“越来越多的证据”表明美元体系的转变"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Prediction markets legal battles heat up in Minnesota, Rhode Island",
+    "链接": "https://cointelegraph.com/news/kalshi-cftc-lawsuit-minnesota-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-28 22:06",
+    "title_zh": "明尼苏达州和罗德岛州的预测市场法律战升温"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bit Digital buys $20M worth of Ethereum, expands treasury to 158K ETH",
+    "链接": "https://cointelegraph.com/news/bit-digital-buys-20m-worth-of-ethereum-expands-treasury-to-158k-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-28 21:32",
+    "title_zh": "Bit Digital 购买价值 2000 万美元的以太坊，将库存规模扩大至 158K ETH"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "SEC Commissioner Peirce defends crypto privacy tools against surveillance push",
+    "链接": "https://cointelegraph.com/news/sec-hester-peirce-defends-crypto-privacy-tools-surveillance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-28 20:49",
+    "title_zh": "美国证券交易委员会 (SEC) 专员皮尔斯 (Peirce) 捍卫加密隐私工具免受监视推动"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin enters cool-down phase under $75K as ‘active distribution’ rises",
+    "链接": "https://cointelegraph.com/markets/bitcoin-enters-cooling-off-phase-under-75k-with-active-distribution-on-the-rise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-28 20:42",
+    "title_zh": "随着“主动分配”的增加，比特币进入 7.5 万美元以下的冷却阶段"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Trump claims he can ‘future proof’ crypto regulation with CLARITY Act",
+    "链接": "https://cointelegraph.com/news/donald-trump-future-proof-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-28 20:35",
+    "title_zh": "特朗普声称他可以通过 CLARITY Act 来“面向未来”的加密货币监管"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "France's AMF regulator sets June 30 deadline for MiCA licensing",
+    "链接": "https://cointelegraph.com/news/france-amf-regulator-june-deadline-mica-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-28 20:19",
+    "title_zh": "法国 AMF 监管机构设定 MiCA 许可截止日期为 6 月 30 日"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin bids farewell to CME futures gaps with $67K still on radar",
+    "链接": "https://cointelegraph.com/markets/bitcoin-bids-farewell-to-cme-gaps-with-67k-still-on-the-radar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-28 13:52",
+    "title_zh": "比特币告别 CME 期货缺口，仍关注 6.7 万美元"
+  },
+  {
+    "来源": "TheBlock",
     "标题": "Gemini crypto exchange launches AI data feed powered by Grok",
     "链接": "https://www.theblock.co/post/402961/gemini-crypto-exchange-launches-ai-data-feed-powered-grok?utm_source=rss&utm_medium=rss",
     "时间": "2026-05-28 20:40",
