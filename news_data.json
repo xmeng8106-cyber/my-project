@@ -1,5 +1,257 @@
 [
   {
+    "来源": "Cointelegraph",
+    "标题": "Japan’s ruling party pushes crypto ETFs, yen-denominated stablecoins",
+    "链接": "https://cointelegraph.com/news/japans-ruling-party-crypto-etfs-yen-denominated-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-01 18:33",
+    "title_zh": "日本执政党推动加密货币 ETF 和以日元计价的稳定币"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "TON revives Gram token brand as Telegram CEO Durov says network is ‘returning to roots’",
+    "链接": "https://www.theblock.co/post/403231/ton-revives-gram-token-brand-telegram-ceo-durov-network-returning-roots?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-01 18:32",
+    "title_zh": "Telegram 首席执行官 Durov 表示网络“回归根源”，TON 重振 Gram 代币品牌"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Strategy's BTC sale turns Bitcoin treasury into market stress test",
+    "链接": "https://cointelegraph.com/news/strategy-bitcoin-sale-btc-treasury-company-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-01 18:20",
+    "title_zh": "Strategy的比特币销售将比特币金库变成市场压力测试"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Grayscale sets 0.29% fee for its Hyperliquid ETF, undercutting Bitwise and 21Shares",
+    "链接": "https://www.theblock.co/post/403234/grayscale-sets-0-29-fee-hyperliquid-etf-undercutting-bitwise-21shares?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-01 18:09",
+    "title_zh": "Grayscale为其Hyperliquid ETF设定0.29%的费用，低于Bitwise和21Shares"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Strategy bitcoin sale timing throws wrench into $20 million Polymarket pool",
+    "链接": "https://www.theblock.co/post/403213/strategy-bitcoin-sale-timing-throws-wrench-20-million-polymarket-pool?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-01 16:40",
+    "title_zh": "策略比特币销售时机对 2000 万美元的 Polymarket 池造成影响"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Are Ethereum OGs jumping ship? Here's what the data says",
+    "链接": "https://cointelegraph.com/markets/are-ethereum-ogs-jumping-ship-heres-what-the-data-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-01 15:44",
+    "title_zh": "以太坊 OG 正在跳槽吗？数据是这样说的"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Hyperliquid's HYPE breakout puts $100 price target in play",
+    "链接": "https://cointelegraph.com/markets/hyperliquids-hype-breakout-may-lead-price-to-100-record-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-01 14:42",
+    "title_zh": "Hyperliquid 的 HYPE 突破将目标价设定为 100 美元"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bitmine acquires 26,497 ETH as it targets a slower approach to 5% of Ethereum’s total supply",
+    "链接": "https://www.theblock.co/post/403203/bitmine-acquires-26497-eth-as-it-targets-a-slower-approach-to-5-of-ethereums-total-supply?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-01 14:29",
+    "title_zh": "Bitmine 收购了 26,497 ETH，目标是缓慢接近以太坊总供应量的 5%"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "IREN lands $3.65 billion A-rated financing for Microsoft AI buildout",
+    "链接": "https://www.theblock.co/post/403194/iren-lands-3-65-billion-a-rated-financing-microsoft-ai-buildout?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-01 14:25",
+    "title_zh": "IREN 为微软 AI 建设获得 36.5 亿美元 A 级融资"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Recovery hopes fade as Kelp DAO hacker launders nearly all $220M in stolen funds",
+    "链接": "https://cointelegraph.com/news/kelp-dao-recovery-hacker-launders-most-funds-293m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-01 14:09",
+    "title_zh": "随着 Kelp DAO 黑客洗掉几乎全部 2.2 亿美元被盗资金，复苏的希望破灭"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Strategy sells 32 BTC in first Bitcoin sale since 2022; Stock falls on open",
+    "链接": "https://cointelegraph.com/news/strategy-first-ever-bitcoin-sale-offloads-32-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-01 13:50",
+    "title_zh": "Strategy 出售 32 BTC，这是 2022 年以来的首次比特币销售；开盘后股价下跌"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Dogecoin gains access to Paxos network used by PayPal and Venmo",
+    "链接": "https://www.theblock.co/post/403193/dogecoin-gains-access-to-paxos-network-used-by-paypal-and-venmo?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-01 13:45",
+    "title_zh": "狗狗币获得 PayPal 和 Venmo 使用的 Paxos 网络的访问权限"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Gnosis Pay exploit hits delay module as team pledges refunds",
+    "链接": "https://cointelegraph.com/news/gnosis-hit-by-fresh-exploit-team-vows-to-fully-cover-user-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-01 13:20",
+    "title_zh": "Gnosis Pay 漏洞攻击延迟模块，团队承诺退款"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bitcoin weakens near $72K as ETF outflows, stalled whale buying and macro uncertainty weigh on prices: analysts",
+    "链接": "https://www.theblock.co/post/403179/bitcoin-weakens-near-72k-as-etf-outflows-stalled-whale-buying-and-macro-uncertainty-weigh-on-prices-analysts?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-01 12:49",
+    "title_zh": "分析师称，由于 ETF 流出、鲸鱼购买停滞和宏观不确定性打压价格，比特币价格下跌至 7.2 万美元附近"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Crypto meets Wall Street: MEXC unveils 'RealStocks' with 0-fee U.S. equity trading and real dividends",
+    "链接": "https://cointelegraph.com/press-releases/crypto-meets-wall-street-mexc-unveils-realstocks-with-0-fee-us-equity-trading-and-real-dividends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-01 12:40",
+    "title_zh": "加密货币遇上华尔街：MEXC 推出“RealStocks”，提供零费用美国股票交易和真实股息"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Michael Saylor’s Strategy sells 32 bitcoin for $2.5 million as total holdings drop to 843,706 BTC",
+    "链接": "https://www.theblock.co/post/403160/michael-saylors-strategy-sells-bitcoin?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-01 12:09",
+    "title_zh": "Michael Saylor 的策略以 250 万美元出售 32 个比特币，总持有量降至 843,706 个比特币"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "US-based funds drive $1.7B in global crypto ETP outflows as redemption streak extends to three weeks: CoinShares",
+    "链接": "https://www.theblock.co/post/403167/us-based-funds-drive-1-7b-in-global-crypto-etp-outflows-as-redemption-streak-extends-to-three-weeks-coinshares?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-01 11:50",
+    "title_zh": "随着赎回周期延长至三周，美国基金推动全球加密货币 ETP 流出 1.7B 美元：CoinShares"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin ETPs post largest 2026 outflow as crypto funds bleed $1.67B",
+    "链接": "https://cointelegraph.com/news/crypto-etps-bleed-1-67-billion-altcoin-participation-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-01 11:50",
+    "title_zh": "加密货币基金流失，比特币 ETP 出现 2026 年最大流出 $1.67B"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Binance adds US stock trading in push beyond crypto",
+    "链接": "https://cointelegraph.com/news/binance-launches-tokenized-stocks-245-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-01 11:30",
+    "title_zh": "币安增加美国股票交易，推动加密货币之外的交易"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "ECB official says stablecoins risk importing old market flaws",
+    "链接": "https://cointelegraph.com/news/ecb-stablecoins-public-money-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-01 11:21",
+    "title_zh": "欧洲央行官员称稳定币有引入旧市场缺陷的风险"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Binance adds over 7,000 US stocks and ETFs for traders outside the United States amid super app push",
+    "链接": "https://www.theblock.co/post/403155/binance-adds-us-stocks-etfs-traders-outside-united-states-super-app-push?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-01 10:48",
+    "title_zh": "币安在超级应用程序推送中为美国以外的交易者增加了 7,000 多只美国股票和 ETF"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "‘Gnosis will cover all user losses’ amid exploit related to Gnosis Pay, co-founder Koppelmann says",
+    "链接": "https://www.theblock.co/post/403147/gnosis-will-cover-all-user-losses-amid-exploit-related-to-gnosis-pay-co-founder-koppelmann-says?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-01 10:14",
+    "title_zh": "联合创始人 Koppelmann 表示，“Gnosis 将弥补与 Gnosis Pay 相关的漏洞造成的所有用户损失”"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Coinbase launches rupee bank rails in India after FIU nod",
+    "链接": "https://cointelegraph.com/news/coinbase-rolls-out-rupee-bank-rails-in-india-after-watchdog-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-01 09:45",
+    "title_zh": "金融情报机构批准后，Coinbase 在印度推出卢比银行监管"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Trump says Iran will ‘work out well’: Five things to know in Bitcoin this week",
+    "链接": "https://cointelegraph.com/markets/trump-says-iran-will-work-out-well-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-01 08:56",
+    "title_zh": "特朗普表示伊朗将“表现良好”：本周比特币需要了解的五件事"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Digital euro is key to counter stablecoin risks, says ECB’s Schnabel",
+    "链接": "https://www.theblock.co/post/403142/digital-euro-stablecoin-risks-ecb?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-01 08:49",
+    "title_zh": "欧洲央行施纳贝尔表示，数字欧元是应对稳定币风险的关键"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "NYDIG suggests $1.3B IBIT sale was whale exiting directional trade",
+    "链接": "https://cointelegraph.com/news/nydig-ibit-whale-exit-directional-bitcoin-trade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-01 07:09",
+    "title_zh": "NYDIG 暗示 $1.3B IBIT 出售是鲸鱼退出定向交易"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitwise completes takeover of Superstate's $259M crypto carry fund",
+    "链接": "https://cointelegraph.com/news/bitwise-takes-over-259m-tokenized-crypto-carry-fund-from-superstate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-01 07:00",
+    "title_zh": "Bitwise 完成对 Superstate 2.59 亿美元加密货币套利基金的收购"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Sui Foundation says ‘major upgrade’ fixed bugs behind three outages",
+    "链接": "https://cointelegraph.com/news/sui-major-upgrade-fixes-outage-bugs-restores-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-01 06:48",
+    "title_zh": "Sui 基金会表示“重大升级”修复了三起中断背后的错误"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Crypto exploit losses in May fall 90% over month to $68M: CertiK",
+    "链接": "https://cointelegraph.com/news/crypto-exploit-losses-fall-by-90-in-may-to-68m-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-01 06:40",
+    "title_zh": "CertiK：5 月份加密货币漏洞损失环比下降 90%，至 6800 万美元"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Cardano Foundation cancels annual conference after failed funding vote",
+    "链接": "https://cointelegraph.com/news/cardano-foundation-cancels-annual-conference-after-failed-funding-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-01 06:24",
+    "title_zh": "卡尔达诺基金会因资金投票失败而取消年会"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Coinbase launches Indian rupee rails with perps access in expansion push",
+    "链接": "https://www.theblock.co/post/403135/coinbase-launches-indian-rupee-rails?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-01 05:11",
+    "title_zh": "Coinbase 推出印度卢比铁路，并在扩张推动中允许准入"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Wintermute to bring liquidity to booming prediction markets sector",
+    "链接": "https://cointelegraph.com/news/wintermute-is-entering-prediction-markets-as-a-liquidity-provider?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-01 04:22",
+    "title_zh": "Wintermute 将为蓬勃发展的预测市场领域带来流动性"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "The Funding: How crypto hedge funds are navigating weak markets",
+    "链接": "https://www.theblock.co/post/403128/the-funding-how-crypto-hedge-funds-are-navigating-weak-markets?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-01 03:33",
+    "title_zh": "资金：加密货币对冲基金如何应对疲软的市场"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "White hat hacker recovers $2M from faulty 2016 ICO smart contract",
+    "链接": "https://cointelegraph.com/news/whitehat-helps-recover-2m-from-2016-ico-smart-contract?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-01 02:21",
+    "title_zh": "白帽黑客从 2016 年 ICO 智能合约缺陷中追回 200 万美元"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "US, UK central bankers offer contrary views on stablecoins",
+    "链接": "https://cointelegraph.com/news/us-uk-central-bankers-offer-contrary-views-on-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-31 21:11",
+    "title_zh": "美国、英国央行行长对稳定币提出相反的看法"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Kraken ‘plans’ regulated perp contracts as rivals are quick off blocks",
+    "链接": "https://cointelegraph.com/news/kraken-plans-regulated-perp-contracts-as-rivals-are-quick-off-the-blocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-05-31 17:40",
+    "title_zh": "随着竞争对手迅速撤离，Kraken“计划”监管永久合同"
+  },
+  {
     "来源": "TheBlock",
     "标题": "Dev helps rescue $2 million locked in 2016 ICO contract for nine years with whitehat exploit",
     "链接": "https://www.theblock.co/post/403126/dev-helps-rescue-2-million-locked-in-2016-ico-contract-for-nine-years-with-whitehat-exploit?utm_source=rss&utm_medium=rss",
