@@ -1,6 +1,244 @@
 [
   {
     "来源": "Cointelegraph",
+    "标题": "Crypto correction vaporized $176B in investor funds: Are bears back in control?",
+    "链接": "https://cointelegraph.com/markets/crypto-correction-vaporized-176b-in-investor-funds-are-bears-back-in-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-02 21:16",
+    "title_zh": "加密货币修正蒸发了 176B 美元的投资者资金：空头是否重新掌控了局势？"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Crypto PACs pour $3M into Maryland races as California voters head to polls",
+    "链接": "https://cointelegraph.com/news/crypto-pacs-maryland-races-media-buys-california-primaries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-02 21:06",
+    "title_zh": "随着加州选民前往投票站，加密 PAC 向马里兰州竞选投入 300 万美元"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "US sanctions Nobitex and other Iranian crypto exchanges under ‘Economic Fury’ campaign",
+    "链接": "https://www.theblock.co/post/403436/us-sanctions-nobitex-iranian-crypto-exchanges-economic-fury-campaign?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-02 20:50",
+    "title_zh": "美国在“经济愤怒”运动下制裁 Nobitex 和其他伊朗加密货币交易所"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Coinbase invests in ProShares ETF tailored for stablecoin reserve assets",
+    "链接": "https://cointelegraph.com/news/coinbase-invests-proshares-etf-tailored-stablecoin-reserve-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-02 20:09",
+    "title_zh": "Coinbase 投资专为稳定币储备资产量身定制的 ProShares ETF"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Crypto derivatives activity slumps to late-2023 levels, but US perp market opportunity emerges",
+    "链接": "https://www.theblock.co/post/403379/crypto-derivatives-activity-slumps-late-2023-levels-us-perp-market-opportunity-emerges?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-02 19:46",
+    "title_zh": "加密货币衍生品活动下滑至 2023 年末水平，但美国永续市场机会出现"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bitwise CIO Matt Hougan calls crypto a ‘contrarian bet’",
+    "链接": "https://www.theblock.co/post/403423/bitwise-cio-matt-hougan-calls-crypto-a-contrarian-bet?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-02 19:28",
+    "title_zh": "Bitwise 首席信息官 Matt Hougan 称加密货币为“逆向赌注”"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin’s $224K ‘fair value’ may emerge if sovereign debt fears deepen: Bitwise",
+    "链接": "https://cointelegraph.com/markets/bitcoins-224k-fair-value-could-emerge-if-sovereign-debt-fears-deepen-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-02 19:28",
+    "title_zh": "如果主权债务担忧加深，比特币 22.4 万美元的“公允价值”可能会出现：Bitwise"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Ethena taps Anchorage for secure offchain collateral in institutional lending push",
+    "链接": "https://www.theblock.co/post/403410/ethena-taps-anchorage-secure-offchain-collateral-institutional-lending-push?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-02 18:06",
+    "title_zh": "Ethena 在机构贷款推动中利用安克雷奇提供安全的链下抵押品"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin gets new $50K target after BTC price crashes 6% in a day",
+    "链接": "https://cointelegraph.com/markets/bitcoin-gets-new-50k-target-after-btc-price-crashes-6-in-a-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-02 17:54",
+    "title_zh": "BTC 价格一天内暴跌 6% 后，比特币达到新的 5 万美元目标"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "CFTC chair claims Gemini case was politically motivated, seeks to reverse settlement",
+    "链接": "https://cointelegraph.com/news/cftc-michael-selig-gemini-politically-motivated-reverse-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-02 17:39",
+    "title_zh": "CFTC 主席声称 Gemini 案具有政治动机，寻求推翻和解"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Coinbase invests in Ethena via open market purchase of ENA, flags new partnership",
+    "链接": "https://www.theblock.co/post/403403/coinbase-invests-ethena-open-market-purchase-ena-flags-new-partnership?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-02 17:29",
+    "title_zh": "Coinbase 通过公开市场购买 ENA 投资 Ethena，标志着新的合作伙伴关系"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Movement expands stablecoin payments push with access to US, Canada, EU rails",
+    "链接": "https://cointelegraph.com/news/movement-expands-stablecoin-payments-push-us-canada-eu-rails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-02 17:26",
+    "title_zh": "运动扩大了稳定币支付的发展，进入了美国、加拿大和欧盟的轨道"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Sens. Bernie Sanders, Elizabeth Warren push Labor Dept. to scrap proposed rule that brings crypto into 401(k) plans",
+    "链接": "https://www.theblock.co/post/403394/bernie-sanders-elizabeth-warren-push-labor-department-scrap-rule-crypto-401k?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-02 16:37",
+    "title_zh": "参议员伯尼·桑德斯 (Bernie Sanders) 和伊丽莎白·沃伦 (Elizabeth Warren) 敦促劳工部废除将加密货币纳入 401(k) 计划的拟议规则"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Zama accelerates compliance after court lifts $12.5M USDC freeze",
+    "链接": "https://cointelegraph.com/news/zama-tightens-compliance-framework-after-court-ordered-usdc-freeze-reversed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-02 15:28",
+    "title_zh": "法院解除 1250 万美元 USDC 冻结后，Zama 加速合规"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Georgia targets illegal crypto mining in Mestia crackdown: Report",
+    "链接": "https://cointelegraph.com/news/georgias-vice-pm-governmental-crackdown-illegal-bitcoin-mining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-02 15:02",
+    "title_zh": "格鲁吉亚在梅斯蒂亚镇压中打击非法加密货币开采：报告"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Coinbase investing into stablecoin reserves ETF issued by ProShares",
+    "链接": "https://www.theblock.co/post/403367/coinbases-investing-into-stablecoin-reserves-etf-issued-by-proshares?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-02 14:48",
+    "title_zh": "Coinbase 投资 ProShares 发行的稳定币储备 ETF"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Kaiko acquires Amberdata in blockchain data consolidation push",
+    "链接": "https://cointelegraph.com/news/kaiko-acquires-amberdata-blockchain-data-consolidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-02 14:43",
+    "title_zh": "Kaiko 收购 Amberdata 推动区块链数据整合"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Strive adds 2,500 BTC to treasury as Saylor’s Strategy sells",
+    "链接": "https://www.theblock.co/post/403352/strive-adds-2500-btc-treasury-saylor-strategy-sells?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-02 14:32",
+    "title_zh": "随着 Saylor 策略的出售，Strive 向金库增加了 2,500 BTC"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "HIVE Bitcoin holdings drop by 331 BTC in Q1, reports record $298M revenue",
+    "链接": "https://cointelegraph.com/news/hive-sells-331-btc-q1-record-298-million-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-02 14:14",
+    "title_zh": "HIVE 第一季度比特币持有量减少 331 BTC，报告收入创纪录的 2.98 亿美元"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "How high can NEAR price go in June?",
+    "链接": "https://cointelegraph.com/markets/how-high-can-near-price-go-in-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-02 14:04",
+    "title_zh": "6月NEAR价格能涨到多高？"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Standard Chartered says Strategy’s bitcoin sale may mark start of ETH outperformance",
+    "链接": "https://www.theblock.co/post/403351/standard-chartered-strategy-bitcoin-sale-eth-outperformance?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-02 13:55",
+    "title_zh": "渣打银行表示，Strategy 的比特币销售可能标志着 ETH 表现优异的开始"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "‘Materially softer demand’: Bitcoin hits two-month low below $69,000 amid institutional outflow streak, fading onchain interest",
+    "链接": "https://www.theblock.co/post/403356/materially-softer-demand-bitcoin-hits-two-month-low-below-69000-amid-institutional-outflow-streak-fading-onchain-interest?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-02 13:48",
+    "title_zh": "“需求大幅疲软”：由于机构资金连续流出，链上兴趣减弱，比特币触及两个月低点，低于 69,000 美元"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Trader says XRP price setting ‘biggest bear trap’ after June monthly open",
+    "链接": "https://cointelegraph.com/markets/trader-says-xrp-price-setting-biggest-bear-trap-after-june-monthly-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-02 13:48",
+    "title_zh": "交易员称 XRP 价格在 6 月月度开盘后设定“最大的熊市陷阱”"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Franklin Templeton brings BENJI tokenized fund to MoonPay",
+    "链接": "https://www.theblock.co/post/403223/franklin-templeton-brings-benji-tokenized-fund-to-moonpay?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-02 13:30",
+    "title_zh": "富兰克林邓普顿将 BENJI 代币化基金引入 MoonPay"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "MoneyGram launches MGUSD stablecoin on Stellar network",
+    "链接": "https://cointelegraph.com/news/moneygram-mgusd-stablecoin-remittance-onchain-rails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-02 13:27",
+    "title_zh": "MoneyGram 在 Stellar 网络上推出 MGUSD 稳定币"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Galaxy Digital opens OTC prediction market trading for institutions, kicks off with $10 million Kalshi trade",
+    "链接": "https://www.theblock.co/post/403338/galaxy-digital-opens-otc-prediction-market-trading-for-institutions-kicks-off-with-10-million-kalshi-trade?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-02 13:12",
+    "title_zh": "Galaxy Digital为机构开放OTC预测市场交易，以1000万美元的Kalshi交易拉开序幕"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "HIVE reports 158% jump in annual revenue to $298 million as bitcoin holdings fall to 150 BTC",
+    "链接": "https://www.theblock.co/post/403336/hive-reports-158-jump-in-annual-revenue-to-298-million-as-bitcoin-holdings-fall-to-150-btc?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-02 13:06",
+    "title_zh": "HIVE 报告称，随着比特币持有量降至 150 BTC，年收入增长 158% 至 2.98 亿美元"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Backpack launches securities platform blending traditional and tokenized stock trading",
+    "链接": "https://www.theblock.co/post/403328/backpack-launches-securities-platform-blending-traditional-and-tokenized-stock-trading?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-02 13:05",
+    "title_zh": "Backpack推出融合传统和代币化股票交易的证券平台"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Hamilton Lane’s tokenized HLSCOPE fund launches on Tron, marking first Securitize asset on the network",
+    "链接": "https://www.theblock.co/post/403239/hamilton-lanes-tokenized-hlscope-fund-launches-on-tron-marking-first-securitize-product-issued-on-the-once-maligned-blockchain?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-02 13:00",
+    "title_zh": "Hamilton Lane 的代币化 HLSCOPE 基金在 Tron 上推出，标志着网络上的第一个证券化资产"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Following token-dumping scandal, Movement seeks new life as a Layer 1",
+    "链接": "https://www.theblock.co/post/403264/movement-seeks-new-life-as-layer-1?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-02 13:00",
+    "title_zh": "继代币倾销丑闻之后，Movement 寻求作为 Layer 1 的新生命"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "EdgeX blames ‘external party’ for token crash as ZachXBT alleges insider manipulation",
+    "链接": "https://cointelegraph.com/news/edgex-blames-external-party-for-token-crash-as-zachxbt-points-to-insider-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-02 12:59",
+    "title_zh": "ZachXBT 指控内部操纵，EdgeX 将代币崩溃归咎于“外部人士”"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Capital B seeks $122B funding mandate to buy more Bitcoin",
+    "链接": "https://cointelegraph.com/news/capital-b-shareholder-motion-58b-capital-increase-116b-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-02 12:35",
+    "title_zh": "Capital B 寻求 122B 美元的融资授权以购买更多比特币"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Insurance giant WTW moves into crypto asset recovery with Redefind buy",
+    "链接": "https://cointelegraph.com/news/wtw-acquires-redefind-to-expand-crypto-asset-recovery-insurance-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-02 07:00",
+    "title_zh": "保险巨头 WTW 通过 Redefind 收购进入加密资产回收领域"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Crossmint enables Visa card payments for AI agents and autonomous commerce",
+    "链接": "https://cointelegraph.com/news/crossmint-enables-visa-card-payments-for-ai-agents-and-autonomous-commerce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-02 07:00",
+    "title_zh": "Crossmint 为人工智能代理和自主商务提供 Visa 卡支付"
+  },
+  {
+    "来源": "Cointelegraph",
     "标题": "Bitcoin back in ‘distribution phase’ as extreme fear grips crypto market",
     "链接": "https://cointelegraph.com/markets/bitcoin-back-in-distribution-phase-as-fear-grips-crypto-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "时间": "2026-06-02 11:09",
