@@ -1,5 +1,257 @@
 [
   {
+    "来源": "TheBlock",
+    "标题": "Solayer rolls out Solana-native onchain perps trading platform Margin Trade mainnet",
+    "链接": "https://www.theblock.co/post/403549/solayer-rolls-out-solana-native-onchain-perps-trading-platform-margin-trade-mainnet?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-03 16:00",
+    "title_zh": "Solayer 推出 Solana 原生链上永续交易平台 Margin Trade 主网"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Sen. Lummis says JPMorgan CEO Jamie Dimon hasn’t read Clarity Act, calls remarks ‘distasteful’",
+    "链接": "https://www.theblock.co/post/403539/sen-lummis-jpmorgan-ceo-jamie-dimon-hasnt-read-clarity-act-remarks-distasteful?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-03 15:37",
+    "title_zh": "参议员鲁米斯表示摩根大通首席执行官杰米·戴蒙没有阅读《澄清法案》，并称其言论“令人厌恶”"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Revolut’s US bank to offer stablecoin services alongside FDIC-insured products: Reuters",
+    "链接": "https://www.theblock.co/post/403541/revoluts-us-bank-offer-stablecoin-services-fdic-insured-products-reuters?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-03 15:02",
+    "title_zh": "Revolut 的美国银行将提供稳定币服务以及 FDIC 承保的产品：路透社"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Binance to end NFT support on exchange, shift service to wallet",
+    "链接": "https://cointelegraph.com/news/binance-exchange-halt-nft-services-binance-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-03 14:47",
+    "title_zh": "币安将终止对交易所的 NFT 支持，将服务转移至钱包"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Kraken parent Payward brings tokenized IPO access to retail investors",
+    "链接": "https://cointelegraph.com/news/kraken-payward-tokenized-ipo-access-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-03 14:40",
+    "title_zh": "Kraken 母公司 Payward 为散户投资者提供代币化 IPO 渠道"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Crypto industry launches PAC focused on software developer safeguards as elections near",
+    "链接": "https://www.theblock.co/post/403532/crypto-industry-launches-pac-software-developer-safeguards-elections-near?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-03 14:35",
+    "title_zh": "随着选举临近，加密货币行业推出 PAC，重点关注软件开发者保障"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Zcash fixes Orchard bug after emergency network upgrade",
+    "链接": "https://cointelegraph.com/news/zcash-orchard-vulnerability-emergency-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-03 14:33",
+    "title_zh": "Zcash 在紧急网络升级后修复了 Orchard 错误"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Tether launching tokenized gold Visa card with XAUT rewards",
+    "链接": "https://www.theblock.co/post/403509/tether-launching-tokenized-gold-visa-card-with-xaut-rewards?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-03 14:27",
+    "title_zh": "Tether 推出带有 XAUT 奖励的代币化金 Visa 卡"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Trezor says Safe 7 chip flaw found by Ledger does not put funds at risk",
+    "链接": "https://cointelegraph.com/news/trezor-tropic-chip-flaw-ledger-donjon-funds-safe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-03 14:14",
+    "title_zh": "Trezor 表示 Ledger 发现的 Safe 7 芯片缺陷不会使资金面临风险"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "IREN plants flag in Australia with its first data center campus to serve Asia-Pacific AI demand",
+    "链接": "https://www.theblock.co/post/403507/iren-plants-flag-australia-first-data-center-campus-serve-asia-pacific-ai-demand?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-03 14:05",
+    "title_zh": "IREN 在澳大利亚设立首个数据中心园区，以满足亚太地区人工智能需求"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Russian ruble stablecoin A7A5 grows despite Western sanctions: CertiK",
+    "链接": "https://cointelegraph.com/news/russian-ruble-stablecoin-growing-western-sanctions-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-03 14:00",
+    "title_zh": "尽管西方制裁，俄罗斯卢布稳定币 A7A5 仍在增长：CertiK"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Variant raises $222 million fund targeting early stage crypto, AI startups that expand ‘autonomy’",
+    "链接": "https://www.theblock.co/post/403513/variant-raises-222-million-fund-early-stage-crypto-ai-autonomy?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-03 13:54",
+    "title_zh": "Variant 筹集了 2.22 亿美元资金，目标是扩大“自主权”的早期加密货币和人工智能初创公司"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "UK regulator warns Premier League clubs over unauthorized crypto sponsors",
+    "链接": "https://cointelegraph.com/news/fca-warns-premier-league-clubs-over-crypto-trading-sponsors-targeting-fans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-03 13:11",
+    "title_zh": "英国监管机构警告英超俱乐部未经授权的加密货币赞助商"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "House of Lords committee urges UK regulators to ease stablecoin rules that could stifle market growth",
+    "链接": "https://www.theblock.co/post/403498/house-of-lords-committee-urges-uk-regulators-to-ease-stablecoin-rules-that-could-stifle-market-growth?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-03 12:47",
+    "title_zh": "上议院委员会敦促英国监管机构放宽可能抑制市场增长的稳定币规则"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Kraken to offer tokenized US IPO access for global retail investors via xStocks",
+    "链接": "https://www.theblock.co/post/403495/kraken-tokenized-us-ipo-access-retail-investors-xstocks?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-03 12:30",
+    "title_zh": "Kraken 将通过 xStocks 为全球散户投资者提供代币化美国 IPO 通道"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Ledger researchers find flaw in chip used by Trezor Safe 7; Trezor says user funds safe",
+    "链接": "https://www.theblock.co/post/403492/ledger-researchers-find-flaw-in-chip-used-by-trezor-safe-7-trezor-says-user-funds-safe?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-03 12:25",
+    "title_zh": "Ledger 研究人员发现 Trezor Safe 7 使用的芯片存在缺陷； Trezor 表示用户资金安全"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Grayscale gets behind the hype, launching its HYPG Hyperliquid ETF on Nasdaq",
+    "链接": "https://www.theblock.co/post/403428/grayscale-behind-hype-launching-hypg-hyperliquid-etf-nasdaq?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-03 12:00",
+    "title_zh": "Grayscale 大力宣传，在纳斯达克推出 HYPG Hyperliquid ETF"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Mastercard expands support to USDC, PYUSD, RLUSD stablecoin settlement",
+    "链接": "https://cointelegraph.com/news/mastercard-stablecoin-settlement-usdc-pyusd-rlusd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-03 11:48",
+    "title_zh": "万事达卡扩大对 USDC、PYUSD、RLUSD 稳定币结算的支持"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "DOJ, CFTC probe George Santos over Kalshi trades tied to State of the Union appearance: report",
+    "链接": "https://www.theblock.co/post/403486/doj-cftc-probe-george-santos-over-kalshi-trades-tied-to-state-of-the-union-appearance-report?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-03 11:06",
+    "title_zh": "美国司法部和美国商品期货交易委员会就乔治·桑托斯与国情咨文露面有关的卡尔希交易展开调查：报告"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Binance winds down centralized NFT service, gives users one month to withdraw assets",
+    "链接": "https://www.theblock.co/post/403483/binance-winds-down-centralized-nft-service-gives-users-one-month-to-withdraw-assets?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-03 10:52",
+    "title_zh": "币安停止中心化 NFT 服务，给予用户一个月提现资产"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin's crash to $65K triggers $1.8B in crypto liquidations",
+    "链接": "https://cointelegraph.com/markets/bitcoins-crash-to-65k-triggers-18b-in-crypto-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-03 10:48",
+    "title_zh": "比特币暴跌至 65K 美元引发 1.8B 美元的加密货币清算"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin has hit 'max fear' below $67K as analysis sees BTC price rebound",
+    "链接": "https://cointelegraph.com/markets/crypto-extreme-fear-worst-in-two-months-as-analysis-sees-bitcoin-price-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-03 10:16",
+    "title_zh": "分析认为比特币价格反弹，比特币已跌破 6.7 万美元“最大恐惧”"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "UK regulator warns soccer clubs over sponsorship deals with unauthorized crypto firms",
+    "链接": "https://www.theblock.co/post/403478/uk-fca-warns-soccer-clubs-crypto-sponsorship?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-03 09:39",
+    "title_zh": "英国监管机构警告足球俱乐部不要与未经授权的加密货币公司达成赞助协议"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Mastercard expands stablecoin settlement options with USDC, PYUSD and RLUSD",
+    "链接": "https://www.theblock.co/post/403474/mastercard-expands-stablecoin-settlement-options-with-usdc-pyusd-and-rlusd?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-03 08:57",
+    "title_zh": "万事达卡通过 USDC、PYUSD 和 RLUSD 扩大稳定币结算选项"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Cardano’s Charles Hoskinson warns of ‘wave of failures’ after TapTools wind-down",
+    "链接": "https://www.theblock.co/post/403457/taptools-winds-down?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-03 07:49",
+    "title_zh": "Cardano 的 Charles Hoskinson 警告 TapTools 关闭后将出现“失败浪潮”"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "New York and EU’s finance watchdogs team up to police stablecoins",
+    "链接": "https://cointelegraph.com/news/new-york-eu-regulators-joint-stablecoin-oversight-agreement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-03 06:58",
+    "title_zh": "纽约和欧盟金融监管机构联手监管稳定币"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin falls below $66K as US and Iran launch new strikes",
+    "链接": "https://cointelegraph.com/news/bitcoin-falls-below-66k-as-us-iran-strikes-resume?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-03 06:18",
+    "title_zh": "美国和伊朗发起新的罢工，比特币跌破 6.6 万美元"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "US Treasury issues sanctions on Iran, targets 4 crypto exchanges",
+    "链接": "https://cointelegraph.com/news/us-sanctions-irans-top-crypto-exchange-as-war-rages-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-03 06:12",
+    "title_zh": "美国财政部对伊朗实施制裁，目标是 4 家加密货币交易所"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bitcoin briefly dips below $66,000 as ETF outflows, geopolitical fears weigh on crypto",
+    "链接": "https://www.theblock.co/post/403454/bitcoin-dips-below-66000?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-03 06:04",
+    "title_zh": "随着 ETF 资金流出，比特币一度跌破 66,000 美元，地缘政治担忧令加密货币承压"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Modern robots impress, but are years away from replacing humans",
+    "链接": "https://cointelegraph.com/news/ai-humanoid-robots-years-away-from-replacing-human-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-03 05:01",
+    "title_zh": "现代机器人令人印象深刻，但距离取代人类还需要数年时间"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Crypto turns ‘contrarian bet’ as AI stocks draw investor attention: Bitwise",
+    "链接": "https://cointelegraph.com/news/crypto-turns-contrarian-as-ai-stocks-dominate-investor-attention-bitwise-cio?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-03 04:31",
+    "title_zh": "随着人工智能股票吸引投资者的注意力，加密货币变成了“逆向赌注”：Bitwise"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Blockchain Association urges Senate to pass Clarity Act with letter from 160 former security officials",
+    "链接": "https://www.theblock.co/post/403450/blockchain-association-letter-senate?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-03 03:42",
+    "title_zh": "区块链协会敦促参议院通过 160 名前安全官员的信函《澄清法案》"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Cardano’s TapTools to wind down after 5 execs exit",
+    "链接": "https://cointelegraph.com/news/cardano-protocol-taptools-winds-down-after-five-execs-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-03 02:45",
+    "title_zh": "卡尔达诺 TapTools 将在 5 名高管退出后停止运营"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "UK Lords warn BoE could regulate pound stablecoins into irrelevance",
+    "链接": "https://cointelegraph.com/news/lords-warn-bank-of-england-not-to-regulate-gbp-stablecoins-into-irrelevance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-03 00:01",
+    "title_zh": "英国上议院警告英国央行可能对英镑稳定币进行监管，使其变得无关紧要"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "US lawmakers push back on Labor Department plans to include crypto in 401(k)s",
+    "链接": "https://cointelegraph.com/news/democrats-labor-department-digital-assets-retirement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-02 22:55",
+    "title_zh": "美国立法者反对劳工部将加密货币纳入 401(k)s 的计划"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "SEC makes digital assets strategic priority through 2030",
+    "链接": "https://cointelegraph.com/news/sec-makes-digital-assets-strategic-priority-through-2030?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-02 22:17",
+    "title_zh": "SEC 将数字资产列为 2030 年战略优先事项"
+  },
+  {
     "来源": "Cointelegraph",
     "标题": "Crypto correction vaporized $176B in investor funds: Are bears back in control?",
     "链接": "https://cointelegraph.com/markets/crypto-correction-vaporized-176b-in-investor-funds-are-bears-back-in-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
