@@ -1,5 +1,166 @@
 [
   {
+    "来源": "Cointelegraph",
+    "标题": "Coinbase to launch token-backed mortgage down payments this summer",
+    "链接": "https://cointelegraph.com/news/coinbase-token-backed-mortgages-fannie-mae-summer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-04 18:52",
+    "title_zh": "Coinbase 将于今年夏天推出代币支持的抵押贷款首付"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin bulls' fate rests on $60K support as crypto erases $2T in market cap",
+    "链接": "https://cointelegraph.com/markets/bitcoin-bulls-fate-rests-on-60k-support-as-sellers-remain-in-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-04 17:30",
+    "title_zh": "随着加密货币市值抹去 2T 美元，比特币多头的命运取决于 6 万美元的支撑"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bybit joins Western Union’s new USDPT network as stablecoin expands distribution",
+    "链接": "https://cointelegraph.com/news/seo-url-bybit-western-union-usdpt-stablecoin-exchange-integration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-04 17:21",
+    "title_zh": "随着稳定币扩大分销范围，Bybit 加入西联汇款新 USDPT 网络"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Ether.fi allocates $100 million to a Plume RWA vault, giving users access to yield",
+    "链接": "https://www.theblock.co/post/403681/ether-fi-allocates-100-million-plume-rwa-vault-yield?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-04 17:20",
+    "title_zh": "Ether.fi 向 Plume RWA 金库分配 1 亿美元，让用户能够获得收益"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Chainalysis says ‘top-tier’ gray market peptide vendors turn to bitcoin and stablecoins",
+    "链接": "https://www.theblock.co/post/403683/chainalysis-says-top-tier-gray-market-peptide-vendors-turn-to-bitcoin-and-stablecoins?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-04 17:08",
+    "title_zh": "Chainaanalysis 称“顶级”灰市肽供应商转向比特币和稳定币"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "JPMorgan says crypto bill may have only a narrow window for passage this year",
+    "链接": "https://www.theblock.co/post/403676/jpmorgan-crypto-bill-narrow-window-passage-this-year?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-04 15:44",
+    "title_zh": "摩根大通表示，加密货币法案今年可能只有很窄的通过窗口"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Senate Republicans urged financial regulators to rework bank capital rules for digital assets",
+    "链接": "https://www.theblock.co/post/403671/senate-republicans-urged-financial-regulators-to-rework-bank-capital-rules-for-digital-assets?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-04 14:54",
+    "title_zh": "参议院共和党人敦促金融监管机构修改数字资产的银行资本规则"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Saylor downplays Bitcoin slide as Strategy faces $11B paper loss",
+    "链接": "https://cointelegraph.com/news/strategys-unrealized-loss-soars-11b-standard-chartered-bottom-near?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-04 14:48",
+    "title_zh": "Saylor 淡化比特币下滑，因为 Strategy 面临 11B 美元的账面损失"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Travala unveils agentic AI travel protocol with gasless USDC payments on Base",
+    "链接": "https://www.theblock.co/post/402860/travala-debuts-agentic-ai-travel-protocol-with-gasless-usdc-payments-on-base?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-04 14:00",
+    "title_zh": "Travala 在 Base 上推出了无需 Gas 的 USDC 支付的代理人工智能旅行协议"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "‘The rally that wasn’t’: Bitcoin slides 14% in one week as ETF outflows, Strategy sale and oil prices hit sentiment",
+    "链接": "https://www.theblock.co/post/403659/the-rally-that-wasnt-bitcoin-slides-14-in-one-week-as-etf-outflows-strategy-sale-and-oil-prices-hit-sentiment?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-04 13:58",
+    "title_zh": "“反弹并非如此”：随着 ETF 资金外流、策略出售和油价打击市场情绪，比特币一周内下跌 14%"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Visa, Brale test privacy-enabled SBC stablecoin settlement on Canton Network",
+    "链接": "https://www.theblock.co/post/403658/visa-brale-test-privacy-enabled-sbc-stablecoin-settlement-on-canton-network?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-04 13:34",
+    "title_zh": "Visa、Brale 在 Canton Network 上测试支持隐私的 SBC 稳定币结算"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Apex, Archax join Goldman Sachs tokenized real estate fund project",
+    "链接": "https://cointelegraph.com/news/apex-group-tokenized-real-estate-fund-goldman-sachs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-04 13:25",
+    "title_zh": "Apex、Archax 加入高盛代币化房地产基金项目"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Arthur Hayes dumps HYPE, NEAR as he warns of AI IPO wave",
+    "链接": "https://cointelegraph.com/news/arthur-hayes-dumped-hype-near-holdings-mega-ai-ipos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-04 13:04",
+    "title_zh": "Arthur Hayes 放弃炒作，警告人工智能 IPO 浪潮即将到来"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Cosmos Labs acquires block explorer Mintscan, forms Korea subsidiary to expand ecosystem",
+    "链接": "https://www.theblock.co/post/403652/cosmos-labs-acquires-mintscan-forms-korea-subsidiary?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-04 13:00",
+    "title_zh": "Cosmos Labs 收购区块浏览器 Mintscan，成立韩国子公司以扩大生态系统"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Immunefi says DeFi is ‘getting safer’ as exploit losses fall 74% from 2022 peak amid AI-driven security arms race",
+    "链接": "https://www.theblock.co/post/403624/immunefi-says-defi-is-getting-safer-as-exploit-losses-fall-74-from-2022-peak-amid-ai-driven-security-arms-race?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-04 13:00",
+    "title_zh": "Immunefi 表示，在人工智能驱动的安全军备竞赛中，由于漏洞利用损失较 2022 年峰值下降了 74%，DeFi 正在“变得更安全”"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Coinbase launches pre-IPO markets, starting with Elon Musk’s SpaceX",
+    "链接": "https://cointelegraph.com/news/coinbase-launches-pre-ipo-markets-amid-crypto-push-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-04 12:48",
+    "title_zh": "Coinbase 启动 IPO 前市场，从埃隆·马斯克 (Elon Musk) 的 SpaceX 开始"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Coinbase and Better fund first bitcoin-backed mortgage, plan nationwide rollout soon",
+    "链接": "https://www.theblock.co/post/403640/coinbase-better-first-bitcoin-backed-mortgage-nationwide-rollout-soon?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-04 12:40",
+    "title_zh": "Coinbase 和 Better 资助首笔比特币抵押贷款，计划很快在全国范围内推广"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "‘When the market offers discounts, we lean in’: DDC Enterprise lifts bitcoin holdings to 2,804 BTC",
+    "链接": "https://www.theblock.co/post/403642/when-the-market-offers-discounts-we-lean-in-ddc-enterprise-lifts-bitcoin-holdings-to-2804-btc?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-04 12:18",
+    "title_zh": "“当市场提供折扣时，我们会采取行动”：DDC Enterprise 将比特币持有量提高至 2,804 BTC"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "‘The power landlords of AI’: Bernstein initiates coverage on bitcoin miners TeraWulf and Cipher Digital, sees ninefold AI revenue by 2030",
+    "链接": "https://www.theblock.co/post/403636/the-power-landlords-of-ai-bernstein-initiates-coverage-on-bitcoin-miners-terawulf-and-cipher-digital-sees-ninefold-ai-revenue-by-2030?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-04 11:51",
+    "title_zh": "“人工智能的权力主人”：Bernstein 开始对比特币矿商 TeraWulf 和 Cipher Digital 进行报道，预计到 2030 年人工智能收入将增长九倍"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin price just tagged 200-week trend line that defined 2022 bear market",
+    "链接": "https://cointelegraph.com/markets/bitcoin-price-just-tagged-200-week-trend-line-that-defined-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-04 11:46",
+    "title_zh": "比特币价格刚刚触及定义 2022 年熊市的 200 周趋势线"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "FG Nexus offloads additional $17.8M Ether as losses top $100M",
+    "链接": "https://cointelegraph.com/news/fg-nexus-offloads-additional-178m-ether-as-treasury-losses-top-100m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-04 11:41",
+    "title_zh": "FG Nexus 额外出售 1780 万美元以太币，损失高达 1 亿美元"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Polymarket users cry foul after Strategy sale market resolves to ‘no’",
+    "链接": "https://cointelegraph.com/news/polymarket-dispute-strategys-bitcoin-sale-resolves-no?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-04 11:27",
+    "title_zh": "战略销售市场决定“不”后，Polymarket 用户大喊大叫"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin ETFs bleed $4.4B as outflow run extends to 13 trading days",
+    "链接": "https://cointelegraph.com/news/bitcoin-etfs-4-4-billion-outflows-13-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-04 11:11",
+    "title_zh": "比特币 ETF 损失 $4.4B，资金流出持续至 13 个交易日"
+  },
+  {
     "来源": "TheBlock",
     "标题": "‘The low is almost in’: Standard Chartered says bitcoin bottom near after tough week for crypto",
     "链接": "https://www.theblock.co/post/403625/the-low-is-almost-in-standard-chartered-says-bitcoin-bottom-near-after-tough-week-for-crypto?utm_source=rss&utm_medium=rss",
