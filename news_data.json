@@ -1,5 +1,110 @@
 [
   {
+    "来源": "TheBlock",
+    "标题": "Zcash selloff extends past 50% amid bug disclosure as liquidations top $100 million",
+    "链接": "https://www.theblock.co/post/403791/zcash-selloff-extends-past-50-amid-bug-disclosure-as-liquidations-top-100-million?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-05 11:35",
+    "title_zh": "由于漏洞披露，Zcash 抛售规模超过 50%，清算金额突破 1 亿美元"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Forward Industries moves $32M in SOL amid $1B paper loss",
+    "链接": "https://cointelegraph.com/news/forward-industries-moves-319m-in-sol-to-coinbase-prime-amid-113b-paper-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-05 10:59",
+    "title_zh": "Forward Industries 在 10 亿美元的账面损失中转移了 3200 万美元的 SOL"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "South Korea police probe Polymarket users over illegal gambling claims: Report",
+    "链接": "https://cointelegraph.com/news/south-korean-authorities-first-illegal-gambling-probe-polymarket-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-05 10:47",
+    "title_zh": "韩国警方调查 Polymarket 用户非法赌博行为：报告"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Hong Kong taps JPMorgan, HSBC for expert group to scale tokenized bonds",
+    "链接": "https://www.theblock.co/post/403787/hong-kong-expert-group-tokenized-bonds?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-05 10:05",
+    "title_zh": "香港聘请摩根大通和汇丰银行组成专家组来扩大代币化债券规模"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Grayscale says bitcoin needs other buyers to find a ‘sustainable bottom’ amid Strategy BTC sale",
+    "链接": "https://www.theblock.co/post/403770/grayscale-other-buyers-must-step-in-for-bitcoins-price-to-find-a-sustainable-bottom-after-strategy-btc-sale?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-05 09:27",
+    "title_zh": "灰度称比特币需要其他买家在战略比特币销售中找到“可持续底部”"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "South Korean police investigate local Polymarket users on illegal gambling charges: report",
+    "链接": "https://www.theblock.co/post/403777/south-korean-police-investigates-local-polymarket-users?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-05 08:59",
+    "title_zh": "韩国警方调查当地 Polymarket 用户的非法赌博指控：报告"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Crypto billionaires bankroll Nigel Farage's pro-crypto party",
+    "链接": "https://cointelegraph.com/news/crypto-billionaires-bankroll-reform-uk-more-than-other-parties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-05 07:02",
+    "title_zh": "加密货币亿万富翁资助 Nigel Farage 的支持加密货币派对"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Strategy’s leveraged Bitcoin model has faced its first stress test: Grayscale",
+    "链接": "https://cointelegraph.com/news/strategys-leveraged-bitcoin-model-faces-first-stress-test-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-05 07:00",
+    "title_zh": "Strategy的杠杆比特币模型面临首次压力测试：灰度"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "What Is an XRP ETF? A Complete Guide to XRP Exchange-Traded Funds",
+    "链接": "https://www.theblock.co/learn/403712/what-is-an-xrp-etf?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-05 06:08",
+    "title_zh": "什么是 XRP ETF？ XRP 交易所交易基金完整指南"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Anthropic says self-improving AI may be closer than expected",
+    "链接": "https://cointelegraph.com/news/anthropic-ai-self-improvement-agents-recursive-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-05 06:03",
+    "title_zh": "Anthropic 表示自我改进的人工智能可能比预期更接近"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "ZEC drops 30% as Shielded Labs reveals more about infinite counterfeit bug",
+    "链接": "https://cointelegraph.com/news/zec-tanks-30-after-ai-security-review-discovers-critical-zcash-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-05 05:09",
+    "title_zh": "Shielded Labs 揭露更多有关无限伪造漏洞的信息，ZEC 下跌 30%"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Senate Republicans push finance watchdogs to clarify crypto capital rules",
+    "链接": "https://cointelegraph.com/news/senate-republicans-push-finance-regulators-to-clarify-crypto-capital-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-05 04:26",
+    "title_zh": "参议院共和党人敦促金融监管机构澄清加密货币资本规则"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Security researcher finds Zcash vulnerability allowing ‘unlimited’ counterfeit minting; ZEC drops 31%",
+    "链接": "https://www.theblock.co/post/403698/zcash-vulnerability-zec-drops?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-05 03:16",
+    "title_zh": "安全研究人员发现 Zcash 漏洞允许“无限”伪造铸币； ZEC 下跌 31%"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "JPMorgan, Citi-backed consortium plans to launch tokenized deposit network in early 2027: WSJ",
+    "链接": "https://www.theblock.co/post/403701/jpmorgan-citi-major-banks-tokenized-deposit-network?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-05 02:57",
+    "title_zh": "摩根大通和花旗支持的财团计划于 2027 年初推出代币化存款网络：《华尔街日报》"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin fell 21% after Strategy’s debt buyback news: Is Terra Luna-style doom loop next?",
+    "链接": "https://cointelegraph.com/markets/bitcoin-fell-21-after-strategys-debt-buyback-news-is-a-terra-luna-style-doom-loop-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-04 20:37",
+    "title_zh": "Strategy 发布债务回购消息后，比特币下跌 21%：下一个是 Terra Luna 式的末日循环吗？"
+  },
+  {
     "来源": "Cointelegraph",
     "标题": "Comptroller says only Democrats pressuring over crypto trust charter",
     "链接": "https://cointelegraph.com/news/occ-gould-political-pressure-democrats-world-liberty-financial?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
