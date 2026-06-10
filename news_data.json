@@ -1,6 +1,118 @@
 [
   {
     "来源": "Cointelegraph",
+    "标题": "Botanix to shut down after 4 years, cites weak demand for Bitcoin DeFi",
+    "链接": "https://cointelegraph.com/news/botanix-says-it-didnt-work-as-bitcoin-scaling-platform-shuts-down-sets-withdrawal-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-10 11:45",
+    "title_zh": "Botanix 在 4 年后关闭，理由是比特币 DeFi 需求疲软"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "More than 50% of bitcoin supply is underwater; prior bottoms followed within weeks, often after a final leg lower: K33",
+    "链接": "https://www.theblock.co/post/404229/more-than-half-bitcoin-supply-underwater-bottom-after-final-leg-lower-k33?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-10 11:15",
+    "title_zh": "超过 50% 的比特币供应量处于水下状态；先前的底部在几周内出现，通常是在最后一轮下跌之后：K33"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "New York regulator proposes stablecoin rule to align with federal GENIUS Act, adds reserve limits",
+    "链接": "https://www.theblock.co/post/404223/new-york-regulator-proposes-stablecoin-rule-to-align-with-federal-genius-act-adds-reserve-limits?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-10 10:38",
+    "title_zh": "纽约监管机构提议稳定币规则与联邦天才法案保持一致，并增加准备金限额"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "EU proposes ban on 11 crypto platforms in Russia sanctions push",
+    "链接": "https://cointelegraph.com/news/eu-russia-sanctions-11-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-10 09:46",
+    "title_zh": "欧盟提议禁止 11 个加密货币平台以应对俄罗斯制裁"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bitcoin Layer 2 Botanix to wind down network, urges users to withdraw assets",
+    "链接": "https://www.theblock.co/post/404216/bitcoin-layer-2-botanix-to-wind-down-network-urges-users-to-withdraw-assets?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-10 09:00",
+    "title_zh": "比特币 Layer 2 Botanix 关闭网络，敦促用户撤回资产"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Japan’s three megabanks to debut live stablecoin transactions by March 2027",
+    "链接": "https://www.theblock.co/post/404212/japans-three-megabanks-stablecoin-march-2027?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-10 07:58",
+    "title_zh": "日本三大银行将于 2027 年 3 月推出实时稳定币交易"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "SpaceX IPO nears 4 times oversubscribed, squeezing crypto and tech",
+    "链接": "https://cointelegraph.com/news/spacex-ipo-nears-four-times-oversubscribed-squeezing-crypto-and-tech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-10 07:29",
+    "title_zh": "SpaceX IPO 超额认购接近 4 倍，挤压加密货币和科技行业"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "EU proposes expanded sanctions on Russia-linked crypto platforms",
+    "链接": "https://www.theblock.co/post/404207/eu-proposes-russia-crypto-sanction?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-10 07:05",
+    "title_zh": "欧盟提议扩大对与俄罗斯相关的加密平台的制裁"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Chainalysis, South Korean police link up to fight crypto crime",
+    "链接": "https://cointelegraph.com/news/chainalysis-south-korean-police-link-up-to-fight-crypto-crime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-10 07:03",
+    "title_zh": "Chainaanalysis 与韩国警方联手打击加密货币犯罪"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Hyperliquid, Paradigm urge revision of GENIUS money-laundering rule",
+    "链接": "https://cointelegraph.com/news/hyperliquid-paradigm-urge-revision-of-genius-money-laundering-rule?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-10 06:40",
+    "title_zh": "Hyperliquid、Paradigm 敦促修改 GENIUS 洗钱规则"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "'Maximal' ban on insider trading would hurt prediction markets, says researcher",
+    "链接": "https://cointelegraph.com/news/prediction-markets-need-a-little-insider-trading-academic-research-finds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-10 05:55",
+    "title_zh": "研究人员表示，“最大”禁止内幕交易将损害预测市场"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Kalshi requires traders to disclose employers to curb insider trading in sensitive markets",
+    "链接": "https://www.theblock.co/post/404199/kalshi-requires-employer-disclosure?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-10 04:23",
+    "title_zh": "卡尔希要求交易员披露雇主信息，以遏制敏感市场的内幕交易"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Crypto users wary as Anthropic releases Claude Mythos with safeguards",
+    "链接": "https://cointelegraph.com/news/anthropic-releases-claude-mythos-with-safeguards-crypto-users-wary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-10 04:04",
+    "title_zh": "Anthropic 发布带有保障措施的 Claude Mythos 后，加密货币用户保持警惕"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Washington man gets 5 years for helping $100 million crypto money laundering scheme",
+    "链接": "https://www.theblock.co/post/404194/washington-man-gets-five-years?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-10 01:56",
+    "title_zh": "华盛顿男子因帮助价值 1 亿美元的加密货币洗钱计划被判 5 年徒刑"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "House crypto tax hearing reveals divide over urgency in advancing legislation",
+    "链接": "https://www.theblock.co/post/404187/house-crypto-tax-hearing-legislation?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-10 00:31",
+    "title_zh": "众议院加密货币税收听证会揭示了推进立法紧迫性的分歧"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin bottom? These 4 charts hint at BTC price dropping to $50K",
+    "链接": "https://cointelegraph.com/markets/bitcoin-bottom-these-four-charts-hint-at-btc-price-dropping-to-50k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-09 14:33",
+    "title_zh": "比特币见底？这 4 张图表暗示 BTC 价格跌至 5 万美元"
+  },
+  {
+    "来源": "Cointelegraph",
     "标题": "ETH crash to $1K looms if key support breaks: Will futures traders step in?",
     "链接": "https://cointelegraph.com/markets/ether-risks-revisit-of-1000-if-this-support-level-breaks-amid-leverage-reset-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "时间": "2026-06-09 21:21",
