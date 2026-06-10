@@ -1,6 +1,223 @@
 [
   {
     "来源": "Cointelegraph",
+    "标题": "Bitcoin miner margins fall to record low: Will BTC’s $60K floor hold?",
+    "链接": "https://cointelegraph.com/markets/bitcoin-miner-margins-fall-to-record-low-will-btcs-60k-floor-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-10 20:42",
+    "title_zh": "比特币矿商利润率跌至历史新低：BTC 6 万美元的底线能否守住？"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bitcoin takes back seat to stablecoins and tokenization among financial advisors: Bitwise CIO",
+    "链接": "https://www.theblock.co/post/404341/bitcoin-stablecoins-tokenization-bitwise-cio-financial-advisors?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-10 20:00",
+    "title_zh": "在财务顾问中，比特币让位于稳定币和代币化：Bitwise CIO"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Elon Musk’s SpaceX IPO could become bitcoin’s latest headwind",
+    "链接": "https://www.theblock.co/post/404324/elon-musks-spacex-ipo-could-become-bitcoins-latest-headwind?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-10 19:10",
+    "title_zh": "埃隆·马斯克 (Elon Musk) 的 SpaceX 首次公开募股可能成为比特币的最新阻力"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Solana infrastructure firm Helius acquires Light Protocol to expand onchain privacy",
+    "链接": "https://www.theblock.co/post/403982/solana-infrastructure-firm-helius-acquires-light-protocol-expand-onchain-privacy?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-10 18:58",
+    "title_zh": "Solana 基础设施公司 Helius 收购 Light Protocol 以扩展链上隐私"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "UK crypto advocates launch campaign against banks blocking exchange transfers",
+    "链接": "https://cointelegraph.com/news/uk-crypto-advocates-launch-campaign-against-banks-blocking-exchange-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-10 18:55",
+    "title_zh": "英国加密货币倡导者发起反对银行阻止兑换转账的运动"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Pending Bank of Japan rate decision may impact Bitcoin price: Should traders prepare?",
+    "链接": "https://cointelegraph.com/markets/can-bitcoin-avoid-another-sell-off-after-a-bank-of-japan-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-10 18:41",
+    "title_zh": "日本央行即将做出的利率决定可能会影响比特币价格：交易者应该做好准备吗？"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "CryptoQuant sees bitcoin bottom near $53,600 while demand remains ‘deeply unfavorable’",
+    "链接": "https://www.theblock.co/post/404316/cryptoquant-sees-bitcoin-bottom-near-53600-while-demand-remains-deeply-unfavorable?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-10 18:11",
+    "title_zh": "CryptoQuant 认为比特币触底接近 53,600 美元，而需求仍然“非常不利”"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Anchorage backs Treasury’s GENIUS AML rules, seeks secondary-market sanctions clarity",
+    "链接": "https://cointelegraph.com/news/anchorage-backs-treasurys-genius-aml-rules-seeks-secondary-market-sanctions-clarity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-10 17:20",
+    "title_zh": "安克雷奇支持财政部的 GENIUS AML 规则，寻求二级市场制裁的明确性"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Raydium DEX says $1.34 million exploit hit retired AMM program, treasury to cover losses",
+    "链接": "https://www.theblock.co/post/404304/raydium-dex-1-34-million-exploit-retired-amm-program-treasury-cover-losses?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-10 17:07",
+    "title_zh": "Raydium DEX 称已退役的 AMM 计划遭受 134 万美元的攻击，财政部将弥补损失"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Tether leads up to $1.4 billion round in robotics firm Neura, plans crypto wallet integration",
+    "链接": "https://www.theblock.co/post/404303/tether-leads-up-to-1-4-billion-round-in-robotics-firm-neura-plans-crypto-wallet-integration?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-10 17:05",
+    "title_zh": "Tether 领投机器人公司 Neura 融资 14 亿美元，计划整合加密钱包"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "UK crypto advocates push back on exchange transfer restrictions, say banks are ‘choking off’ adoption",
+    "链接": "https://www.theblock.co/post/404273/uk-crypto-advocates-push-back-exchange-transfer-blocks-banks-choking-off-adoption?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-10 16:36",
+    "title_zh": "英国加密货币倡导者反对兑换转账限制，称银行正在“阻止”采用"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin rises despite US inflation hitting 3-year high: Where will BTC price go?",
+    "链接": "https://cointelegraph.com/markets/bitcoin-rises-despite-us-inflation-hitting-3-year-high-where-will-btc-price-go?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-10 15:54",
+    "title_zh": "尽管美国通胀创三年新高，比特币仍上涨：比特币价格将何去何从？"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Mastercard unveils Agent Pay for Machines to support autonomous AI transactions, including stablecoins",
+    "链接": "https://www.theblock.co/post/404288/mastercard-agent-pay-machines-support-autonomous-ai-transactions-stablecoins?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-10 15:34",
+    "title_zh": "万事达卡推出代理支付机器以支持自主人工智能交易，包括稳定币"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Ethereum could become a fully zero-knowledge proof-based protocol in 3 to 5 years, Joe Lubin says",
+    "链接": "https://www.theblock.co/post/404185/ethereum-fully-zero-knowledge-proof-based-protocol-3-to-5-years-joe-lubin?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-10 15:22",
+    "title_zh": "Joe Lubin 表示，以太坊可能会在 3 到 5 年内成为一个完全基于零知识证明的协议"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "MegaETH-based MNX raises $6.4 million pre-seed at $40 million valuation to build AI-focused futures exchange",
+    "链接": "https://www.theblock.co/post/404281/megaeth-mnx-pre-seed-funding-valuation-ai-focused-futures-exchange?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-10 15:22",
+    "title_zh": "总部位于 MegaETH 的 MNX 以 4000 万美元的估值筹集了 640 万美元的种子前资金，以建立专注于人工智能的期货交易所"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Fold discloses $45 million bitcoin sale, pays off collateralized debt in full; shares surge 160%",
+    "链接": "https://www.theblock.co/post/404272/fold-discloses-45-million-bitcoin-sale-pays-off-collateralized-debt-in-full-shares-surge-160?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-10 15:00",
+    "title_zh": "Fold 披露出售 4500 万美元比特币，全额偿还抵押债务；股价飙升160%"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Onchain gambling keeps rolling with $14B quarter despite crypto slump: TRM Labs",
+    "链接": "https://cointelegraph.com/news/onchain-gambling-market-pullback-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-10 15:00",
+    "title_zh": "尽管加密货币市场低迷，但链上赌博仍以每季度 140 亿美元的速度增长：TRM Labs"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "AI deepfake election ad in Minnesota raises transparency concerns",
+    "链接": "https://cointelegraph.com/features/ai-deepfake-election-ad-in-minnesota-raises-transparency-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-10 15:00",
+    "title_zh": "明尼苏达州人工智能深度造假选举广告引发透明度担忧"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Tenev says Robinhood won underwriter approval as crypto markets front-run mega IPOs",
+    "链接": "https://cointelegraph.com/news/robinhood-secures-underwriter-status-crypto-front-mega-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-10 14:33",
+    "title_zh": "Tenev 表示，随着加密货币市场抢先进行大型 IPO，Robinhood 获得了承销商的批准"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Crypto outflows are sentiment shock, not structural crisis: CoinShares' Butterfill",
+    "链接": "https://cointelegraph.com/news/crypto-outflows-sentiment-shock-structural-crisis-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-10 14:08",
+    "title_zh": "CoinShares 的 Butterfill 表示，加密货币外流是情绪冲击，而不是结构性危机"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Pyth unveils continuous pricing indexes for US stocks and commodities",
+    "链接": "https://cointelegraph.com/news/pyth-24-7-pricing-indices-tokenized-stocks-commodities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-10 14:00",
+    "title_zh": "Pyth 推出美国股票和大宗商品的连续定价指数"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Benchmark says Securitize ‘poised to be a positive outlier,’ sets $16 target as NYSE listing nears",
+    "链接": "https://www.theblock.co/post/404255/benchmark-securitize-positive-outlier-sets-16-target-nyse-listing-nears?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-10 13:49",
+    "title_zh": "Benchmark 表示，随着 NYSE 上市临近，Securitize“有望成为一个积极的异常值”，目标价为 16 美元"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "CFTC unveils sweeping rule proposal for fast-growing prediction markets",
+    "链接": "https://www.theblock.co/post/404258/cftc-unveils-sweeping-rule-proposal-fast-growing-prediction-markets?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-10 13:46",
+    "title_zh": "CFTC 公布针对快速增长的预测市场的全面规则提案"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Ripple launches toolkit for agentic payments on XRPL",
+    "链接": "https://www.theblock.co/post/404243/ripple-launches-toolkit-for-agentic-payments-on-xrpl?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-10 13:32",
+    "title_zh": "Ripple 推出 XRPL 代理支付工具包"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin price may slide toward $30K as institutions dump 450% of daily BTC supply",
+    "链接": "https://cointelegraph.com/markets/bitcoin-price-may-slip-under-30k-as-institutions-dump-450-of-daily-btc-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-10 13:11",
+    "title_zh": "随着机构抛售 450% 的每日 BTC 供应量，比特币价格可能会滑向 3 万美元"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Curve launches Llamalend v2 first on Optimism supported by 250,000 OP token grant",
+    "链接": "https://www.theblock.co/post/404144/curve-launches-llamalend-v2-first-optimism-supported-250000-op-token-grant?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-10 13:05",
+    "title_zh": "Curve 在 Optimism 的支持下首次推出 Llamalend v2，并获得 250,000 个 OP 代币授予"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Pyth launches 24/7 proprietary indices for US equities, oil and metals",
+    "链接": "https://www.theblock.co/post/404238/pyth-launches-24-7-proprietary-indices-for-us-equities-oil-and-metals?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-10 13:00",
+    "title_zh": "Pyth 推出 24/7 美国股票、石油和金属专有指数"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "‘In the shadow of geopolitics and AI’: Bitcoin hovers near cycle lows as ETF outflows and rate fears deepen worst stretch of 2026",
+    "链接": "https://www.theblock.co/post/404237/in-the-shadow-of-geopolitics-and-ai-bitcoin-hovers-near-cycle-lows-as-etf-outflows-and-rate-fears-deepen-worst-stretch-of-2026?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-10 12:49",
+    "title_zh": "“在地缘政治和人工智能的阴影下”：随着 ETF 资金外流和利率担忧加深，比特币徘徊在周期低点附近，这是 2026 年最糟糕的时期"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Equipment finance platform Trad.Fi to bring $650M in private credit onchain",
+    "链接": "https://cointelegraph.com/news/equipment-finance-tradfi-650m-private-credit-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-10 12:09",
+    "title_zh": "设备融资平台 Trad.Fi 将在链上提供 6.5 亿美元的私人信贷"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Blockchain.com launches SpaceX-linked perpetual amid pre-IPO trading boom",
+    "链接": "https://cointelegraph.com/news/blockchaincom-launches-247-institutional-perpetuals-adds-spacex-pre-ipo-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-10 07:00",
+    "title_zh": "Blockchain.com 在 IPO 前交易热潮中推出与 SpaceX 相关的永续合约"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "BBB National Programs refers prediction market Kalshi to state regulators over ad inquiry",
+    "链接": "https://cointelegraph.com/news/bbb-nad-refers-kalshi-state-regulators-advertising-influencer-inquiry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-09 17:45",
+    "title_zh": "BBB 国家计划将预测市场 Kalshi 就广告查询问题提交给州监管机构"
+  },
+  {
+    "来源": "Cointelegraph",
     "标题": "Botanix to shut down after 4 years, cites weak demand for Bitcoin DeFi",
     "链接": "https://cointelegraph.com/news/botanix-says-it-didnt-work-as-bitcoin-scaling-platform-shuts-down-sets-withdrawal-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "时间": "2026-06-10 11:45",
