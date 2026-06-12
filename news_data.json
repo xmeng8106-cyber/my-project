@@ -1,6 +1,146 @@
 [
   {
     "来源": "TheBlock",
+    "标题": "South Korea finance ministry says tokenized stocks are securities, not crypto assets, opening door to taxes: report",
+    "链接": "https://www.theblock.co/post/404580/south-korea-finance-ministry-says-tokenized-stocks-are-securities-not-crypto-assets-opening-door-to-taxes-report?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-12 11:38",
+    "title_zh": "韩国财政部表示，代币化股票是证券，而不是加密资产，这为税收敞开了大门：报告"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin miner 'capitulation' comes as trader sees later 2026 bear-market bottom",
+    "链接": "https://cointelegraph.com/markets/bitcoin-miner-capitulation-comes-as-trader-sees-later-2026-bear-market-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-12 10:46",
+    "title_zh": "交易员预计 2026 年晚些时候熊市将触底，比特币矿商“投降”"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "There is a ‘fundamental clash’ between bitcoin and institutionalization, says BTC circular economy project founder",
+    "链接": "https://www.theblock.co/post/404563/bitcoin-ekasi-btc-prague?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-12 10:30",
+    "title_zh": "BTC循环经济项目创始人表示，比特币与制度化之间存在“根本性冲突”"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "SpaceX IPO update: Whale opens $22.3M SPCX long as synthetic price hits 30% premium",
+    "链接": "https://cointelegraph.com/markets/spacex-ipo-update-whale-opens-223m-spcx-long-as-synthetic-price-hits-30-premium?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-12 10:18",
+    "title_zh": "SpaceX IPO更新：只要合成价格达到溢价30%，Whale就会以2230万美元的价格开出SPCX"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bitwise’s Dragosch sees up to 20% further downside for bitcoin, puts ‘max pain’ scenario at $48,000",
+    "链接": "https://www.theblock.co/post/404561/bitwise-dragosch-bitcoin-max-pain-48k?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-12 10:02",
+    "title_zh": "Bitwise 的 Dragosch 预计比特币将进一步下跌 20%，将“最大痛苦”情景定为 48,000 美元"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Crypto scammers exploit World Cup ticket demand, TRM warns",
+    "链接": "https://cointelegraph.com/news/trm-world-cup-crypto-scams-fake-tickets-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-12 09:52",
+    "title_zh": "TRM 警告称，加密货币诈骗者利用世界杯门票需求"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Metaplanet to acquire Siiibo Securities for $13 million to develop bitcoin-linked yield products",
+    "链接": "https://www.theblock.co/post/404564/metaplanet-siiibo-securities-acquisition?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-12 09:39",
+    "title_zh": "Metaplanet 以 1300 万美元收购 Siiibo Securities 以开发与比特币挂钩的收益产品"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "AI buildout weighs on bitcoin demand but future gains could reverse trend, Relai CEO says",
+    "链接": "https://www.theblock.co/post/404554/ai-buildout-weighs-on-bitcoin-demand-relai-ceo?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-12 09:00",
+    "title_zh": "Relai首席执行官表示，人工智能的发展对比特币需求造成压力，但未来的收益可能会扭转趋势"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "International sting shuts down $390M crypto money-laundering ring",
+    "链接": "https://cointelegraph.com/news/international-sting-shuts-down-390m-crypto-money-laundering-ring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-12 07:12",
+    "title_zh": "国际诱捕关闭了价值 3.9 亿美元的加密货币洗钱团伙"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "SEC plan to scrap ‘Rule 611’ positive for tokenized US stocks: Galaxy",
+    "链接": "https://cointelegraph.com/news/sec-plan-to-scrap-rule-611-a-boon-for-tokenized-us-stocks-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-12 06:44",
+    "title_zh": "Galaxy 计划废除对代币化美国股票有利的“611 规则”"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "BlackRock files 8-A for yield-bearing bitcoin ETF; analyst expects launch next week",
+    "链接": "https://www.theblock.co/post/404530/blackrock-8a-yield-bearing-bitcoin-etf?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-12 05:39",
+    "title_zh": "贝莱德为有收益的比特币 ETF 提交 8-A 申请；分析师预计下周推出"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Avalanche Treasury shares fall 38% on Nasdaq debut after $675 million merger",
+    "链接": "https://www.theblock.co/post/404523/avalanche-treasury-nasdaq-debut?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-12 05:14",
+    "title_zh": "价值 6.75 亿美元的合并后，Avalanche Treasury 股价在纳斯达克上市下跌 38%"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "LG, Arbitrum launch blockchain-based bid in $679B ad market",
+    "链接": "https://cointelegraph.com/news/lg-arbitrum-launch-blockchain-based-bid-for-679b-ad-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-12 04:32",
+    "title_zh": "LG 和 Arbitrum 在 $679B 广告市场推出基于区块链的竞标"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Coinbase launches tool letting AI agents make payments and trade crypto",
+    "链接": "https://cointelegraph.com/news/coinbase-launches-tool-letting-ai-agents-make-payments-and-trade-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-12 04:19",
+    "title_zh": "Coinbase 推出工具让人工智能代理进行支付和交易加密货币"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Avalanche Treasury falls 16% as it debuts on Nasdaq",
+    "链接": "https://cointelegraph.com/news/avalanche-treasury-starts-trading-on-nasdaq-but-shares-fall-16-on-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-12 04:16",
+    "title_zh": "Avalanche Treasury 在纳斯达克上市，股价下跌 16%"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "SEC’s proposal to scrap key NMS rules a major unlock for tokenized US stocks: analysts",
+    "链接": "https://www.theblock.co/post/404515/sec-proposal-major-unlock-tokenized-stocks?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-12 04:15",
+    "title_zh": "分析师称，SEC 提议废除关键的 NMS 规则，这对美国股票代币化来说是一个重大解锁"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "‘Anarchistic neobanks’ are bitcoin’s next frontier, says Blockrise CEO",
+    "链接": "https://www.theblock.co/post/404469/anarchistic-neobanks-bitcoins-next-frontier-says-blockrise-ceo?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-12 00:01",
+    "title_zh": "Blockrise 首席执行官表示，“无政府主义新银行”是比特币的下一个前沿领域"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Big Tech crash, oil volatility rattles markets: Will Bitcoin hold above $60K?",
+    "链接": "https://cointelegraph.com/markets/big-tech-crash-oil-volatility-rattles-markets-will-bitcoin-hold-above-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-11 22:58",
+    "title_zh": "大型科技股崩盘、石油波动扰乱市场：比特币能否守住 6 万美元以上？"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Citi launches blockchain marketplace for shares of private companies: Report",
+    "链接": "https://cointelegraph.com/news/citi-launches-blockchain-marketplace-private-company-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-11 21:24",
+    "title_zh": "花旗推出私营公司股票区块链市场：报告"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "US lawmakers seek coordinated federal response to crypto theft and scams",
+    "链接": "https://cointelegraph.com/news/doj-crypto-theft-task-force-proposed-by-bipartisan-lawmakers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-11 07:00",
+    "title_zh": "美国立法者寻求联邦政府对加密货币盗窃和诈骗采取协调一致的反应"
+  },
+  {
+    "来源": "TheBlock",
     "标题": "Man who spent 1,500 BTC on graphics card now helps insure bitcoin holders",
     "链接": "https://www.theblock.co/post/404438/man-who-spent-1500-btc-graphics-card-now-helps-insure-bitcoin-holders?utm_source=rss&utm_medium=rss",
     "时间": "2026-06-11 21:01",
