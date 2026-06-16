@@ -1,5 +1,250 @@
 [
   {
+    "来源": "TheBlock",
+    "标题": "Squid adds Ripple’s RLUSD stablecoin for cross-chain swaps",
+    "链接": "https://www.theblock.co/post/405005/squid-ripple-rlusd-stablecoin-cross-chain-swaps?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-16 17:40",
+    "title_zh": "Squid 添加 Ripple 的 RLUSD 稳定币用于跨链交换"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "State Street launches GENIUS Act-aligned money market fund for stablecoin reserves",
+    "链接": "https://cointelegraph.com/news/state-street-launches-genius-act-aligned-money-market-fund-for-stablecoin-reserves?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-16 17:28",
+    "title_zh": "道富银行推出符合《天才法案》的稳定币储备货币市场基金"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Ripple targets Africa’s booming remittance market with Flutterwave investment",
+    "链接": "https://cointelegraph.com/news/ripple-flutterwave-africa-stablecoin-remittances-investment?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-16 17:28",
+    "title_zh": "Ripple 通过 Flutterwave 投资瞄准非洲蓬勃发展的汇款市场"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bitcoin DeFi demand concentrated in small-but-deep pockets, Rootstock exec says",
+    "链接": "https://www.theblock.co/post/404980/bitcoin-defi-demand-concentrated-small-pockets-rootstock-exec-says?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-16 17:19",
+    "title_zh": "Rootstock 高管表示，比特币 DeFi 需求集中在财力虽小但资金雄厚的人群"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Why US-regulated Bitcoin perpetuals could change crypto trading",
+    "链接": "https://cointelegraph.com/learn/us-regulated-bitcoin-perpetual-futures?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-16 17:00",
+    "title_zh": "为什么美国监管的比特币永续合约可能会改变加密货币交易"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Binance says it considers EU license compliant amid reports of potential rejection",
+    "链接": "https://cointelegraph.com/news/binance-response-mica-european-union-license?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-16 16:26",
+    "title_zh": "币安表示，在有可能被拒绝的报道中，它认为欧盟许可证符合规定"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Coinbase launching tokenized US stocks, backed 1:1, with holders able to receive dividends",
+    "链接": "https://www.theblock.co/post/404978/coinbase-launching-tokenized-us-stocks-backed-11-holders-receive-dividends?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-16 16:02",
+    "title_zh": "Coinbase推出代币化美股，支持1:1，持有者可获得股息"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "MANTRA to be acquired by Inveniam, backer that invested $20 million last year",
+    "链接": "https://www.theblock.co/post/404964/mantra-to-be-acquired-by-inveniam-backer-that-invested-20-million-last-year?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-16 15:27",
+    "title_zh": "MANTRA 将被去年投资 2000 万美元的支持者 Inveniam 收购"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Forward Solana treasury stock jumps 8% as smaller DATs reject acquisition bids",
+    "链接": "https://www.theblock.co/post/404965/forward-solana-treasury-stock-jumps-8-as-smaller-dats-reject-acquisition-bids?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-16 15:22",
+    "title_zh": "由于规模较小的 DAT 拒绝收购要约，Forward Solana 库存股上涨 8%"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "SEC Chair Atkins defends CFTC’s Selig despite questions over agency’s ability to regulate prediction markets",
+    "链接": "https://www.theblock.co/post/404956/sec-atkins-defends-cftc-selig-questions-agencys-ability-regulate-prediction-markets?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-16 14:36",
+    "title_zh": "SEC 主席阿特金斯为 CFTC 的 Selig 辩护，尽管该机构监管预测市场的能力受到质疑"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Binance may be forced to halt services for EU clients next month: Reuters",
+    "链接": "https://www.theblock.co/post/404947/binance-may-forced-halt-services-eu-clients-next-month-reuters?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-16 14:19",
+    "title_zh": "币安下个月可能被迫停止为欧盟客户提供服务：路透社"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin stocks divergence returns as BTC dips to $66K while oil drops under $78",
+    "链接": "https://cointelegraph.com/markets/bitcoin-stocks-divergence-returns-as-btc-drops-to-66k-while-nasdaq-adds-3?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-16 14:18",
+    "title_zh": "比特币股票背离回归，比特币跌至 6.6 万美元，而油价则跌至 78 美元以下"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "SpaceX’s debut: A win for crypto price discovery, a fail for tokenized access",
+    "链接": "https://cointelegraph.com/features/spacex-ipo-crypto-price-tokenized-stock?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-16 14:00",
+    "title_zh": "SpaceX 首次亮相：加密货币价格发现的胜利，代币化访问的失败"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Why a ‘safe’ AI can turn dangerous in the wrong company",
+    "链接": "https://cointelegraph.com/learn/emergence-world-ai-agent-simulation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-16 13:58",
+    "title_zh": "为什么“安全”的人工智能在错误的公司里会变得危险"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Ripple buys into Flutterwave Series E at $3.2 billion valuation, backs RLUSD integration",
+    "链接": "https://www.theblock.co/post/404942/ripple-flutterwave-series-3-2-billion-valuation-rlusd-integration?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-16 13:45",
+    "title_zh": "Ripple 以 32 亿美元估值收购 Flutterwave E 系列，支持 RLUSD 整合"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "State Street launches GENIUS-compliant money market fund for stablecoin issuers",
+    "链接": "https://www.theblock.co/post/404941/state-street-launches-genius-compliant-money-market-fund-for-stablecoin-issuers?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-16 13:44",
+    "title_zh": "道富银行为稳定币发行人推出符合 GENIUS 标准的货币市场基金"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bitcoin’s rally and HYPE’s record run mask a market still waiting for real conviction, analysts say",
+    "链接": "https://www.theblock.co/post/404920/bitcoin-rally-hype-record-run-market-waiting-real-conviction-analysts?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-16 13:36",
+    "title_zh": "分析师表示，比特币的反弹和 HYPE 创纪录的运行掩盖了市场仍在等待真正的信念"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Gate CrossEx: An Exchange-Native Answer to the Institutional Capital Fragmentation Problem",
+    "链接": "https://www.theblock.co/post/404882/gate-crossex-an-exchange-native-answer-to-the-institutional-capital-fragmentation-problem?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-16 13:24",
+    "title_zh": "Gate CrossEx：针对机构资本碎片化问题的交易所原生解决方案"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Ledn says bitcoin-backed lending market could reach $1 trillion as securitization attracts institutional capital",
+    "链接": "https://www.theblock.co/post/404885/ledn-says-bitcoin-backed-lending-market-could-reach-1-trillion-as-securitization-attracts-institutional-capital?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-16 12:47",
+    "title_zh": "Ledn 表示，随着证券化吸引机构资本，比特币支持的贷款市场可能达到 1 万亿美元"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Robinhood cuts 10% of staff, expects $28 million in restructuring charges",
+    "链接": "https://www.theblock.co/post/404883/robinhood-cuts-10-of-staff-expects-28-million-in-restructuring-charges?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-16 12:45",
+    "title_zh": "Robinhood 裁员 10%，预计重组费用为 2800 万美元"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin sell-off toward $60K may resume as Japan hikes interest rates",
+    "链接": "https://cointelegraph.com/markets/bitcoin-selloff-toward-60k-may-resume-as-japan-hikes-interest-rates?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-16 12:37",
+    "title_zh": "随着日本加息，比特币可能会再次跌向 6 万美元"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Robinhood cuts 10% of workforce as Tenev touts business strength",
+    "链接": "https://cointelegraph.com/news/robinhood-cuts-workforce-tenev-strong-business?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-16 12:13",
+    "title_zh": "特内夫宣扬业务实力，Robinhood 裁员 10%"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "BlackRock launches new Bitcoin ETF that generates income using a covered call strategy",
+    "链接": "https://www.theblock.co/post/404825/blackrock-launches-new-ishares-bitcoin-premium-income-etf-covered-call-nasdaq?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-16 12:00",
+    "title_zh": "贝莱德推出新的比特币 ETF，利用备兑看涨策略产生收入"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Coinbase, AWS enable publishers on CloudFront and WAF to charge AI agents via x402 protocol",
+    "链接": "https://www.theblock.co/post/404877/coinbase-aws-enable-publishers-on-cloudfront-and-waf-to-charge-ai-agents-via-x402-protocol?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-16 11:40",
+    "title_zh": "Coinbase、AWS 使 CloudFront 和 WAF 上的发布商能够通过 x402 协议向 AI 代理收费"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Solana treasury firms resist Forward Industries’ consolidation push",
+    "链接": "https://cointelegraph.com/news/solana-treasury-firms-reject-forward-industries-offers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-16 11:22",
+    "title_zh": "Solana 财务公司抵制 Forward Industries 的整合举措"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "India files charges against 8 defendants in alleged $20 million Coinbase spoofing scam",
+    "链接": "https://www.theblock.co/post/404872/india-files-charges-against-8-defendants-in-alleged-20-million-coinbase-spoofing-scam?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-16 11:05",
+    "title_zh": "印度对 8 名被告提出指控，指控其涉嫌 2000 万美元的 Coinbase 欺骗诈骗"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "‘That’s the wrong question’: Bitwise CIO reframes bitcoin bottom debate, points to long-term drivers",
+    "链接": "https://www.theblock.co/post/404867/thats-the-wrong-question-bitwise-cio-reframes-bitcoin-bottom-debate-points-to-long-term-drivers?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-16 10:13",
+    "title_zh": "“这是错误的问题”：Bitwise CIO 重新构建比特币底部争论，指出长期驱动因素"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin doesn't need Ethereum-style yield, says Strategy's Michael Saylor",
+    "链接": "https://cointelegraph.com/news/strategy-saylor-bitcoin-credit-alternative-crypto-yield?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-16 10:11",
+    "title_zh": "Strategy 的 Michael Saylor 表示，比特币不需要以太坊式的收益率"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "IMF says Nigeria’s stablecoin adoption is ‘testing the limits’ of monetary and regulatory frameworks",
+    "链接": "https://www.theblock.co/post/404862/imf-nigeria-stablecoin-adoption-testing-limits-monetary-regulatory-frameworks?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-16 09:32",
+    "title_zh": "国际货币基金组织表示尼日利亚采用稳定币正在“测试货币和监管框架的极限”"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "French BTC treasury firm Capital B developing STRC-style bitcoin credit instrument",
+    "链接": "https://www.theblock.co/post/404854/french-btc-treasury-firm-capital-b-developing-strc-style-bitcoin-credit-instrument?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-16 08:45",
+    "title_zh": "法国 BTC 财务公司 Capital B 开发 STRC 式比特币信贷工具"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin miner IREN enters Europe with Nostrum acquisition as AI pivot accelerates",
+    "链接": "https://cointelegraph.com/news/iren-nostrum-acquisition-europe-ai-cloud?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-16 08:24",
+    "title_zh": "随着人工智能加速发展，比特币矿商 IREN 收购 Nostrum 进军欧洲"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin recovery rests on US-Iran deal as momentum remains weak",
+    "链接": "https://cointelegraph.com/news/bitcoin-price-momentum-remains-weak-despite-reclaiming-67k-swissblock?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-16 05:46",
+    "title_zh": "比特币复苏取决于美伊协议，势头依然疲弱"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "US government watchdog urges FDIC to coordinate on crypto oversight",
+    "链接": "https://cointelegraph.com/news/us-government-watchdog-urges-fdic-coordinate-on-crypto-oversight?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-16 04:42",
+    "title_zh": "美国政府监管机构敦促 FDIC 协调加密货币监管"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Anthropic shutdown makes a strong case for decentralized AI: Grayscale",
+    "链接": "https://cointelegraph.com/news/anthropic-shutdown-makes-a-strong-case-for-decentralized-ai-grayscale?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-16 03:38",
+    "title_zh": "人为关闭为去中心化人工智能提供了强有力的理由：灰度"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "What happens when AI agents start using crypto wallets?",
+    "链接": "https://cointelegraph.com/learn/ai-agents-crypto-wallets?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-15 13:25",
+    "title_zh": "当人工智能代理开始使用加密钱包时会发生什么？"
+  },
+  {
     "来源": "Cointelegraph",
     "标题": "Trump crypto company's USD1 stablecoins backing UFC event bonuses",
     "链接": "https://cointelegraph.com/news/donald-trump-crypto-company-ufc-fighter-bonuses-usd1-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
