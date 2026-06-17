@@ -1,6 +1,111 @@
 [
   {
     "来源": "Cointelegraph",
+    "标题": "Bybit lands on Singapore MAS Investor Alert List",
+    "链接": "https://cointelegraph.com/news/bybit-singapore-mas-investor-alert-list?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-17 16:25",
+    "title_zh": "Bybit进入新加坡金管局投资者警示名单"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Polychain and Coinbase-backed Satori Finance DEX winds down citing ‘unfavorable market conditions’",
+    "链接": "https://www.theblock.co/post/405136/polychain-coinbase-backed-satori-finance-dex-winds-down-unfavorable-market-conditions?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-17 16:19",
+    "title_zh": "Polychain 和 Coinbase 支持的 Satori Finance DEX 以“不利的市场条件”为由关闭"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Trump comments fuel dispute over Polymarket’s $120 million ‘permanent’ Iran peace deal market",
+    "链接": "https://www.theblock.co/post/405117/trump-comments-fuel-dispute-over-polymarkets-120-million-permanent-iran-peace-deal-market?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-17 15:48",
+    "title_zh": "特朗普的言论加剧了有关 Polymarket 价值 1.2 亿美元的“永久”伊朗和平协议市场的争议"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "‘Biggest spend of the cycle:’ Fairshake crypto PAC’s pick Barry Moore wins Alabama GOP Senate primary",
+    "链接": "https://www.theblock.co/post/405125/biggest-spend-of-the-cycle-fairshake-crypto-pacs-pick-barry-moore-wins-alabama-gop-senate-primary?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-17 15:39",
+    "title_zh": "“本周期最大的支出：”Fairshake 加密 PAC 的人选巴里·摩尔赢得阿拉巴马州共和党参议院初选"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Trace Finance raises $32M for cross-border stablecoin settlement expansion",
+    "链接": "https://cointelegraph.com/news/trace-finance-cross-border-stablecoin-settlement-expansion?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-17 15:00",
+    "title_zh": "Trace Finance 筹集 3200 万美元用于跨境稳定币结算扩张"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "EarnOS launches anti-AI slop app, raises $6 million from 1kx, Circle and Coinbase",
+    "链接": "https://www.theblock.co/post/405114/earnos-launches-anti-ai-slop-app-raises-6-million-1kx-circle-coinbase?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-17 14:57",
+    "title_zh": "EarnOS推出反AIslop应用程序，从1kx、Circle和Coinbase筹集了600万美元"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin price sets $64.5K week-to-date low as Strategy selling worries return",
+    "链接": "https://cointelegraph.com/markets/bitcoin-price-sets-645k-week-to-date-low-as-strategy-selling-worries-return?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-17 14:49",
+    "title_zh": "由于战略抛售忧虑卷土重来，比特币价格创下本周迄今低点 6.45 万美元"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bhutan sends $34.5 million in bitcoin to Binance, holdings fall below 1,750 BTC: Arkham",
+    "链接": "https://www.theblock.co/post/405111/bhutan-bitcoin-binance-holdings-fall-below-1750-btc-arkham?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-17 14:27",
+    "title_zh": "不丹向币安发送了 3450 万美元的比特币，持有量跌破 1,750 BTC：Arkham"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Stablecoin infrastructure firm Trace Finance raises $32 million Series A, says valuation grew 10x from seed",
+    "链接": "https://www.theblock.co/post/405104/trace-finance-funding-valuation-stablecoins-crypto?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-17 14:19",
+    "title_zh": "稳定币基础设施公司 Trace Finance 筹集 3200 万美元 A 轮融资，估值较种子期增长 10 倍"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Limitless CEO says no prediction market platform will dominate, citing perpetual futures precedent",
+    "链接": "https://www.theblock.co/post/405086/limitless-ceo-no-prediction-market-platform-will-dominate-perpetual-futures-precedent?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-17 14:11",
+    "title_zh": "Limitless首席执行官表示，预测市场平台不会占据主导地位，并援引永续期货先例"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Ready USDC card halts non-EEA service after issuer change, users report",
+    "链接": "https://cointelegraph.com/news/ready-usdc-card-service-halt-non-eea-report?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-17 14:08",
+    "title_zh": "用户报告，Ready USDC 卡在发卡机构变更后停止非 EEA 服务"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "CoinMENA, Standard Chartered partner on UAE payment rails",
+    "链接": "https://cointelegraph.com/news/coinmena-standard-chartered-revolut-uae-crypto-finance?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-17 13:44",
+    "title_zh": "CoinMENA 与渣打银行合作开发阿联酋支付轨道"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Onchain, in court: What happened in crypto legal news this week",
+    "链接": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news3?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-17 13:40",
+    "title_zh": "链上法庭：本周加密法律新闻中发生了什么"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "‘He had his day in court:’ Sens. Lummis and Gallego press Trump not to pardon former FTX CEO Sam Bankman-Fried",
+    "链接": "https://www.theblock.co/post/405090/sens-lummis-gallego-trump-not-pardon-ftx-sam-bankman-fried?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-17 13:10",
+    "title_zh": "“他在法庭上度过了愉快的时光：”参议员 Lummis 和 Gallego 敦促特朗普不要赦免 FTX 前首席执行官 Sam Bankman-Fried"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin Covenants Part 2: OP_CHECKTEMPLATEVERIFY",
+    "链接": "https://cointelegraph.com/research/bitcoin-covenants-part-2-op-checktemplateverify?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-16 23:00",
+    "title_zh": "比特币契约第 2 部分：OP_CHECKTEMPLATEVERIFY"
+  },
+  {
+    "来源": "Cointelegraph",
     "标题": "Inveniam to acquire Mantra after turbulent year marked by OM crash",
     "链接": "https://cointelegraph.com/news/inveniam-acquire-mantra-om-token-collapse?utm_source=rss&utm_medium=rss&utm_campaign=rss",
     "时间": "2026-06-17 12:54",
