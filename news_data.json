@@ -1,6 +1,83 @@
 [
   {
     "来源": "TheBlock",
+    "标题": "CryptoQuant says bitcoin microtransactions now make up 80% of daily transactions",
+    "链接": "https://www.theblock.co/post/405340/cryptoquant-bitcoin-micro-transactions-btc?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-18 21:07",
+    "title_zh": "CryptoQuant 表示比特币微交易现已占日常交易的 80%"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Custodia, Vantage propose token that toggles between bank deposits and stablecoins",
+    "链接": "https://cointelegraph.com/news/custodia-vantage-unveil-token-that-shifts-between-bank-deposits-and-stablecoins?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-18 21:02",
+    "title_zh": "Custodia 和 Vantage 提出可在银行存款和稳定币之间切换的代币"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "New Texas power grid allocation framework could lift bitcoin miners turned data center operators",
+    "链接": "https://www.theblock.co/post/405322/texas-power-grid-allocation-framework-lift-bitcoin-miners-data-center-operators?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-18 20:55",
+    "title_zh": "新的德克萨斯州电网分配框架可能会推动比特币矿工转向数据中心运营商"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Ireland mulls crypto safeguards in response to financial risks",
+    "链接": "https://cointelegraph.com/news/ireland-government-standards-crypto-risk-assessment?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-18 20:25",
+    "title_zh": "爱尔兰考虑采取加密保护措施应对金融风险"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Wealthsimple launches Kalshi-powered prediction market app for Canadian investors",
+    "链接": "https://cointelegraph.com/news/wealthsimple-launches-kalshi-powered-prediction-market-app-for-canadian-investors?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-18 20:07",
+    "title_zh": "Wealthsimple 为加拿大投资者推出由 Kalshi 支持的预测市场应用程序"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Sen. Gillibrand’s son is building a perps exchange that wants dual CFTC, SEC oversight: report",
+    "链接": "https://www.theblock.co/post/405334/sen-gillibrand-son-building-perps-exchange-dual-cftc-sec-oversight?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-18 20:06",
+    "title_zh": "参议员吉利布兰德的儿子正在建立一个 Perps 交易所，希望得到 CFTC 和 SEC 的双重监督：报告"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Rep. Steil introduces bill to block lawmakers from placing prediction markets bets on public policy issues",
+    "链接": "https://www.theblock.co/post/405331/rep-steil-introduces-bill-to-block-lawmakers-from-placing-prediction-markets-bets-on-public-policy-issues?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-18 19:55",
+    "title_zh": "众议员斯泰尔提出法案，阻止立法者将预测市场押注于公共政策问题"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Ethereum Foundation leadership exodus continues with director’s departure",
+    "链接": "https://cointelegraph.com/news/ethereum-foundation-leadership-exodus-continues-with-directors-departure?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-18 19:51",
+    "title_zh": "以太坊基金会领导层继续流失，董事离职"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin’s deeply discounted versus AI-stocks, but hawkish Fed risk lingers: Bitwise",
+    "链接": "https://cointelegraph.com/markets/bitcoin-flashes-a-discount-to-ai-stocks-but-hawkish-fed-risk-lingers-bitwise?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-18 19:41",
+    "title_zh": "比特币相对人工智能股票大幅折扣，但美联储鹰派风险依然存在：Bitwise"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "CFTC enters settlement with former Celsius CEO, imposes a permanent trading ban",
+    "链接": "https://www.theblock.co/post/405323/cftc-enters-settlement-former-celsius-ceo-imposes-permanent-trading-ban?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-18 19:28",
+    "title_zh": "CFTC 与摄氏度前首席执行官达成和解，实施永久交易禁令"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Hyperliquid poised to become more than an exchange and drive HYPE higher, Hyperion CEO says",
+    "链接": "https://www.theblock.co/post/405300/hyperliquid-poised-become-more-exchange-boost-hypes-value-hyperion-ceo-says?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-18 18:44",
+    "title_zh": "Hyperion 首席执行官表示，Hyperliquid 不仅是一家交易所，还将推动 HYPE 推高"
+  },
+  {
+    "来源": "TheBlock",
     "标题": "JPMorgan says bitcoin mining economics have ‘worsened’ as BTC trades below production cost",
     "链接": "https://www.theblock.co/post/405302/jpmorgan-bitcoin-mining-btc-production-cost?utm_source=rss&utm_medium=rss",
     "时间": "2026-06-18 18:31",
