@@ -1,6 +1,90 @@
 [
   {
     "来源": "TheBlock",
+    "标题": "Bitcoin miners Bitdeer, CleanSpark and more report mixed May output as AI buildouts impact hashrate growth, treasury models",
+    "链接": "https://www.theblock.co/post/405268/bitcoin-miners-bitdeer-cleanspark-and-more-report-mixed-may-output-as-ai-buildouts-impact-hashrate-growth-treasury-models?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-18 15:36",
+    "title_zh": "比特币矿商 Bitdeer、CleanSpark 等公司报告 5 月份产出喜忧参半，因为人工智能的建设影响了算力增长和财务模型"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "The DAO hack at 10: From $50 million exploit to a $130 million Ethereum security fund",
+    "链接": "https://www.theblock.co/post/405248/ethereum-130-million-security-fund-the-dao-hack-10-years?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-18 15:20",
+    "title_zh": "DAO 黑客攻击 10：从 5000 万美元的漏洞到 1.3 亿美元的以太坊安全基金"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Ethereum Foundation co-Exec Director and board member Hsiao-Wei Wang steps down",
+    "链接": "https://www.theblock.co/post/405271/ethereum-foundation-co-exec-director-board-member-hsiao-wei-wang-steps-down?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-18 15:07",
+    "title_zh": "以太坊基金会联合执行董事兼董事会成员王小伟辞职"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin to $145K by October? Why this 'crazy accurate' 4chan prediction is sketchy",
+    "链接": "https://cointelegraph.com/markets/bitcoin-to-145k-by-october-why-this-crazy-accurate-4chan-prediction-is-sketchy?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-18 14:46",
+    "title_zh": "10 月比特币将涨至 14.5 万美元？为什么这个“极其准确”的 4chan 预测是粗略的"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "What happens when ChatGPT becomes the front door to crypto",
+    "链接": "https://cointelegraph.com/learn/ai-chatbots-crypto-users?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-18 14:30",
+    "title_zh": "当 ChatGPT 成为加密货币的前门时会发生什么"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Federal Reserve rolls out proposing rulemaking requiring stablecoin issuers to maintain customer identification program",
+    "链接": "https://www.theblock.co/post/405247/federal-reserve-rolls-out-proposing-rulemaking-requiring-stablecoin-issuers-to-maintain-customer-identification-program?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-18 14:22",
+    "title_zh": "美联储推出规则制定提案，要求稳定币发行人维护客户身份识别计划"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Kraken integrates Solana DEX trading into core app, with support for additional networks planned",
+    "链接": "https://www.theblock.co/post/405242/kraken-integrates-solana-dex-trading-into-core-app-support-additional-networks-planned?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-18 14:05",
+    "title_zh": "Kraken 将 Solana DEX 交易集成到核心应用程序中，并计划支持其他网络"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Tether’s XAUT gold token added to Ledn lending platform",
+    "链接": "https://www.theblock.co/post/405168/tethers-xaut-gold-token-added-to-ledn-lending-platform?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-18 14:00",
+    "title_zh": "Tether 的 XAUT 黄金代币已添加到 Ledn 借贷平台"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Ledn adds Tether Gold as loan collateral, expanding Bitcoin-backed lending model",
+    "链接": "https://cointelegraph.com/news/ledn-tether-gold-xaut-loans-bitcoin-backed-lending?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-18 14:00",
+    "title_zh": "Ledn 添加 Tether Gold 作为贷款抵押品，扩大了比特币支持的贷款模式"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bitcoin miner HIVE inks $220 million AI GPU deal with Bell, expects $70 million annual revenue",
+    "链接": "https://www.theblock.co/post/405234/bitcoin-miner-hive-220-million-ai-gpu-deal-bell-expects-70-million-annual-revenue?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-18 13:33",
+    "title_zh": "比特币矿商 HIVE 与 Bell 签订价值 2.2 亿美元的 AI GPU 协议，预计年收入达 7000 万美元"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Alchemy unveils Visa-powered virtual payment card for AI agents",
+    "链接": "https://www.theblock.co/post/405224/alchemy-unveils-visa-powered-virtual-payment-card-for-ai-agents?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-18 13:00",
+    "title_zh": "Alchemy 为 AI 代理推出由 Visa 支持的虚拟支付卡"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Capital B shareholders approve up to $120B in financing capacity for Bitcoin strategy",
+    "链接": "https://cointelegraph.com/news/capital-b-shareholders-approve-120b-capital?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-18 12:46",
+    "title_zh": "Capital B 股东批准高达 $120B 的比特币战略融资能力"
+  },
+  {
+    "来源": "TheBlock",
     "标题": "Bitcoin slips below $64,000 as hawkish Fed overshadows signs of onchain repair",
     "链接": "https://www.theblock.co/post/405213/bitcoin-slips-below-64000-as-hawkish-fed-overshadows-signs-of-onchain-repair?utm_source=rss&utm_medium=rss",
     "时间": "2026-06-18 12:23",
