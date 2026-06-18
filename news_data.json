@@ -1,6 +1,55 @@
 [
   {
     "来源": "TheBlock",
+    "标题": "Bitcoin slips below $64,000 as hawkish Fed overshadows signs of onchain repair",
+    "链接": "https://www.theblock.co/post/405213/bitcoin-slips-below-64000-as-hawkish-fed-overshadows-signs-of-onchain-repair?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-18 12:23",
+    "title_zh": "鹰派美联储掩盖了链上修复的迹象，比特币跌破 64,000 美元"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Stablecoin compliance startup Range raises $8.3 million from fintech and crypto VCs",
+    "链接": "https://www.theblock.co/post/405205/stablecoin-compliance-startup-range-fintech-crypto-vcs-series-a?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-18 11:48",
+    "title_zh": "稳定币合规初创公司 Range 从金融科技和加密货币风险投资公司筹集了 830 万美元"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Aztec investigates $2 million exploit of deprecated payments product",
+    "链接": "https://www.theblock.co/post/405207/aztec-investigates-2-million-exploit-of-deprecated-payments-product?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-18 11:35",
+    "title_zh": "Aztec 调查已弃用支付产品价值 200 万美元的漏洞"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "G7 calls for joint action on North Korean crypto theft, cybercrime",
+    "链接": "https://cointelegraph.com/news/g7-north-korea-crypto-theft-cybercrime-warning?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-18 11:33",
+    "title_zh": "G7 呼吁针对朝鲜加密货币盗窃和网络犯罪采取联合行动"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin market cap rebound to take '5-10 years' after dropping 10 places since mid-2025",
+    "链接": "https://cointelegraph.com/markets/bitcoin-market-cap-rebound-to-take-5-10-years-after-dropping-10-places-since-mid-2025?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-18 10:29",
+    "title_zh": "比特币市值自 2025 年中以来下降了 10 位，预计需要“5-10 年”才能反弹"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Aztec hit by second $2.1M exploit in less than week: SlowMist",
+    "链接": "https://cointelegraph.com/news/aztec-exploited-21-million-previous-hack-slowmist?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-18 10:28",
+    "title_zh": "Aztec 在不到一周内遭受第二次价值 210 万美元的攻击：SlowMist"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Grayscale applies traditional finance models to AAVE, sees $175 value",
+    "链接": "https://cointelegraph.com/news/grayscale-aave-traditional-finance-defi-token-valuation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-18 09:45",
+    "title_zh": "Grayscale 将传统金融模型应用于 AAVE，预计价值 175 美元"
+  },
+  {
+    "来源": "TheBlock",
     "标题": "‘Bitcoin Rodney’ pleads guilty in $1.8 billion crypto fraud case",
     "链接": "https://www.theblock.co/post/405197/bitcoin-rodney-pleads-guilty-in-1-8-billion-crypto-fraud-case?utm_source=rss&utm_medium=rss",
     "时间": "2026-06-18 09:18",
