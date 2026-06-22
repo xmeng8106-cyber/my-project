@@ -1,6 +1,125 @@
 [
   {
     "来源": "TheBlock",
+    "标题": "Crypto trading app Fomo raises $75 million at $550 million valuation in Index Ventures-led Series B",
+    "链接": "https://www.theblock.co/post/405563/crypto-trading-app-fomo-raises-75-million-at-550-million-valuation-in-index-ventures-led-series-b-report?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-22 12:46",
+    "title_zh": "加密货币交易应用程序 Fomo 在 Index Ventures 领投的 B 轮融资中融资 7500 万美元，估值 5.5 亿美元"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "MoneyGram becomes Solana validator, expands blockchain payments strategy",
+    "链接": "https://www.theblock.co/post/405568/moneygram-solana-validator-blockchain-payments?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-22 12:30",
+    "title_zh": "MoneyGram 成为 Solana 验证者，扩展区块链支付策略"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "EUR trading accounts for 1% of Binance spot volume, CryptoQuant says",
+    "链接": "https://cointelegraph.com/news/eur-trades-binance-spot-volume-cryptoquant?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-22 12:26",
+    "title_zh": "CryptoQuant 表示，欧元交易量占币安现货交易量的 1%"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Michael Saylor’s Strategy buys another 520 BTC for $35 million, adds to USD reserve despite STRC slide",
+    "链接": "https://www.theblock.co/post/405565/michael-saylor-strategy-buys-more-bitcoin-despite-strc-slide?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-22 12:07",
+    "title_zh": "尽管 STRC 下滑，Michael Saylor 的策略仍以 3500 万美元购买了另外 520 个 BTC，增加了美元储备"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "These XRP price charts hint at potential 25% relief rally in July",
+    "链接": "https://cointelegraph.com/markets/these-xrp-price-charts-hint-at-a-potential-25-relief-rally-in-july?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-22 11:39",
+    "title_zh": "这些 XRP 价格图表暗示 7 月份可能上涨 25%"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "‘Between supportive and restrictive forces’: Bitcoin stalls near $64,000 as Fed rate-hike risk overshadows Iran ceasefire relief",
+    "链接": "https://www.theblock.co/post/405557/between-supportive-and-restrictive-forces-bitcoin-stalls-near-64000-as-fed-rate-hike-risk-overshadows-iran-ceasefire-relief?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-22 11:26",
+    "title_zh": "“在支持和限制力量之间”：由于美联储加息风险盖过了伊朗停火救济，比特币在 64,000 美元附近停滞不前"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bank of England eases stablecoin rules, introduces 40B pound issuance cap",
+    "链接": "https://cointelegraph.com/news/bank-of-england-stablecoin-rules-clears-path-for-2027-launch?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-22 11:16",
+    "title_zh": "英格兰银行放宽稳定币规则，引入 40B 英镑发行上限"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Q2 2026 emerges as most-hacked quarter on record with 83 incidents",
+    "链接": "https://cointelegraph.com/news/q2-2026-most-hacked-quarter-record-83-incidents?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-22 10:52",
+    "title_zh": "2026 年第二季度发生 83 起事件，成为有记录以来遭受黑客攻击最多的季度"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bank of England drops proposed holding caps for sterling stablecoins, sets £40 billion issuance guardrail",
+    "链接": "https://www.theblock.co/post/405545/bank-of-england-drops-proposed-individual-holding-caps-for-sterling-stablecoins-sets-40-billion-issuance-guardrail?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-22 10:46",
+    "title_zh": "英格兰银行放弃了英镑稳定币的拟议持有上限，设定了 400 亿英镑的发行门槛"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Spot bitcoin ETFs log sixth consecutive week of net outflows; analyst says selling wave is exhausting itself",
+    "链接": "https://www.theblock.co/post/405540/spot-bitcoin-etfs-sixth-consecutive-week-outflow?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-22 10:20",
+    "title_zh": "现货比特币 ETF 连续第六周出现净流出；分析师称抛售浪潮正在耗尽"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "US dollar strength hits highest since May 2025: Five things to know in Bitcoin this week",
+    "链接": "https://cointelegraph.com/markets/us-dollar-strength-hits-highest-since-may-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-22 10:13",
+    "title_zh": "美元强势创2025年5月以来最高：本周比特币需要了解的五件事"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bank of Korea advances CBDC deposit token initiative to test real-world usage: report",
+    "链接": "https://www.theblock.co/post/405529/south-korea-cbdc-second-phase?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-22 10:02",
+    "title_zh": "韩国央行推进 CBDC 存款代币计划以测试实际使用情况：报告"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Ethereum ‘tax’ debate erupts over proposal to redirect portion of staking rewards to ecosystem funding",
+    "链接": "https://www.theblock.co/post/405525/ethereum-tax-debate?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-22 09:49",
+    "title_zh": "以太坊“税收”辩论因提议将部分质押奖励重新转向生态系统资金而爆发"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "South Korea pushes Travel Rule expansion for smaller crypto transfers",
+    "链接": "https://cointelegraph.com/news/south-korea-travel-rule-smaller-crypto-transfers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-22 08:58",
+    "title_zh": "韩国推动小额加密货币转账的旅行规则扩展"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Morgan Stanley amends Ethereum, Solana ETFs to reveal record cheap fees",
+    "链接": "https://cointelegraph.com/news/morgan-stanley-amends-ethereum-solana-etfs-to-undercut-rivals-fees?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-22 05:40",
+    "title_zh": "摩根士丹利修改以太坊、Solana ETF，揭示创纪录的低廉费用"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Taiko urges users to withdraw as bridge exploit drains $1.7M",
+    "链接": "https://cointelegraph.com/news/taiko-urges-users-to-withdraw-as-bridge-exploit-drains-17m?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-22 05:31",
+    "title_zh": "Taiko 敦促用户退出，因为桥接漏洞耗尽了 170 万美元"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Secret Network bridge exploited for $4.7M with ‘infinite mint’ bug",
+    "链接": "https://cointelegraph.com/news/secret-network-bridge-exploited-infinite-mint-bug?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-22 03:49",
+    "title_zh": "秘密网络桥因“无限薄荷”漏洞被利用价值 470 万美元"
+  },
+  {
+    "来源": "TheBlock",
     "标题": "Bitget enables direct US stock purchases using crypto",
     "链接": "https://www.theblock.co/post/405507/bitget-us-stock-purchases-crypto?utm_source=rss&utm_medium=rss",
     "时间": "2026-06-22 07:06",
