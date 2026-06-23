@@ -1,6 +1,76 @@
 [
   {
     "来源": "TheBlock",
+    "标题": "Ethereum Foundation cuts 20% of its workforce as new 5-cluster structure takes shape",
+    "链接": "https://www.theblock.co/post/405809/ethereum-foundation-cuts-20-of-its-workforce-as-new-5-cluster-structure-takes-shape?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-23 13:47",
+    "title_zh": "随着新的 5 集群结构的形成，以太坊基金会裁员 20%"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "OKX Europe chief says 80% of crypto exchanges won’t survive MiCA as deadline nears",
+    "链接": "https://www.theblock.co/post/405777/okx-europe-chief-mica-deadline-nears?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-23 13:31",
+    "title_zh": "OKX Europe 负责人表示，随着最后期限的临近，80% 的加密货币交易所将无法在 MiCA 中幸存"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Strategy: The Capital Stack Meets a Falling Bitcoin Price",
+    "链接": "https://www.theblock.co/post/405791/strategy-the-capital-stack-meets-a-falling-bitcoin-price?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-23 13:24",
+    "title_zh": "策略：资本堆栈遇到比特币价格下跌"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Midas’ mGLOBAL token tracking Fasanara’s alternative debt strategy launches on Aave Horizon",
+    "链接": "https://www.theblock.co/post/405774/midas-mglobal-fasanara-aave-horizon?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-23 13:05",
+    "title_zh": "Midas 的 mGLOBAL 代币跟踪 Fasanara 的替代债务策略在 Aave Horizo​​n 上推出"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "New DeFi Education Fund coalition seeks to harden crypto against cybersecurity threats",
+    "链接": "https://www.theblock.co/post/405698/new-defi-education-fund-coalition-seeks-harden-crypto-against-cybersecurity-threats?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-23 13:05",
+    "title_zh": "新的 DeFi 教育基金联盟寻求强化加密货币以应对网络安全威胁"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Kalshi adds India to growing list of restricted jurisdictions",
+    "链接": "https://cointelegraph.com/news/kalshi-adds-india-restricted-jurisdictions?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-23 12:40",
+    "title_zh": "卡尔希将印度添加到不断增长的受限制司法管辖区名单中"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Blockchain data startup Allium raises $40M Series B as institutional interest in onchain analytics grows: Fortune",
+    "链接": "https://www.theblock.co/post/405776/blockchain-data-startup-allium-raises-40m-series-b-as-institutional-interest-in-onchain-analytics-grows-fortune?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-23 12:28",
+    "title_zh": "随着机构对链上分析兴趣的增长，区块链数据初创公司 Allium 筹集了 4000 万美元的 B 轮融资：《财富》"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "EU committee advances digital euro bill after key vote",
+    "链接": "https://cointelegraph.com/news/eu-committee-digital-euro-cbdc-bill-key-vote?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-23 12:24",
+    "title_zh": "欧盟委员会在关键投票后推进数字欧元法案"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Former BIS chief softens stance on stablecoins, backs coexistence with fiat",
+    "链接": "https://cointelegraph.com/news/former-bis-chief-softens-stance-stablecoins-coexistence-fiat?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-23 12:06",
+    "title_zh": "国际清算银行前主席软化稳定币立场，支持与法定货币共存"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "THORChain resumes trading more than month after $10M exploit",
+    "链接": "https://cointelegraph.com/news/thorchain-resumes-trading-month-10m-exploit?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-23 10:00",
+    "title_zh": "THORChain 在遭受 1000 万美元的攻击后一个多月后恢复交易"
+  },
+  {
+    "来源": "TheBlock",
     "标题": "THORChain resumes trading five weeks after $10.7 million exploit",
     "链接": "https://www.theblock.co/post/405767/thorchain-resumes-trading-after-exploit?utm_source=rss&utm_medium=rss",
     "时间": "2026-06-23 11:24",
