@@ -1,6 +1,83 @@
 [
   {
     "来源": "TheBlock",
+    "标题": "DOJ seizes Huione Group cloud computing account used to launder billions in fraud proceeds",
+    "链接": "https://www.theblock.co/post/405834/doj-seizes-huione-group-account-launder-billions?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-23 16:58",
+    "title_zh": "美国司法部查封汇旺集团用于洗钱数十亿美元欺诈收益的云计算账户"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "CFTC chair says perp trading not suitable for all assets it regulates",
+    "链接": "https://cointelegraph.com/news/cftc-regulating-agricultural-markets-crypto-prediction-markets-push?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-23 16:54",
+    "title_zh": "CFTC 主席表示永续交易并不适合其监管的所有资产"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Goldfinch set to shutter Prime after community vote backs wind-down proposal",
+    "链接": "https://www.theblock.co/post/405825/goldfinch-set-shutter-prime-community-vote-backs-wind-down-proposal?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-23 16:42",
+    "title_zh": "社区投票支持逐步关闭提案后，Goldfinch 将关闭 Prime"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "CBOE weighs converting BTC, ETH continuous futures into perpetual futures: Report",
+    "链接": "https://cointelegraph.com/news/cboe-bitcoin-ether-perpetual-futures-cftc-kalshi?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-23 16:23",
+    "title_zh": "CBOE 考虑将 BTC、ETH 连续期货转换为永续期货：报告"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Chainlink joins European and Korean bank consortia to develop FX settlement network",
+    "链接": "https://cointelegraph.com/news/chainlink-europe-korea-banks-stablecoin-fx-settlement-project-pangea?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-23 15:45",
+    "title_zh": "Chainlink 加入欧洲和韩国银行财团开发外汇结算网络"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Tether-backed Oobit brings USDT to nearly 170 million users of Brazil’s PIX payment network",
+    "链接": "https://www.theblock.co/post/405819/tether-backed-oobit-brings-usdt-170-million-users-brazils-pix-payment-network?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-23 15:29",
+    "title_zh": "Tether 支持的 Oobit 将 USDT 带给巴西 PIX 支付网络的近 1.7 亿用户"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin teases $62K breakdown as analysis sees Micron earnings volatility next",
+    "链接": "https://cointelegraph.com/markets/bitcoin-teases-62k-breakdown-as-analysis-sees-micron-earnings-volatility-next?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-23 15:15",
+    "title_zh": "分析认为美光接下来的盈利将出现波动，比特币将跌至 6.2 万美元"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin slump worsens amid SpaceX rout: Can BTC price hold $60K any longer?",
+    "链接": "https://cointelegraph.com/markets/bitcoin-slump-worsens-amid-spacex-rout-can-btc-price-hold-60k-any-longer?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-23 14:38",
+    "title_zh": "SpaceX 惨败导致比特币暴跌加剧：BTC 价格还能维持 6 万美元吗？"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Why tokenized SpaceX shares broke before retail investors could buy them",
+    "链接": "https://cointelegraph.com/learn/tokenized-spacex-shares-xstocks-refunds?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-23 14:30",
+    "title_zh": "为什么代币化的 SpaceX 股票在散户投资者购买之前就崩盘了"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Blockchain data startup Allium raises $40M Series B as institutional interest in onchain analytics grow",
+    "链接": "https://www.theblock.co/post/405776/blockchain-data-startup-allium-raises-40m-series-b-as-institutional-interest-in-onchain-analytics-grows-fortune?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-23 12:28",
+    "title_zh": "随着机构对链上分析兴趣的增长，区块链数据初创公司 Allium 筹集了 4000 万美元的 B 轮融资"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Ethereum Foundation sacks 20% of workforce amid strategic restructuring",
+    "链接": "https://cointelegraph.com/news/ethereum-foundation-cuts-20-of-staff-in-major-organizational-overhaul?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-23 06:00",
+    "title_zh": "以太坊基金会在战略重组中解雇了 20% 的员工"
+  },
+  {
+    "来源": "TheBlock",
     "标题": "Ethereum Foundation cuts 20% of its workforce as new 5-cluster structure takes shape",
     "链接": "https://www.theblock.co/post/405809/ethereum-foundation-cuts-20-of-its-workforce-as-new-5-cluster-structure-takes-shape?utm_source=rss&utm_medium=rss",
     "时间": "2026-06-23 13:47",
