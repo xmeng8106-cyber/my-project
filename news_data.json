@@ -1,6 +1,90 @@
 [
   {
     "来源": "Cointelegraph",
+    "标题": "Trump cancels signing of housing bill with CBDC ban",
+    "链接": "https://cointelegraph.com/news/donald-trump-cancels-signing-housing-bill-cbdc-ban?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-24 15:18",
+    "title_zh": "特朗普取消签署带有 CBDC 禁令的住房法案"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Binance withdraws Greece-filed MiCA application.",
+    "链接": "https://cointelegraph.com/news/binance-eu-license-greece-mica-setback?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-24 15:04",
+    "title_zh": "币安撤回希腊提交的 MiCA 申请。"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "The Impossibility of Perfect Fairness in Transaction Ordering",
+    "链接": "https://cointelegraph.com/research/the-impossibility-of-perfect-fairness-in-transaction-ordering?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-24 15:00",
+    "title_zh": "交易排序不可能完全公平"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Kalshi sues Illinois, Pritzker over state bill implementing prediction markets regulatory regime",
+    "链接": "https://www.theblock.co/post/406000/kalshi-sues-illinois-pritzker-over-state-bill-implementing-prediction-markets-regulatory-regime?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-24 14:41",
+    "title_zh": "卡尔希就实施预测市场监管制度的州法案起诉伊利诺伊州和普利兹克"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Standard Chartered sees ‘generational wealth’ in potential Aave recovery, predicts 50x upside by 2030",
+    "链接": "https://www.theblock.co/post/405996/standard-chartered-generational-wealth-potential-aave-recovery-predicts-50x-upside-2030?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-24 14:37",
+    "title_zh": "渣打银行认为 Aave 的潜在复苏将带来“代际财富”，预计到 2030 年将增长 50 倍"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "How memecoin marketing moved from online speculation to real-world risk",
+    "链接": "https://cointelegraph.com/learn/pump-fun-go-bounty-memecoin-risks?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-24 14:30",
+    "title_zh": "模因币营销如何从网上投机转向现实世界的风险"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "DeFi TVL drops 39% in 2026 amid market downturn and record hack activity",
+    "链接": "https://cointelegraph.com/news/defi-tvl-falls-39-2026-erases-45b-value?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-24 14:14",
+    "title_zh": "由于市场低迷和创纪录的黑客活动，2026 年 DeFi TVL 下降 39%"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bitcoin ETP outflows push rolling one-year flows negative for first time since 2023: K33",
+    "链接": "https://www.theblock.co/post/405989/bitcoin-etp-outflows-push-rolling-one-year-flows-negative-first-time-since-2023-k33?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-24 14:04",
+    "title_zh": "比特币 ETP 流出推动滚动一年期资金流自 2023 年以来首次出现负值：K33"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Kraken-incubated Ink upgrades to Optimism’s OP Enterprise Fully Managed in multi-year infrastructure deal",
+    "链接": "https://www.theblock.co/post/405957/kraken-incubated-ink-upgrades-to-optimism-op-enterprise-fully-managed?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-24 13:35",
+    "title_zh": "Kraken 孵化的 Ink 在多年基础设施交易中升级为 Optimism 的 OP Enterprise 完全托管"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Black Lake, Nuva Labs tokenize $25 million in mortgage loans on Provenance in RWA push",
+    "链接": "https://www.theblock.co/post/405963/black-lake-nuva-labs-tokenize-25-million-in-mortgage-loans-on-provenance-in-rwa-push?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-24 13:00",
+    "title_zh": "Black Lake 和 Nuva Labs 在 RWA 推动的 Provenance 上代币化 2500 万美元抵押贷款"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "SecondFi traces Cardano wallet exploit to address-level issue",
+    "链接": "https://cointelegraph.com/news/cardano-wallet-secondfi-flaw-16-million-ada-exploit?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-24 12:38",
+    "title_zh": "SecondFi 追踪 Cardano 钱包漏洞以解决问题"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Starmer to step down: What Andy Burnham means for crypto in the UK",
+    "链接": "https://cointelegraph.com/features/starmer-steps-down-what-andy-burnham-means-for-crypto-in-the-uk?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-23 22:00",
+    "title_zh": "斯塔默辞职：安迪·伯纳姆 (Andy Burnham) 对英国加密货币意味着什么"
+  },
+  {
+    "来源": "Cointelegraph",
     "标题": "CBOE debuts prediction market with S&P 500 contracts",
     "链接": "https://cointelegraph.com/news/cboe-debuts-prediction-market-sp-500-contracts?utm_source=rss&utm_medium=rss&utm_campaign=rss",
     "时间": "2026-06-24 12:01",
