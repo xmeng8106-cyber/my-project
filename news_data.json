@@ -1,6 +1,83 @@
 [
   {
     "来源": "Cointelegraph",
+    "标题": "Crypto-backed candidates notch wins in three US state primaries",
+    "链接": "https://cointelegraph.com/news/crypto-backed-candidates-new-york-maryland-primaries?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-24 17:10",
+    "title_zh": "加密货币支持的候选人在美国三个州初选中获胜"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin falls under $60K, but traders anticipate 15% bounce",
+    "链接": "https://cointelegraph.com/markets/bitcoin-hits-2-week-lows?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-24 17:06",
+    "title_zh": "比特币跌破 6 万美元，但交易员预计反弹 15%"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "a16z CSX-backed Cambrian raises $6 million seed to build blockchain data oracle network",
+    "链接": "https://www.theblock.co/post/406028/a16z-csx-backed-cambrian-seed-round-blockchain-data-oracle-network?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-24 17:00",
+    "title_zh": "a16z CSX 支持的 Cambrian 筹集了 600 万美元种子资金，用于构建区块链数据预言机网络"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Prediction market polls find US voters prefer federal rules over state patchwork",
+    "链接": "https://www.theblock.co/post/406012/prediction-market-polls-us-voters-prefer-federal-rules-over-state-patchwork?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-24 16:40",
+    "title_zh": "预测市场民意调查发现，美国选民更喜欢联邦规则而不是各州拼凑的规则"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin crash to $60K opens new $530M demand zone: Will bulls buy in?",
+    "链接": "https://cointelegraph.com/markets/bitcoin-daily-close-points-to-the-next-demand-zone-as-530m-in-buy-bids-emerge?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-24 16:21",
+    "title_zh": "比特币暴跌至 6 万美元，开辟了新的 5.3 亿美元需求区：多头会买入吗？"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Binance co-CEO remains ‘committed’ to securing EU license after exchange withdraws Greece bid",
+    "链接": "https://www.theblock.co/post/406009/binance-ceo-remains-committed-securing-eu-license-exchange-withdraws-greece-bid?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-24 16:12",
+    "title_zh": "在交易所撤回希腊竞标后，币安联席首席执行官仍“致力于”获得欧盟许可"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Credit unions managing $25B in assets join stablecoin infrastructure program",
+    "链接": "https://cointelegraph.com/news/credit-unions-join-stablecoin-infrastructure-program?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-24 15:49",
+    "title_zh": "管理 25B 美元资产的信用社加入稳定币基础设施计划"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Binance withdraws Greece-filed MiCA application",
+    "链接": "https://cointelegraph.com/news/binance-eu-license-greece-mica-setback?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-24 15:47",
+    "title_zh": "币安撤回希腊提交的 MiCA 申请"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Sports-based prediction markets app Onyx Odds raises $20 million in round led by Kraken parent Payward",
+    "链接": "https://www.theblock.co/post/405997/sports-betting-app-onyx-odds-raises-20-million-in-round-led-by-kraken-parent-payward?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-24 15:37",
+    "title_zh": "基于体育的预测市场应用 Onyx Odds 在 Kraken 母公司 Payward 领投的一轮融资中筹集了 2000 万美元"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "World Cup boom sends Polymarket volume up 300% while Kalshi sets open interest records",
+    "链接": "https://www.theblock.co/post/405854/world-cup-boom-sends-polymarket-volume-up-300-while-kalshi-sets-open-interest-records?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-24 15:36",
+    "title_zh": "世界杯热潮使得 Polymarket 交易量增长 300%，而 Kalshi 创下未平仓合约记录"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Sweden's H100 shareholders greenlight acquisition deal to triple Bitcoin holdings",
+    "链接": "https://cointelegraph.com/news/h100-clears-shareholder-hurdle-for-deal-that-would-triple-bitcoin-holdings?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "时间": "2026-06-24 06:00",
+    "title_zh": "瑞典 H100 股东批准收购交易，比特币持有量增至三倍"
+  },
+  {
+    "来源": "Cointelegraph",
     "标题": "Trump cancels signing of housing bill with CBDC ban",
     "链接": "https://cointelegraph.com/news/donald-trump-cancels-signing-housing-bill-cbdc-ban?utm_source=rss&utm_medium=rss&utm_campaign=rss",
     "时间": "2026-06-24 15:18",
