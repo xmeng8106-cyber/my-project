@@ -1,6 +1,83 @@
 [
   {
     "来源": "Cointelegraph",
+    "标题": "From Bitcoin critics to blockchain believers: The 5 biggest crypto backflips",
+    "链接": "https://cointelegraph.com/features/from-bitcoin-critics-to-blockchain-believers-the-5-biggest-crypto-backflips?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-29 13:30",
+    "title_zh": "从比特币批评者到区块链信徒：5 个最大的加密反转"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bernstein says prediction-market infrastructure rush could spark wave of M&A across consumer platforms",
+    "链接": "https://www.theblock.co/post/406520/bernstein-says-prediction-market-infrastructure-rush-could-spark-wave-of-ma-across-consumer-platforms?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-29 13:29",
+    "title_zh": "伯恩斯坦表示，预测市场基础设施热潮可能引发跨消费平台的并购浪潮"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Strategy unveils capital framework to preserve Bitcoin exposure, pay dividends",
+    "链接": "https://cointelegraph.com/news/strategy-capital-framework-preserve-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-29 13:12",
+    "title_zh": "战略公布资本框架以保持比特币敞口、支付股息"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "BlackRock’s Aladdin platform adds deeper support for Ethena’s stablecoin products",
+    "链接": "https://www.theblock.co/post/405670/blackrock-ethena-partnership-usde?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-29 13:00",
+    "title_zh": "贝莱德的 Aladdin 平台增加了对 Ethena 稳定币产品的更深入支持"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Breez launches Bitcoin-to-stablecoin payments across more than 30 blockchains",
+    "链接": "https://cointelegraph.com/news/breez-bitcoin-wallets-send-usdc-usdt-without-holding-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-29 13:00",
+    "title_zh": "Breez 在 30 多个区块链上推出比特币到稳定币的支付"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Strategy pauses bitcoin buys, establishes $1B digital credit repurchase program as USD reserve tops $2.5B",
+    "链接": "https://www.theblock.co/post/406512/strategy-buys-btc-mstr-strc-collapse-bitcoin-holdings-underwater?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-29 12:45",
+    "title_zh": "随着美元储备突破 $2.5B，战略暂停比特币购买，建立 $1B 数字信用回购计划"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bitcoin clings to key support level as weekly US spot ETF outflows hit $1.8B and Fed rate hike bets mount: analysts",
+    "链接": "https://www.theblock.co/post/406516/bitcoin-clings-to-key-support-level-as-weekly-us-spot-etf-outflows-hit-1-8b-and-fed-rate-hike-bets-mount-analysts?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-29 12:00",
+    "title_zh": "随着每周美国现货 ETF 流出达到 $1.8B 且美联储加息押注增加，比特币坚守关键支撑位：分析师"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Prediction-market operational consolidation could spur M&A wave: Bernstein",
+    "链接": "https://cointelegraph.com/news/prediction-market-consolidation-ma-wave-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-29 11:21",
+    "title_zh": "伯恩斯坦预测市场运营整合可能会刺激并购浪潮"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Vitalik Buterin says obfuscation could unlock private onchain crypto voting",
+    "链接": "https://cointelegraph.com/news/vitalik-buterin-private-onchain-voting-obfuscation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-29 10:53",
+    "title_zh": "Vitalik Buterin 表示混淆可以解锁私人链上加密投票"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Germany leads MiCA crypto authorization race as Europe’s deadline looms",
+    "链接": "https://cointelegraph.com/news/mica-licenses-cluster-germany-total-reach-244?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-29 10:48",
+    "title_zh": "随着欧洲最后期限的临近，德国在 MiCA 加密货币授权竞赛中处于领先地位"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Vitalik Buterin calls obfuscation cryptography’s ‘final boss,’ but says current approaches remain wildly impractical",
+    "链接": "https://www.theblock.co/post/406506/vitalik-buterin-calls-obfuscation-cryptographys-final-boss-but-says-current-approaches-remain-wildly-impractical?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-29 10:36",
+    "title_zh": "Vitalik Buterin 称混淆密码学为“最终老板”，但表示目前的方法仍然非常不切实际"
+  },
+  {
+    "来源": "Cointelegraph",
     "标题": "BTC price RSI prints key 2026 signal: Five things to know in Bitcoin this week",
     "链接": "https://cointelegraph.com/markets/btc-price-rsi-prints-key-2026-signal-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "时间": "2026-06-29 09:55",
