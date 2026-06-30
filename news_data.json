@@ -1,5 +1,103 @@
 [
   {
+    "来源": "TheBlock",
+    "标题": "Visa, Stripe, Coinbase and more join Open USD stablecoin that shares reserve revenue",
+    "链接": "https://www.theblock.co/post/406736/visa-stripe-coinbase-join-open-usd-stablecoin-shares-reserve-revenue?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-30 14:57",
+    "title_zh": "Visa、Stripe、Coinbase 等加入 Open USD 稳定币，共享储备收入"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "OKX AI unveils marketplace for agents to find work and get paid in stablecoins",
+    "链接": "https://www.theblock.co/post/406704/okx-ai-unveils-marketplace-for-agents-to-find-work-and-get-paid-in-stablecoins?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-30 14:49",
+    "title_zh": "OKX AI 推出了代理商寻找工作并通过稳定币获得报酬的市场"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "New Zcash nonprofit Sovright unveils ZEC wallet recovery tool",
+    "链接": "https://www.theblock.co/post/406731/new-zcash-nonprofit-sovright-unveils-zec-wallet-recovery-tool?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-30 14:44",
+    "title_zh": "新的 Zcash 非营利组织 Sovright 推出 ZEC 钱包恢复工具"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "MetaMask unveils all-in-one Money Account offerings users up to 4% APY on mUSD holdings",
+    "链接": "https://www.theblock.co/post/406570/metamask-all-in-one-money-account-offerings-users-4-apy-musd-holdings?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-30 14:00",
+    "title_zh": "MetaMask 推出一体化货币账户，为用户持有的 mUSD 提供高达 4% 的年化收益"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "MetaMask launches stablecoin yield account with card spending",
+    "链接": "https://cointelegraph.com/news/metamask-money-account-musd-stablecoin-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-30 14:00",
+    "title_zh": "MetaMask 推出支持卡消费的稳定币收益账户"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Sharplink buys 10,000 ETH, repurchases 2.13 million SBET shares in latest buyback",
+    "链接": "https://www.theblock.co/post/406721/sharplink-buys-10000-eth-repurchases-2-13-million-shares-latest-buyback?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-30 13:59",
+    "title_zh": "Sharplink在最新回购中购买了10,000 ETH，并回购了213万股SBET股票"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "OKX launches AI marketplace for autonomous agent economy",
+    "链接": "https://cointelegraph.com/news/okx-ai-marketplace-autonomous-agent-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-30 13:39",
+    "title_zh": "OKX 推出面向自主代理经济的人工智能市场"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Strategy's new plan divides industry observers even as MSTR, STRC climb",
+    "链接": "https://cointelegraph.com/news/strategy-new-plan-split-community-mstr-strc-climb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-30 13:14",
+    "title_zh": "尽管 MSTR、STRC 股价攀升，Strategy 的新计划仍让行业观察人士产生分歧"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Theo becomes first crypto-native investor in Fidelity tokenized fund",
+    "链接": "https://cointelegraph.com/news/fidelity-tokenized-fund-first-crypto-native-investor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-30 13:00",
+    "title_zh": "Theo 成为 Fidelity 代币化基金的首位加密货币原生投资者"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Swan's Cory Klippsten sees record Bitcoin holder supply revealing early bottom",
+    "链接": "https://cointelegraph.com/news/record-bitcoin-holder-supply-early-bottom-swan-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-30 12:44",
+    "title_zh": "Swan 的 Cory Klippsten 认为创纪录的比特币持有者供应揭示了早期底部"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "TD Cowen slashes Strategy target to $260 on bitcoin outlook, calls new capital framework ‘constructive’",
+    "链接": "https://www.theblock.co/post/406710/td-cowen-slashes-strategy-target-to-260-on-bitcoin-outlook-calls-new-capital-framework-constructive?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-30 12:31",
+    "title_zh": "TD Cowen 将比特币前景的战略目标下调至 260 美元，称新的资本框架具有“建设性”"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "StarkWare unveils Starknet post-quantum roadmap, calling it crypto’s ‘strongest’ to date",
+    "链接": "https://www.theblock.co/post/406677/starkware-unveils-starknet-post-quantum-roadmap-calling-it-cryptos-strongest-to-date?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-30 12:30",
+    "title_zh": "StarkWare 公布 Starknet 后量子路线图，称其为加密货币迄今为止“最强”的路线图"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "StarkWare unveils Starknet quantum roadmap, says industry has no excuse",
+    "链接": "https://cointelegraph.com/news/starkware-ceo-blasts-crypto-complacency-in-quantum-threat-elliptic-illusion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-06-30 12:30",
+    "title_zh": "StarkWare 公布 Starknet 量子路线图，称行业没有任何借口"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "New York Life Investment Management makes first tokenized move partnering with Centrifuge on high-yield corporate bond strategy",
+    "链接": "https://www.theblock.co/post/406696/new-york-life-first-tokenized-centrifuge-high-yield-corporate-bond-strategy?utm_source=rss&utm_medium=rss",
+    "时间": "2026-06-30 12:00",
+    "title_zh": "纽约人寿投资管理公司首次与 Centrifuge 合作实施高收益公司债券战略代币化举措"
+  },
+  {
     "来源": "Cointelegraph",
     "标题": "Spiko links EU regulated T-bill funds to Coinbase stablecoin rails",
     "链接": "https://cointelegraph.com/news/spiko-coinbase-stablecoin-payments-treasury-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
