@@ -1,6 +1,83 @@
 [
   {
     "来源": "TheBlock",
+    "标题": "President Trump says he’s a ‘big crypto guy,’ while distancing himself from family’s crypto ventures",
+    "链接": "https://www.theblock.co/post/407312/president-trump-big-crypto-guy-distancing-familys-crypto-ventures?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-06 15:53",
+    "title_zh": "特朗普总统称他是“加密货币大佬”，同时与家族的加密货币企业保持距离"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin price falls up to 4% on Strategy BTC sale as trader sees Summer 2022 repeat",
+    "链接": "https://cointelegraph.com/markets/bitcoin-price-falls-on-strategy-btc-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-06 15:22",
+    "title_zh": "交易员预计 2022 年夏季将重演，策略 BTC 销售导致比特币价格下跌 4%"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Keel jumps 10% after former bitcoin miner hires data center veteran as president",
+    "链接": "https://www.theblock.co/post/407300/keel-jumps-10-former-bitcoin-miner-hires-data-center-veteran-president?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-06 15:01",
+    "title_zh": "前比特币矿工聘请数据中心资深人士担任总裁后，Keel 股价上涨 10%"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bitmine’s Tom Lee ties ether strength to Clarity Act odds as treasury nears 5% of Ethereum’s total supply",
+    "链接": "https://www.theblock.co/post/407283/bitmines-tom-lee-ties-ether-strength-to-clarity-act-odds-as-treasury-nears-5-of-ethereums-total-supply?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-06 14:15",
+    "title_zh": "Bitmine 的 Tom Lee 将以太坊实力与《澄清法案》赔率联系起来，因为财政部接近以太坊总供应量的 5%"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "TeraWulf signs 20-year data center lease with Anthropic expected to generate $19 billion in revenue",
+    "链接": "https://www.theblock.co/post/407282/terawulf-data-center-lease-anthropic-19-billion-revenue?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-06 14:02",
+    "title_zh": "TeraWulf 与 Anthropic 签署为期 20 年的数据中心租约，预计将产生 190 亿美元的收入"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "FCA warns of major shakeup as AI agents meet tokenized money",
+    "链接": "https://cointelegraph.com/news/fca-warns-of-major-shakeup-as-ai-agents-meet-tokenized-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-06 13:50",
+    "title_zh": "FCA 警告人工智能代理遇到代币化货币时将发生重大变动"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Russia’s largest bank Sber targets early December crypto wallet launch: report",
+    "链接": "https://www.theblock.co/post/407273/russias-largest-bank-sber-targets-early-december-crypto-wallet-launch-report?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-06 13:20",
+    "title_zh": "俄罗斯最大银行 Sber 计划 12 月初推出加密钱包：报告"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Crypto hacks fell 47% in H1 but ecosystem is no safer: CertiK",
+    "链接": "https://cointelegraph.com/news/crypto-hacks-fell-47-percent-in-h1-but-ecosystem-is-no-safer-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-06 13:00",
+    "title_zh": "CertiK 上半年加密货币黑客攻击数量下降 47%，但生态系统并不安全"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Strategy sells 3,588 Bitcoin for $216M to fund dividends, keeps $2.55B reserve intact",
+    "链接": "https://cointelegraph.com/news/strategy-sells-bitcoin-bernstein-btc-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-06 12:59",
+    "title_zh": "Strategy 以 2.16 亿美元的价格出售 3,588 个比特币，为股息提供资金，并保持 $2.55B 储备不变"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Strategy sells 3,588 BTC for $216 million, with total bitcoin holdings still underwater",
+    "链接": "https://www.theblock.co/post/407217/strategy-bitcoin-digital-energy?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-06 12:22",
+    "title_zh": "Strategy以2.16亿美元出售3,588枚比特币，比特币持有总量仍处于水下"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Belgian regulator flags 6 unauthorized crypto providers after MiCA deadline",
+    "链接": "https://cointelegraph.com/news/belgium-unauthorized-crypto-firms-mica-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-06 12:15",
+    "title_zh": "MiCA 截止日期后，比利时监管机构标记了 6 家未经授权的加密货币提供商"
+  },
+  {
+    "来源": "TheBlock",
     "标题": "‘Any signs of life?’ Bernstein holds ‘ambitious’ $150K year-end bitcoin target despite 54% drawdown",
     "链接": "https://www.theblock.co/post/407212/any-signs-of-life-bernstein-holds-ambitious-150k-year-end-bitcoin-target-despite-54-drawdown?utm_source=rss&utm_medium=rss",
     "时间": "2026-07-06 10:49",
