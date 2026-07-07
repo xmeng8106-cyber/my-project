@@ -1,6 +1,69 @@
 [
   {
     "来源": "Cointelegraph",
+    "标题": "Ctrl Wallet to shut weeks after security exploit",
+    "链接": "https://cointelegraph.com/news/ctrl-wallet-shutdown-security-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-07 10:46",
+    "title_zh": "Ctrl 钱包在安全漏洞发生几周后关闭"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Vitalik Buterin confirms AI identified his anonymous Ethereum proposal contribution",
+    "链接": "https://cointelegraph.com/news/vitalik-buterin-confirms-ai-identified-his-anonymous-ethereum-proposal-contribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-07 10:27",
+    "title_zh": "Vitalik Buterin 确认 AI 识别了他的匿名以太坊提案贡献"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin can fall below $58K if one of its 'cleanest' metrics copies history: Analysis",
+    "链接": "https://cointelegraph.com/markets/bitcoin-can-fall-below-58k-if-one-of-its-cleanest-metrics-copies-history-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-07 10:14",
+    "title_zh": "如果“最干净”的指标之一复制历史，比特币可能会跌破 5.8 万美元：分析"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Galaxy delivers 133 MW of critical IT load to CoreWeave as Helios bitcoin mine turns AI hub",
+    "链接": "https://www.theblock.co/post/407396/galaxy-delivers-133-mw-of-critical-it-load-to-coreweave-as-helios-bitcoin-mine-turns-ai-hub?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-07 09:45",
+    "title_zh": "随着 Helios 比特币矿场转变为人工智能中心，Galaxy 为 CoreWeave 提供了 133 MW 的关键 IT 负载"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Digital Chamber amicus brief urges dismissal of NY lawsuit over 39,069 Bitcoin wallets",
+    "链接": "https://cointelegraph.com/news/digital-chamber-files-ny-lawsuit-39069-bitcoin-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-07 09:23",
+    "title_zh": "数字商会之友简报敦促驳回纽约州针对 39,069 个比特币钱包的诉讼"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Tether’s former CIO seeks buyers for part of his stake in the firm: Bloomberg",
+    "链接": "https://www.theblock.co/post/407394/tethers-former-cio-seeks-buyers-for-part-of-his-stake-in-the-firm-bloomberg?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-07 09:22",
+    "title_zh": "Tether 前首席信息官正在寻找买家购买其在该公司的部分股份：彭博社"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Upbit, Naver stock-swap deal faces second delay amid proposed crypto law debate",
+    "链接": "https://www.theblock.co/post/407389/upbit-naver-stock-swap-deal-delay?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-07 09:10",
+    "title_zh": "Upbit 和 Naver 股票互换交易在拟议的加密法辩论中面临第二次延迟"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "MiCA-compliant euro stablecoins grew 128% before MiCA transition ended, says Decta",
+    "链接": "https://cointelegraph.com/news/mica-euro-stablecoins-growth-casp-deadline-decta-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-07 09:08",
+    "title_zh": "Decta 表示，在 MiCA 过渡结束之前，符合 MiCA 的欧元稳定币增长了 128%"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Two traders sue Polymarket over disputed resolution of Strategy bitcoin sale market",
+    "链接": "https://www.theblock.co/post/407368/two-traders-sue-polymarket-strategy-bitcoin-sale?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-07 08:34",
+    "title_zh": "两名交易员就 Strategy 比特币销售市场的争议解决方案起诉 Polymarket"
+  },
+  {
+    "来源": "Cointelegraph",
     "标题": "Trader loses $2M in ‘same-block backrun extraction’ exploit",
     "链接": "https://cointelegraph.com/news/trader-loses-2m-in-same-block-backrun-extraction-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "时间": "2026-07-07 05:58",
