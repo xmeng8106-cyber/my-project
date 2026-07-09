@@ -1,6 +1,76 @@
 [
   {
     "来源": "TheBlock",
+    "标题": "Hong Kong SFC orders crypto platforms, online brokers to phase out OTP logins",
+    "链接": "https://www.theblock.co/post/407732/hong-kong-sfc-orders-crypto-platforms-online-brokers-to-phase-out-otp-logins?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-09 14:01",
+    "title_zh": "香港证监会下令加密货币平台和在线经纪商逐步淘汰 OTP 登录"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "PayPal seeks to increase use of PYUSD stablecoin with native issuance on Polygon",
+    "链接": "https://www.theblock.co/post/407719/paypal-seeks-increase-pyusd-stablecoin-native-issuance-on-polygon?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-09 13:54",
+    "title_zh": "PayPal 寻求通过 Polygon 本地发行来增加 PYUSD 稳定币的使用"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Tarun Chitra’s Gauntlet raises $125 million Series C from sole investor SBI Holdings",
+    "链接": "https://www.theblock.co/post/407723/tarun-chitra-gauntlet-125-million-series-c-funding-sbi-holdings?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-09 13:42",
+    "title_zh": "Tarun Chitra 的 Gauntlet 从唯一投资者 SBI Holdings 筹集了 1.25 亿美元的 C 轮融资"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "‘Bottom building in progress’: Analysts say bitcoin holder capitulation signals late-stage bear market",
+    "链接": "https://www.theblock.co/post/407713/bottom-building-in-progress-analysts-say-bitcoin-holder-capitulation-signals-late-stage-bear-market?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-09 13:33",
+    "title_zh": "“正在筑底”：分析师表示，比特币持有者的投降预示着熊市的后期阶段"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin’s quantum dilemma: Bigger blocks or STARK proofs?",
+    "链接": "https://cointelegraph.com/features/bigger-blocks-or-stark-proofs-bitcoins-quantum-dilemma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-09 13:30",
+    "title_zh": "比特币的量子困境：更大的区块还是 STARK 证明？"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Crypto hack losses fall below $1 billion in H1 2026 despite record attack volume: Immunefi",
+    "链接": "https://www.theblock.co/post/407707/crypto-hack-losses-fall-below-1-billion-in-h1-2026-even-as-attack-volume-hits-record-immunefi?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-09 13:00",
+    "title_zh": "尽管攻击量创纪录，但 2026 年上半年加密货币黑客损失仍降至 10 亿美元以下：Immunefi"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Aave Labs rolls out Stable Vaults, offering predictable stablecoin yield aimed at mainstream users",
+    "链接": "https://www.theblock.co/post/407645/aave-labs-rolls-out-stable-vaults-offering-predictable-stablecoin-yield-aimed-at-mainstream-users?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-09 13:00",
+    "title_zh": "Aave Labs 推出稳定金库，为主流用户提供可预测的稳定币收益"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Hong Kong regulator orders new anti-phishing measures for crypto platforms",
+    "链接": "https://cointelegraph.com/news/hong-kong-regulator-anti-phishing-measures-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-09 12:53",
+    "title_zh": "香港监管机构下令针对加密平台采取新的反网络钓鱼措施"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Stripe-owned Privy and Jito co-develop Solana transaction inclusion tool FullSend",
+    "链接": "https://www.theblock.co/post/407628/stripe-privy-jito-develop-solana-transaction-inclusion-tool-fullsend?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-09 12:30",
+    "title_zh": "Stripe 旗下的 Privy 和 Jito 共同开发 Solana 交易包含工具 FullSend"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Swift launches blockchain ledger with 17-bank tokenized deposit pilot",
+    "链接": "https://cointelegraph.com/news/swift-launches-blockchain-announces-tokenized-deposit-pilot-with-17-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-09 08:51",
+    "title_zh": "Swift 推出区块链分类账，与 17 家银行进行代币化存款试点"
+  },
+  {
+    "来源": "TheBlock",
     "标题": "CFTC Chair Selig warns regulators will end up ‘writing all the rules’ for crypto if Clarity Act stalls",
     "链接": "https://www.theblock.co/post/407703/cftc-chair-selig-warns-regulators-will-end-up-writing-all-the-rules-for-crypto-if-clarity-act-stalls?utm_source=rss&utm_medium=rss",
     "时间": "2026-07-09 11:42",
