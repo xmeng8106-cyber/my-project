@@ -1,6 +1,69 @@
 [
   {
     "来源": "TheBlock",
+    "标题": "‘Communication challenge, nothing more’: Standard Chartered keeps $100,000 bitcoin target, calls Strategy selloff a signaling problem",
+    "链接": "https://www.theblock.co/post/407884/communication-challenge-nothing-more-standard-chartered-keeps-100000-bitcoin-target-calls-strategy-selloff-a-signaling-problem?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-10 12:46",
+    "title_zh": "“沟通挑战，仅此而已”：渣打银行维持 10 万美元的比特币目标，称战略抛售是一个信号问题"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "US charges prisoner over alleged laundering of seized Kraken crypto",
+    "链接": "https://cointelegraph.com/news/us-prisoner-290k-crypto-restrained-kraken-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-10 12:27",
+    "title_zh": "美国指控一名囚犯涉嫌洗钱扣押的 Kraken 加密货币"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Wall Street banks tighten prediction market rules for staff as insider fears spread",
+    "链接": "https://cointelegraph.com/news/wall-street-prediction-market-trading-insider-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-10 11:51",
+    "title_zh": "随着内部担忧蔓延，华尔街银行收紧对员工的预测市场规则"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "USDC issuer Circle wins final approval for US national trust bank charter",
+    "链接": "https://cointelegraph.com/news/circle-final-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-10 11:37",
+    "title_zh": "USDC 发行人 Circle 获得美国国家信托银行牌照最终批准"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Stablecoin firm Circle wins final OCC approval to open national trust bank",
+    "链接": "https://www.theblock.co/post/407876/stablecoin-firm-circle-wins-final-occ-approval-to-open-national-trust-bank?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-10 11:25",
+    "title_zh": "稳定币公司 Circle 获得 OCC 最终批准开设国家信托银行"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Japanese lender launches Bitcoin-backed loans of up to $6.2M",
+    "链接": "https://cointelegraph.com/news/japan-cryl-bitcoin-backed-loans-6-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-10 11:24",
+    "title_zh": "日本银行推出高达 620 万美元的比特币支持贷款"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Ledger researchers disclose Tangem card flaw; Tangem says risk to everyday users is ‘virtually non-existent’",
+    "链接": "https://www.theblock.co/post/407871/ledger-researchers-disclose-tangem-card-flaw-tangem-says-risk-to-everyday-users-is-virtually-non-existent?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-10 11:08",
+    "title_zh": "Ledger 研究人员披露了 Tangem 卡缺陷； Tangem 表示，日常用户的风险“几乎不存在”"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin returns to $64.3K with new 3-week BTC price highs imminent",
+    "链接": "https://cointelegraph.com/markets/bitcoin-returns-to-64k-with-three-week-btc-price-highs-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-10 09:32",
+    "title_zh": "比特币价格重返 6.43 万美元，三周新高即将到来"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Hackers tried to backdoor Injective NPM package to steal wallet keys",
+    "链接": "https://cointelegraph.com/news/hackers-compromise-injective-npm-package-with-malware-to-steal-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-10 03:07",
+    "title_zh": "黑客试图通过后门 Injective NPM 包来窃取钱包密钥"
+  },
+  {
+    "来源": "TheBlock",
     "标题": "New Hampshire’s $100 million bitcoin bond proposal fails to pass final vote",
     "链接": "https://www.theblock.co/post/407867/new-hampshire-bitcoin-backed-bond-fails?utm_source=rss&utm_medium=rss",
     "时间": "2026-07-10 10:29",
