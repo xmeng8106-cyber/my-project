@@ -1,6 +1,55 @@
 [
   {
     "来源": "TheBlock",
+    "标题": "Bitcoin mining production slips in June for CleanSpark, BitFuFu and Canaan",
+    "链接": "https://www.theblock.co/post/408260/bitcoin-mining-production-slips-june-cleanspark-bitfufu-canaan?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-14 15:46",
+    "title_zh": "CleanSpark、BitFuFu 和 Canaan 6 月份比特币挖矿产量下滑"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Galaxy blends Aave, Morpho and other DeFi rates in new GOFR crypto borrowing product",
+    "链接": "https://www.theblock.co/post/408267/galaxy-blends-aave-morpho-other-defi-rates-new-gofr-crypto-borrowing-product?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-14 15:33",
+    "title_zh": "Galaxy 在新的 GOFR 加密借贷产品中融合了 Aave、Morpho 和其他 DeFi 利率"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "‘Soft print, hard regime’: Bitcoin climbs toward $64,000 as June CPI falls 0.4% in largest monthly drop since 2020",
+    "链接": "https://www.theblock.co/post/408263/soft-print-hard-regime-bitcoin-climbs-64000-june-cpi-falls-largest-monthly-drop-since-2020?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-14 15:27",
+    "title_zh": "“软印刷，硬制度”：随着 6 月 CPI 下跌 0.4%，创 2020 年以来最大单月跌幅，比特币攀升至 64,000 美元"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Benchmark sees ‘long pathway for growth’ in Hut 8, raises target to $165 on $16.8 billion AI data center deals",
+    "链接": "https://www.theblock.co/post/408264/benchmark-sees-long-pathway-growth-hut-8-raises-target-to-165-on-ai-data-center-deals?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-14 15:10",
+    "title_zh": "Benchmark 认为 Hut 8 有“漫长的增长之路”，将 168 亿美元的人工智能数据中心交易目标提高至 165 美元"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Anchorage Digital expands Tron support with institutional TRX staking",
+    "链接": "https://cointelegraph.com/news/anchorage-digital-expands-tron-support-with-institutional-trx-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-14 15:00",
+    "title_zh": "Anchorage Digital 通过机构 TRX 质押扩大 Tron 支持"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin jumps on lowest US CPI since 2020 as traders stay wary of $64K failure",
+    "链接": "https://cointelegraph.com/markets/bitcoin-jumps-on-lowest-us-cpi-since-2020-as-traders-stay-wary-of-64k-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-14 14:53",
+    "title_zh": "交易员对 6.4 万美元的失败保持警惕，比特币在美国 CPI 上跃升为 2020 年以来最低水平"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin Covenants Part 4: OP_CHECKSIGFROMSTACK and OP_CAT",
+    "链接": "https://cointelegraph.com/research/bitcoin-covenants-part-4-op-checksigfromstack-and-op-cat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-13 23:00",
+    "title_zh": "比特币契约第 4 部分：OP_CHECKSIGFROMSTACK 和 OP_CAT"
+  },
+  {
+    "来源": "TheBlock",
     "标题": "Tether leads $7 million round in Pact Labs to boost USAT stablecoin adoption",
     "链接": "https://www.theblock.co/post/408239/tether-leads-7-million-round-in-pact-labs-to-boost-usat-stablecoin-adoption?utm_source=rss&utm_medium=rss",
     "时间": "2026-07-14 14:37",
