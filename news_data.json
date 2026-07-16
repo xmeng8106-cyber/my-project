@@ -1,5 +1,75 @@
 [
   {
+    "来源": "TheBlock",
+    "标题": "Polygon Labs announces second round of layoffs in 2026 as firm looks to finalize Coinme acquisition",
+    "链接": "https://www.theblock.co/post/408625/polygon-labs-second-round-of-layoffs-2026-finalize-coinme-acquisition?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-16 13:47",
+    "title_zh": "Polygon Labs 宣布 2026 年第二轮裁员，公司希望完成对 Coinme 的收购"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Alpaca raises $135M to fund tokenized agent-first infrastructure",
+    "链接": "https://cointelegraph.com/news/alpaca-raises-135m-to-fund-tokenized-agent-first-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-16 13:34",
+    "title_zh": "Alpaca 筹集 1.35 亿美元，资助代币化代理优先基础设施"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Gambling on random Pokémon cards: Onchain gagcha hits record high as crypto sinks",
+    "链接": "https://cointelegraph.com/features/pokemon-cards-as-rwas-gacha-spending-hits-records-as-crypto-sinks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-16 13:30",
+    "title_zh": "随机神奇宝贝卡赌博：随着加密货币的沉没，链上 Gagcha 创下历史新高"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Prediction markets defy crypto downturn with record Q2 volume: CoinGecko",
+    "链接": "https://cointelegraph.com/news/crypto-cool-q2-prediction-markets-hit-records-coingecko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-16 13:05",
+    "title_zh": "预测市场以创纪录的第二季度交易量抵御加密货币低迷：CoinGecko"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Ledger unveils hardware-backed Agent Stack to prevent rogue AI transactions",
+    "链接": "https://www.theblock.co/post/408549/ledger-unveils-hardware-backed-agent-stack?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-16 13:00",
+    "title_zh": "Ledger 推出硬件支持的代理堆栈以防止流氓人工智能交易"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "MoonPay acquires Y Combinator-backed crypto deposits startup Glide in all-equity deal",
+    "链接": "https://www.theblock.co/post/408603/moonpay-acquires-y-combinator-crypto-glide-all-equity-deal?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-16 13:00",
+    "title_zh": "MoonPay 以全股权交易收购 Y Combinator 支持的加密货币存款初创公司 Glide"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "MoonPay buys Glide to bolster crypto deposits infrastructure",
+    "链接": "https://cointelegraph.com/news/moonpay-acquires-glide-strengthen-crypto-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-16 13:00",
+    "title_zh": "MoonPay 收购 Glide 以加强加密货币存款基础设施"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Dune research finds 85% of concentrated DeFi liquidity is underutilized, with $150M in annual fees foregone",
+    "链接": "https://www.theblock.co/post/408591/dune-research-finds-85-of-concentrated-defi-liquidity-is-underutilized-with-150m-in-annual-fees-foregone?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-16 12:50",
+    "title_zh": "Dune 研究发现 85% 的集中 DeFi 流动性未得到充分利用，年费损失达 1.5 亿美元"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Tether invests $20 million in Ualá as the fintech firm reaches $3.2 billion valuation",
+    "链接": "https://www.theblock.co/post/408604/tether-invests-20-million-in-uala-as-the-fintech-firm-reaches-3-2-billion-valuation?utm_source=rss&utm_medium=rss",
+    "时间": "2026-07-16 12:46",
+    "title_zh": "Tether 向 Ualá 投资 2000 万美元，这家金融科技公司估值达到 32 亿美元"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Tokenized stocks market cap gains to record $2.3B",
+    "链接": "https://cointelegraph.com/news/tokenized-stocks-rise-23b-all-time-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-07-16 12:35",
+    "title_zh": "代币化股票市值涨幅创纪录 $2.3B"
+  },
+  {
     "来源": "Cointelegraph",
     "标题": "FATF urges faster crypto AML enforcement as stablecoin crime increases",
     "链接": "https://cointelegraph.com/news/fatf-urges-crypto-aml-enforcement-stablecoin-crime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
