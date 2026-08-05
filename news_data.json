@@ -1,6 +1,55 @@
 [
   {
     "来源": "TheBlock",
+    "标题": "Circle names BlackRock, DTCC among Arc validators as Q2 revenue hits $701 million",
+    "链接": "https://www.theblock.co/post/410840/circle-names-blackrock-dtcc-among-arc-validators-as-q2-revenue-hits-701-million?utm_source=rss&utm_medium=rss",
+    "时间": "2026-08-05 12:16",
+    "title_zh": "Circle 将 BlackRock 和 DTCC 列为 Arc 验证者，第二季度收入达到 7.01 亿美元"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Binance sues RedotPay over alleged $473 million user losses: Report",
+    "链接": "https://cointelegraph.com/news/binance-redotpay-lawsuit-alleged-473-million-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-08-05 12:01",
+    "title_zh": "币安起诉 RedotPay，指控其用户损失 4.73 亿美元：报告"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Visa expands stablecoin capabilities on Visa Direct with zerohash collaboration",
+    "链接": "https://www.theblock.co/post/410657/stablecoin-capabilities-visa-direct-zerohash?utm_source=rss&utm_medium=rss",
+    "时间": "2026-08-05 12:00",
+    "title_zh": "Visa 通过 Zerohash 合作扩展了 Visa Direct 上的稳定币功能"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Circle Q2 revenue falls short of Wall Street estimates",
+    "链接": "https://cointelegraph.com/news/circle-q2-revenue-misses-wall-street-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-08-05 11:48",
+    "title_zh": "Circle 第二季度收入低于华尔街预期"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "‘Panic visible onchain’: Bitcoin activity hits 2026 high amid Coldcard attack as K33 flags potential bottoming pattern",
+    "链接": "https://www.theblock.co/post/410835/panic-visible-onchain-bitcoin-activity-hits-2026-high-amid-coldcard-attack-as-k33-flags-potential-bottoming-pattern?utm_source=rss&utm_medium=rss",
+    "时间": "2026-08-05 11:33",
+    "title_zh": "“链上恐慌明显”：由于 K33 标记潜在的触底模式，Coldcard 攻击中比特币活动达到 2026 年新高"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin ETFs log inflows as cold wallet hack reignites custody debate",
+    "链接": "https://cointelegraph.com/markets/bitcoin-etfs-inflows-cold-wallet-hack-custody-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-08-05 10:43",
+    "title_zh": "冷钱包黑客事件再次引发托管争议，比特币 ETF 资金流入"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "S&P gives BlackRock tokenized reserve fund top stability rating",
+    "链接": "https://cointelegraph.com/news/sp-blackrock-tokenized-reserve-fund-stability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-08-05 10:40",
+    "title_zh": "标准普尔给予贝莱德代币化储备基金最高稳定性评级"
+  },
+  {
+    "来源": "TheBlock",
     "标题": "Cipher slides 16% on wider Q2 losses as Bernstein sees upside from Texas power audit",
     "链接": "https://www.theblock.co/post/410820/cipher-wider-q2-losses?utm_source=rss&utm_medium=rss",
     "时间": "2026-08-05 09:50",
