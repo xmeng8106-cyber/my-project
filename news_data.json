@@ -1,6 +1,118 @@
 [
   {
     "来源": "Cointelegraph",
+    "标题": "Crypto market maker Wintermute launches US broker-dealer",
+    "链接": "https://cointelegraph.com/news/crypto-market-maker-wintermute-launches-us-broker-dealer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-08-07 00:09",
+    "title_zh": "加密货币做市商 Wintermute 推出美国经纪交易商"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Crypto bill ethics provision could let Trump defer millions in taxes: Bloomberg",
+    "链接": "https://www.theblock.co/post/411065/crypto-bill-ethics-provision-could-let-trump-defer-millions-in-taxes-bloomberg?utm_source=rss&utm_medium=rss",
+    "时间": "2026-08-06 21:52",
+    "title_zh": "加密货币法案道德条款可以让特朗普推迟数百万美元的税收：彭博社"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Wintermute registers as SEC broker-dealer to trade stocks, options and crypto ETFs",
+    "链接": "https://www.theblock.co/post/411060/wintermute-registers-as-sec-broker-dealer-to-trade-stocks-options-and-crypto-etfs?utm_source=rss&utm_medium=rss",
+    "时间": "2026-08-06 21:29",
+    "title_zh": "Wintermute 注册为 SEC 经纪自营商，可交易股票、期权和加密 ETF"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Following primary loss, crypto PACs invest $1.5M in 3 US state races",
+    "链接": "https://cointelegraph.com/news/crypto-pac-florida-alaska-wyoming-primary-races?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-08-06 21:11",
+    "title_zh": "初次失利后，加密 PAC 在美国 3 个州的竞选中投资 150 万美元"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bitcoin miners MARA and CleanSpark post double-digital revenue drops as AI infrastructure pivot continues",
+    "链接": "https://www.theblock.co/post/411049/bitcoin-miners-mara-cleanspark-double-digital-revenue-drops-ai-infrastructure-pivot?utm_source=rss&utm_medium=rss",
+    "时间": "2026-08-06 21:10",
+    "title_zh": "随着人工智能基础设施的持续发展，比特币矿商 MARA 和 CleanSpark 的收入出现两位数下降"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Late Ondo founder’s mother seeks control of company and removal of De Bode as CEO",
+    "链接": "https://www.theblock.co/post/411006/late-ondo-founders-mother-seeks-control-of-company-and-removal-of-de-bode-as-ceo?utm_source=rss&utm_medium=rss",
+    "时间": "2026-08-06 19:45",
+    "title_zh": "已故 Ondo 创始人的母亲寻求公司控制权并解除 De Bode 首席执行官职务"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Coinbase’s Base app will become ‘less Base-centric’ under Cobie, Jesse Pollak says",
+    "链接": "https://www.theblock.co/post/411023/jesse-pollak-base-app-become-less-base-centric-cobie-builds-trading-platform?utm_source=rss&utm_medium=rss",
+    "时间": "2026-08-06 19:05",
+    "title_zh": "Jesse Pollak 表示，在 Cobie 的领导下，Coinbase 的 Base 应用程序将变得“不再以 Base 为中心”"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin ETF inflows surge after Coldcard hack, but link is unclear: Bloomberg analyst",
+    "链接": "https://cointelegraph.com/news/bitcoin-etf-inflows-coldcard-hack-bloomberg-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-08-06 18:17",
+    "title_zh": "Coldcard 黑客攻击后比特币 ETF 流入激增，但联系尚不清楚：彭博社分析师"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "DePIN project Vangrid raises $9 million in token round to build spatial data network for physical AI",
+    "链接": "https://www.theblock.co/post/411022/depin-project-vangrid-funding-token-round-spatial-data-physical-ai?utm_source=rss&utm_medium=rss",
+    "时间": "2026-08-06 18:03",
+    "title_zh": "DePIN项目Vangrid完成900万美元代币融资，为物理AI构建空间数据网络"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Tokenized RWAs triple deposits to $7.4 billion as broader DeFi contracts 15%: CoinShares",
+    "链接": "https://www.theblock.co/post/411015/tokenized-rwas-triple-deposits-to-7-4-billion-as-broader-defi-contracts-15-coinshares?utm_source=rss&utm_medium=rss",
+    "时间": "2026-08-06 17:22",
+    "title_zh": "随着更广泛的 DeFi 合约增长 15%，代币化 RWA 存款增加三倍至 74 亿美元：CoinShares"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "US appellate court mandate affirms Sam Bankman-Fried conviction",
+    "链接": "https://cointelegraph.com/news/us-appellate-court-mandate-sam-bankman-fried?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-08-06 17:17",
+    "title_zh": "美国上诉法院授权维持萨姆·班克曼-弗里德定罪"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "US Senate will vote on CLARITY crypto bill ‘without any question’ this week: Tim Scott",
+    "链接": "https://cointelegraph.com/news/us-senate-vote-clarity-act-tim-scott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-08-06 16:53",
+    "title_zh": "Tim Scott 表示，美国参议院本周将“毫无疑问”地对 CLARITY 加密货币法案进行投票"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin miners’ AI pivot loses Wall Street’s wow factor",
+    "链接": "https://cointelegraph.com/news/bitcoin-miners-ai-infrastructure-deals-wall-street-reaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-08-06 16:42",
+    "title_zh": "比特币矿工的人工智能转向失去了华尔街的惊叹因素"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin price coils under $65K as US PMI data brings new ‘stagflation’ warning",
+    "链接": "https://cointelegraph.com/markets/bitcoin-price-compresses-as-us-pmi-data-brings-new-stagflation-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-08-06 16:24",
+    "title_zh": "美国 PMI 数据带来新的“滞胀”警告，比特币价格跌破 6.5 万美元"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "JPMorgan says Hyperliquid faces growing competition while HYPE ETF inflows stall",
+    "链接": "https://www.theblock.co/post/411001/jpmorgan-hyperliquid-competition-hype-etf-inflows-stall?utm_source=rss&utm_medium=rss",
+    "时间": "2026-08-06 16:17",
+    "title_zh": "摩根大通表示，Hyperliquid 面临日益激烈的竞争，而 HYPE ETF 资金流入停滞"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Block’s spending rise despite 40% workforce cut leaves analysts weighing growth prospects",
+    "链接": "https://www.theblock.co/post/410997/blocks-spending-rise-despite-workforce-cut-leaves-analysts-weighing-growth-prospects?utm_source=rss&utm_medium=rss",
+    "时间": "2026-08-06 16:12",
+    "title_zh": "尽管裁员 40%，Block 的支出仍在增加，这让分析师开始权衡增长前景"
+  },
+  {
+    "来源": "Cointelegraph",
     "标题": "Step App winds down after four years as FITFI token sinks",
     "链接": "https://cointelegraph.com/news/step-app-winds-down-four-years-move-to-earn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "时间": "2026-08-06 13:52",
