@@ -1,6 +1,48 @@
 [
   {
     "来源": "TheBlock",
+    "标题": "Hyperliquid Policy Center, trade[XYZ] urges CFTC to create path for US oil perpetuals",
+    "链接": "https://www.theblock.co/news/regulation/2026-08-26-hyperliquid-policy-center-tradexyz-urges-cftc-create-path-us-oil-perpetuals-412834",
+    "时间": "2026-08-26 16:06",
+    "title_zh": "超流动性政策中心、贸易[XYZ]敦促美国商品期货交易委员会为美国石油永续合约创造道路"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "CryptoQuant says bitcoin has entered bull market but needs to cross $83,000 for ‘official’ confirmation",
+    "链接": "https://www.theblock.co/news/markets/2026-08-26-cryptoquant-bitcoin-bull-market-83000-official-confirmation-412822",
+    "时间": "2026-08-26 16:02",
+    "title_zh": "CryptoQuant 表示比特币已进入牛市，但需要突破 83,000 美元才能获得“官方”确认"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin dips below $78K as stocks, gold fall on higher US PCE Inflation data",
+    "链接": "https://cointelegraph.com/markets/bitcoin-dips-below-78k-as-stocks-gold-fall-on-higher-us-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-08-26 15:58",
+    "title_zh": "随着美国 PCE 通胀数据走高，股市和黄金下跌，比特币跌破 7.8 万美元"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Protocol upgrade decouples consensus from execution to solve scaling bottlenecks",
+    "链接": "https://cointelegraph.com/ecosystem/protocol-upgrade-decouples-consensus-from-execution-to-solve-scaling-bottlenecks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-08-26 15:04",
+    "title_zh": "协议升级将共识与执行解耦，解决扩展瓶颈"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Coinbase, Better make token-backed mortgages generally available",
+    "链接": "https://www.theblock.co/news/business/2026-08-26-coinbase-better-make-token-backed-mortgages-generally-available-412810",
+    "时间": "2026-08-26 15:00",
+    "title_zh": "Coinbase，更好地普及代币支持的抵押贷款"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "SEC sends crypto custody rule changes to White House for review",
+    "链接": "https://www.theblock.co/news/regulation/2026-08-26-sec-sends-crypto-custody-rule-changes-to-white-house-for-review-412811",
+    "时间": "2026-08-26 14:55",
+    "title_zh": "SEC 将加密货币托管规则变更发送给白宫进行审查"
+  },
+  {
+    "来源": "TheBlock",
     "标题": "SOL treasury firm DeFi Development launches real-time ‘State of Solana’ intelligence platform",
     "链接": "https://www.theblock.co/news/markets/2026-08-26-sol-treasury-firm-defi-development-launches-real-time-state-of-solana-intelligence-platform-412798",
     "时间": "2026-08-26 14:07",
