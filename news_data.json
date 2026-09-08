@@ -1,5 +1,96 @@
 [
   {
+    "来源": "TheBlock",
+    "标题": "Bitmine nears 5% of Ethereum supply after buying 28,086 ETH",
+    "链接": "https://www.theblock.co/news/business/2026-09-08-bitmine-nears-5-of-ethereum-supply-after-buying-28086-eth-413790",
+    "时间": "2026-09-08 13:51",
+    "title_zh": "购买 28,086 ETH 后，Bitmine 接近以太坊供应量的 5%"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitmine buys 28k ETH, completes 97% of treasury accumulation goal",
+    "链接": "https://cointelegraph.com/news/bitmine-buys-28k-eth-completes-97-treasury-goal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-09-08 13:51",
+    "title_zh": "Bitmine购买28k ETH，完成金库积累目标的97%"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Is Bitcoin too volatile to risk your retirement on?",
+    "链接": "https://cointelegraph.com/magazine/is-bitcoin-too-volatile-to-risk-your-retirement-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-09-08 13:30",
+    "title_zh": "比特币的波动性是否太高，以至于不能让你冒着退休的风险？"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Strategy skips Bitcoin buy to repurchase $176M of STRC preferred shares",
+    "链接": "https://cointelegraph.com/news/strategy-skips-bitcoin-buy-repurchase-176m-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-09-08 12:51",
+    "title_zh": "战略跳过比特币购买，回购 1.76 亿美元的 STRC 优先股"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Mexico quadruple homicide tied to alleged Bitcoin robbery attempt",
+    "链接": "https://cointelegraph.com/news/mexico-quadruple-homicide-alleged-bitcoin-robbery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-09-08 12:41",
+    "title_zh": "墨西哥四起凶杀案与涉嫌比特币抢劫企图有关"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Strategy repurchases $176 million of STRC shares, makes no bitcoin purchases or sales",
+    "链接": "https://www.theblock.co/news/business/2026-09-08-strategy-bitcoin-strc-repurchase-program-413678",
+    "时间": "2026-09-08 12:20",
+    "title_zh": "Strategy 回购 1.76 亿美元的 STRC 股票，不购买或出售比特币"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bitcoin volatility remains subdued as supply in profit nears historical bear-to-bull transition level: analysts",
+    "链接": "https://www.theblock.co/news/markets/2026-09-08-bitcoin-volatility-remains-subdued-as-supply-in-profit-nears-historical-bear-to-bull-transition-level-analysts-413754",
+    "时间": "2026-09-08 12:08",
+    "title_zh": "分析师称，随着利润供应接近历史熊市到牛市过渡水平，比特币波动性仍然较低"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Circle to acquire Tazapay to expand USDC cross-border payments",
+    "链接": "https://cointelegraph.com/news/circle-tazapay-usdc-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-09-08 11:33",
+    "title_zh": "Circle 收购 Tazapay 扩大 USDC 跨境支付"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Visa stablecoin settlement tops $20 billion annualized run rate, up more than 15x year over year",
+    "链接": "https://www.theblock.co/news/business/2026-09-08-visa-stablecoin-settlement-tops-20-billion-annualized-run-rate-up-more-than-15x-year-over-year-413749",
+    "时间": "2026-09-08 11:09",
+    "title_zh": "Visa 稳定币结算年化运行率突破 200 亿美元，同比增长超过 15 倍"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Polish prosecutors charge fifth suspect in Zondacrypto probe involving around $100 million in estimated losses",
+    "链接": "https://www.theblock.co/news/regulation/2026-09-08-polish-prosecutors-charge-fifth-suspect-in-zondacrypto-probe-involving-around-100-million-in-estimated-losses-413745",
+    "时间": "2026-09-08 10:38",
+    "title_zh": "波兰检察官对 Zondacrypto 调查中的第五名嫌疑人提出指控，涉及估计损失约 1 亿美元"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Uzbekistan begins government bond-backed stablecoin payment pilot",
+    "链接": "https://cointelegraph.com/news/uzbekistan-humo-stablecoin-payment-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-09-08 10:07",
+    "title_zh": "乌兹别克斯坦开始政府债券支持的稳定币支付试点"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Ledger CTO urges AI bug hunter responsibility, warns against ‘attention farming’",
+    "链接": "https://cointelegraph.com/news/ledger-trezor-warn-ai-bug-hunters-attention-farming?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-09-08 10:03",
+    "title_zh": "Ledger 首席技术官敦促人工智能缺陷猎人承担责任，警告不要“注意力农业”"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Robinhood chain to generate $160M in annual fees by 2028: Bernstein",
+    "链接": "https://cointelegraph.com/news/robinhood-chain-160m-annual-fees-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-09-08 09:56",
+    "title_zh": "Bernstein 表示，Robinhood 链到 2028 年年费将达到 1.6 亿美元"
+  },
+  {
     "来源": "Cointelegraph",
     "标题": "New Bitcoin whales spark sell-side risk as unrealized gains hit $9B",
     "链接": "https://cointelegraph.com/markets/new-bitcoin-whales-spark-sell-side-risk-as-unrealized-gains-hit-9b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
