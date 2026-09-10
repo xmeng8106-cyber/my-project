@@ -1,6 +1,83 @@
 [
   {
     "来源": "TheBlock",
+    "标题": "Coinbase, Moov to bring stablecoin payment infrastructure to community banks and credit unions",
+    "链接": "https://www.theblock.co/news/business/2026-09-10-coinbase-moov-bring-stablecoin-payment-infrastructure-community-banks-credit-unions-414153",
+    "时间": "2026-09-10 15:11",
+    "title_zh": "Coinbase 和 Moov 将为社区银行和信用社带来稳定币支付基础设施"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Uniswap launches ‘StablePair Hook’ to help LPs capture more stablecoin trading value",
+    "链接": "https://www.theblock.co/news/defi/2026-09-10-uniswap-stablepair-hook-414160",
+    "时间": "2026-09-10 15:00",
+    "title_zh": "Uniswap 推出“StablePair Hook”，帮助 LP 获取更多稳定币交易价值"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
+    "链接": "https://cointelegraph.com/markets/bitcoin-falls-on-us-ppi-overshoot-as-30-year-bond-yield-hits-new-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-09-10 14:52",
+    "title_zh": "30年期债券收益率创19年新高，美国PPI超调，比特币下跌"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "MoneyGram launches first stablecoin-backed Visa card in Colombia",
+    "链接": "https://www.theblock.co/news/business/2026-09-10-moneygram-card-stablecoin-visa-colombia-414137",
+    "时间": "2026-09-10 14:30",
+    "title_zh": "MoneyGram 在哥伦比亚推出首张稳定币支持的 Visa 卡"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Citadel urges SEC to assert oversight of event contracts tied to public firms",
+    "链接": "https://www.theblock.co/news/regulation/2026-09-10-citadel-urges-sec-assert-oversight-event-contracts-tied-public-firms-414140",
+    "时间": "2026-09-10 13:43",
+    "title_zh": "Citadel 敦促 SEC 对与上市公司相关的活动合同进行监督"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Coinbase, Moov to provide stablecoin infrastructure for US community banks",
+    "链接": "https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-09-10 13:35",
+    "title_zh": "Coinbase 和 Moov 将为美国社区银行提供稳定币基础设施"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Researchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack",
+    "链接": "https://www.theblock.co/news/ecosystems/2026-09-10-researchers-halve-quantum-resource-benchmark-for-key-operation-in-bitcoin-ethereum-attack-414121",
+    "时间": "2026-09-10 13:00",
+    "title_zh": "研究人员将比特币、以太坊攻击中关键操作的量子资源基准减半"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Solana sees record 263K tokens issued in a single day",
+    "链接": "https://cointelegraph.com/news/solana-record-263k-tokens-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-09-10 13:00",
+    "title_zh": "Solana 创下单日发行 26.3 万枚代币的纪录"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Nasdaq to invest $100 million in Kraken parent Payward as firms expand partnership",
+    "链接": "https://www.theblock.co/news/deals/2026-09-10-nasdaq-to-invest-100-million-in-kraken-parent-payward-as-firms-expand-partnership-414120",
+    "时间": "2026-09-10 12:53",
+    "title_zh": "纳斯达克将向 Kraken 母公司 Payward 投资 1 亿美元，以扩大合作伙伴关系"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Ex-BoE deputy governor headlines trio of former central bankers joining Fnality",
+    "链接": "https://cointelegraph.com/news/ex-boe-cunliffe-central-bankers-fnality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-09-10 12:02",
+    "title_zh": "英国央行前副行长成为三名前央行行长加入 Fnality 的头条新闻"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Nasdaq invests $100M in Kraken parent at $21B valuation: Report",
+    "链接": "https://cointelegraph.com/news/nasdaq-invests-100m-kraken-parent-21b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-09-10 11:41",
+    "title_zh": "纳斯达克以 21B 美元估值向 Kraken 母公司投资 1 亿美元：报告"
+  },
+  {
+    "来源": "TheBlock",
     "标题": "Coinbase CEO Brian Armstrong says bitcoin has bottomed for current cycle, expects uptrend over next two years",
     "链接": "https://www.theblock.co/news/markets/2026-09-10-coinbase-ceo-brian-armstrong-says-bitcoin-has-bottomed-for-current-cycle-expects-uptrend-over-next-two-years-414104",
     "时间": "2026-09-10 10:31",
