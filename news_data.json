@@ -1,6 +1,41 @@
 [
   {
     "来源": "TheBlock",
+    "标题": "Coinbase rebrands Base App back to Coinbase Wallet after just over a year as social experiment falls short",
+    "链接": "https://www.theblock.co/news/defi/2026-09-10-coinbase-rebrands-base-app-back-to-coinbase-wallet-after-just-over-a-year-as-social-experiment-falls-short-414115",
+    "时间": "2026-09-10 18:00",
+    "title_zh": "由于社交实验不足，Coinbase 在一年多后将 Base App 重新命名为 Coinbase Wallet"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "UK House of Lords backs mandatory digital asset strategy over Labour position",
+    "链接": "https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-09-10 17:54",
+    "title_zh": "英国上议院支持强制性数字资产战略而非工党立场"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Liquid Network resumes block production after $320M exploit",
+    "链接": "https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-09-10 16:38",
+    "title_zh": "Liquid Network 在 3.2 亿美元的漏洞利用后恢复区块生产"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "MoneyGram launches Visa stablecoin card as remittance rivals expand",
+    "链接": "https://cointelegraph.com/news/moneygram-launches-visa-stablecoin-card-as-remittance-rivals-expand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-09-10 15:59",
+    "title_zh": "随着汇款竞争对手的扩张，速汇金推出 Visa 稳定币卡"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "EU finance groups push to remove tokenized securities cap",
+    "链接": "https://cointelegraph.com/news/european-finance-groups-urge-eu-to-scrap-tokenized-securities-cap-propose-15t-fallback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-09-10 15:49",
+    "title_zh": "欧盟金融集团推动取消代币化证券上限"
+  },
+  {
+    "来源": "TheBlock",
     "标题": "Coinbase, Moov to bring stablecoin payment infrastructure to community banks and credit unions",
     "链接": "https://www.theblock.co/news/business/2026-09-10-coinbase-moov-bring-stablecoin-payment-infrastructure-community-banks-credit-unions-414153",
     "时间": "2026-09-10 15:11",
