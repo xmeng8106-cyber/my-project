@@ -1,5 +1,83 @@
 [
   {
+    "来源": "TheBlock",
+    "标题": "DriveWealth to use Ripple’s RLUSD for stablecoin settlement, cross-border payments",
+    "链接": "https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479",
+    "时间": "2026-10-14 13:00"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Polygon Labs completes Coinme acquisition, bringing regulated payments coverage across 48 US states",
+    "链接": "https://www.theblock.co/news/business/2026-10-14-polygon-labs-completes-coinme-acquisition-bringing-regulated-payments-coverage-across-48-us-states-418518",
+    "时间": "2026-10-14 13:00"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Canada crypto remittances to Asian countries surge 141% to $2.36B: Chainalysis",
+    "链接": "https://cointelegraph.com/news/canada-crypto-remittances-asia-surge-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-14 13:00"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Qivalis receives EMI authorization from Dutch central bank for euro stablecoin",
+    "链接": "https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-14 12:53"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Kraken parent to buy Lithuanian Saldo Bank amid TradFi expansion",
+    "链接": "https://cointelegraph.com/news/krakens-parent-buy-lithuanian-saldo-bank-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-14 12:26"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Evernorth taps Ripple, Kraken, Coinbase and BitGo to put $648 million XRP treasury to work",
+    "链接": "https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503",
+    "时间": "2026-10-14 12:00"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Can crypto users trust the supply chain behind hardware wallets?",
+    "链接": "https://cointelegraph.com/news/hardware-wallet-supply-chain-risk-ledger-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-14 11:59"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "How Bitcoin Works",
+    "链接": "https://www.theblock.co/learn/campus/how-bitcoin-works-417659",
+    "时间": "2026-10-14 11:52"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Coins.ph says Philippine central bank license intact amid revocation claims",
+    "链接": "https://cointelegraph.com/news/coinsph-says-bsp-license-intact-amid-claims-of-potential-revocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-14 11:05"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "CryptoQuant’s 3 charts keeping Bitcoin’s ‘Uptober’ thesis valid",
+    "链接": "https://cointelegraph.com/markets/cryptoquant-charts-bitcoin-uptober-thesis-valid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-14 10:38"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Sam Bankman-Fried’s lawyer lays out ex-FTX CEO’s Supreme Court case",
+    "链接": "https://cointelegraph.com/news/ftx-sam-bankman-fried-lawyer-supreme-court-appeal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-14 10:29"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author",
+    "链接": "https://cointelegraph.com/news/bitcoin-less-volatile-larger-gold-bitcoin-standard-author?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-14 10:25"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
+    "链接": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-14 10:07"
+  },
+  {
     "来源": "Cointelegraph",
     "标题": "Starknet introduces wallet privacy feature for DeFi activity",
     "链接": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
