@@ -1,5 +1,95 @@
 [
   {
+    "来源": "TheBlock",
+    "标题": "Starknet opens seven-day vote on independent Layer 1 over quantum risks",
+    "链接": "https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673",
+    "时间": "2026-10-15 14:26"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Russia to ban direct peer-to-peer crypto trades starting July 2027",
+    "链接": "https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-15 14:22"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions",
+    "链接": "https://cointelegraph.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-15 14:16"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bitwise CIO argues bitcoin will benefit whether AI booms or busts",
+    "链接": "https://www.theblock.co/news/markets/2026-10-15-bitwise-cio-argues-bitcoin-will-benefit-whether-ai-booms-or-busts-418668",
+    "时间": "2026-10-15 14:01"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Can the SEC and CFTC’s pro-crypto rules be overturned? Legal opinion",
+    "链接": "https://cointelegraph.com/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-15 13:30"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Helius CEO Mert Mumtaz joins NEAR Foundation Council",
+    "链接": "https://www.theblock.co/news/business/2026-10-15-helius-ceo-mert-mumtaz-joins-near-foundation-council-418656",
+    "时间": "2026-10-15 13:00"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "HEX token sellers erase $160M following reports of founder Richard Schueler arrest",
+    "链接": "https://cointelegraph.com/news/hex-token-erases-160m-reports-founder-schuelers-arrest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-15 12:12"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Ledger unveils Atom Android device with Solana Mobile integration and new tamper protections amid investigation into modified wallets",
+    "链接": "https://www.theblock.co/news/business/2026-10-15-ledger-atom-solana-mobile-418644",
+    "时间": "2026-10-15 12:00"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Ledger’s answer to wallet tampering costs $849 and ships next year",
+    "链接": "https://cointelegraph.com/news/ledger-new-hardware-device-asia-wallet-tampering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-15 12:00"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "EBA designates Circle’s USDC as the EU’s first ‘significant’ e-money token",
+    "链接": "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637",
+    "时间": "2026-10-15 11:10"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "White House crypto council chief Patrick Witt steps down",
+    "链接": "https://cointelegraph.com/news/white-house-crypto-council-director-steps-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-15 10:41"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Starknet opens vote on potential Ethereum L2 exit over quantum risks",
+    "链接": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-15 10:22"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B",
+    "链接": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-15 10:00"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin dips to $80.1K as KOSPI closes at its lowest since April",
+    "链接": "https://cointelegraph.com/markets/bitcoin-dips-korea-kospi-lowest-close-since-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-15 09:48"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Thailand crypto ETFs may see slow start despite new rules: CoinShares",
+    "链接": "https://cointelegraph.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-15 09:36"
+  },
+  {
     "来源": "Cointelegraph",
     "标题": "Babylon advances native Bitcoin lending proposal on Aave V4",
     "链接": "https://cointelegraph.com/news/babylon-native-bitcoin-collateral-aave-v4-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
