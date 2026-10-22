@@ -1,5 +1,107 @@
 [
   {
+    "来源": "TheBlock",
+    "标题": "Uniswap’s aggregator hooks go live on Ethereum, Base and Robinhood Chain",
+    "链接": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
+    "时间": "2026-10-22 13:55"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions",
+    "链接": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-22 13:42"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Fireblocks denies report of $2.5 billion acquisition talks with Visa",
+    "链接": "https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926",
+    "时间": "2026-10-22 13:27"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Thailand SEC says several companies eye crypto ETFs, none has applied",
+    "链接": "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-22 13:20"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
+    "链接": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-22 13:13"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
+    "链接": "https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-22 13:00"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Dune launches onchain trading data feeds as tokenized markets expand",
+    "链接": "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889",
+    "时间": "2026-10-22 12:00"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users",
+    "链接": "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916",
+    "时间": "2026-10-22 12:00"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "The UK needs a workable route to regulated DeFi access",
+    "链接": "https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-22 12:00"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "CoinDCX admits ‘operational losses’ after $16M wallet transfers draw scrutiny",
+    "链接": "https://cointelegraph.com/news/coindcx-suspicious-outflows-wallet-compromised-2025-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-22 10:53"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
+    "链接": "https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-22 10:38"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
+    "链接": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904",
+    "时间": "2026-10-22 09:56"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Starknet voters back research into life beyond Ethereum",
+    "链接": "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-22 09:37"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Starknet community overwhelmingly backs research into becoming an independent post-quantum Layer 1",
+    "链接": "https://www.theblock.co/news/ecosystems/2026-10-22-starknet-community-backs-independent-post-quantum-layer-1-421885",
+    "时间": "2026-10-22 09:32"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Layer 2 Scaling Solutions",
+    "链接": "https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685",
+    "时间": "2026-10-22 09:15"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "South Korea’s crypto bill nears completion while tax debate intensifies: reports",
+    "链接": "https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880",
+    "时间": "2026-10-22 09:11"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
+    "链接": "https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-10-22 09:06"
+  },
+  {
     "来源": "Cointelegraph",
     "标题": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
     "链接": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
