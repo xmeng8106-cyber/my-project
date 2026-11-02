@@ -1,5 +1,107 @@
 [
   {
+    "来源": "TheBlock",
+    "标题": "Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach",
+    "链接": "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333",
+    "时间": "2026-11-02 20:19"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
+    "链接": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-02 19:27"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "DTCC’s tokenization launch could accelerate adoption and boost Securitize, StoneX says",
+    "链接": "https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331",
+    "时间": "2026-11-02 19:15"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
+    "链接": "https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-02 19:05"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
+    "链接": "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-02 18:00"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack",
+    "链接": "https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321",
+    "时间": "2026-11-02 16:52"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Strive inches closer to becoming second-largest public bitcoin holder after latest $10 million buy",
+    "链接": "https://www.theblock.co/news/business/2026-11-02-strive-inches-closer-second-largest-public-bitcoin-holder-10-million-buy-432312",
+    "时间": "2026-11-02 15:01"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bitmine adds 8,573 ETH as Tom Lee flags muted Binance hack reaction",
+    "链接": "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307",
+    "时间": "2026-11-02 14:40"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
+    "链接": "https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-02 13:48"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "AI agent disputes head to ‘Internet Court’ — and a jury of AI agents",
+    "链接": "https://cointelegraph.com/magazine/ai-agent-disputes-sent-to-internet-court-and-a-jury-of-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-02 13:30"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
+    "链接": "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-02 13:21"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "‘We found room for even more orange’: Michael Saylor’s Strategy scoops up another 811 bitcoin for $65.5 million",
+    "链接": "https://www.theblock.co/news/business/2026-11-02-we-found-room-for-even-more-orange-michael-saylor-strategy-bitcoin-btc-432275",
+    "时间": "2026-11-02 13:09"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "FATF targets crypto hubs in review of money laundering controls",
+    "链接": "https://cointelegraph.com/news/fatf-targeted-crypto-compliance-jurisdiction-reviews?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-02 12:56"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
+    "链接": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-02 12:40"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?",
+    "链接": "https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-02 11:19"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Trezor lifts password ceiling after Coldcard’s $100M wallet thefts",
+    "链接": "https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-02 10:46"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
+    "链接": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-02 10:14"
+  },
+  {
     "来源": "Cointelegraph",
     "标题": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
     "链接": "https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
