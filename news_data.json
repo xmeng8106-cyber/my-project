@@ -1,5 +1,143 @@
 [
   {
+    "来源": "TheBlock",
+    "标题": "Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach",
+    "链接": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880",
+    "时间": "2026-11-04 16:58"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge",
+    "链接": "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878",
+    "时间": "2026-11-04 16:27"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
+    "链接": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-04 15:29"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "France backs reporting for self-custodied crypto worth 100K euros or more",
+    "链接": "https://cointelegraph.com/news/france-approves-amendment-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-04 13:44"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Circle reports $865 million in Q3 revenue and reserve income, discloses 5% workforce reduction",
+    "链接": "https://www.theblock.co/news/business/2026-11-04-circle-reports-865-million-in-q3-revenue-and-reserve-income-discloses-5-workforce-reduction-432671",
+    "时间": "2026-11-04 13:17"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’",
+    "链接": "https://cointelegraph.com/markets/cantons-cc-rises-sec-no-action-letter-digital-commodity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-04 12:12"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "BitGo launches institutional trading and financial solutions business led by former NYDIG executive",
+    "链接": "https://www.theblock.co/news/business/2026-11-04-bitgo-launches-institutional-trading-and-financial-solutions-business-led-by-former-nydig-executive-432646",
+    "时间": "2026-11-04 12:00"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says",
+    "链接": "https://cointelegraph.com/markets/crypto-market-recovery-grayscale-binance-hack-temporary-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-04 11:11"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "DeFi Explained",
+    "链接": "https://www.theblock.co/learn/defi/defi-explained-432391",
+    "时间": "2026-11-04 11:05"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Justin Sun seeks $264K sanctions over World Liberty’s UAE disclosure",
+    "链接": "https://cointelegraph.com/news/justin-sun-world-liberty-264k-sanctions-uae-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-04 10:30"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin ETFs lose $1.16B as Bitwise calls selling ‘short-term’",
+    "链接": "https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-04 09:38"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Morgan Stanley among first banks to tokenize US equities, Treasurys through DTCC’s service",
+    "链接": "https://www.theblock.co/news/markets/2026-11-04-morgan-stanley-among-first-banks-to-tokenize-us-equities-treasurys-through-dtccs-service-432633",
+    "时间": "2026-11-04 09:37"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "US midterm elections 2026 as it happened: Democrats win control of Congress",
+    "链接": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-04 09:27"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Binance hackers move 81% of stolen Solana, route funds via THORChain",
+    "链接": "https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-04 09:15"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Democrats win US House to secure control of Congress in midterms",
+    "链接": "https://cointelegraph.com/news/democrats-win-us-house-congress-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-04 07:50"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress",
+    "链接": "https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-04 07:25"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Ethereum dev targets 2028 for quantum resistance, a year early",
+    "链接": "https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-04 05:46"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "French bank Crédit Mutuel Arkéa exploited for over $133 million, ZachXBT says",
+    "链接": "https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607",
+    "时间": "2026-11-04 04:57"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Democrats claim control of the US Senate",
+    "链接": "https://cointelegraph.com/news/democrats-flip-us-senate-as-crypto-industry-faces-policy-reset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-04 04:40"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Former Sen. Sherrod Brown defeats Jon Husted, dealing a blow to crypto PAC Fairshake",
+    "链接": "https://www.theblock.co/news/regulation/2026-11-03-sherrod-brown-defeats-jon-husted-432495",
+    "时间": "2026-11-04 04:35"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Block Inc. shares rise 6% after-hours as it raises full-year profit forecast",
+    "链接": "https://www.theblock.co/news/business/2026-11-03-block-q3-earnings-shares-rise-432585",
+    "时间": "2026-11-04 04:13"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "ZachXBT identifies French bank as alleged victim of $133M crypto theft",
+    "链接": "https://cointelegraph.com/news/zachxbt-french-bank-credit-mutuel-arkea-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-04 03:35"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "South Korea’s ruling party formally proposes deferral of crypto income tax",
+    "链接": "https://www.theblock.co/news/regulation/2026-11-03-south-koreas-ruling-party-proposes-deferral-crypto-income-tax-432580",
+    "时间": "2026-11-04 02:51"
+  },
+  {
     "来源": "Cointelegraph",
     "标题": "US midterms election 2026 live: Crypto-backed Andy Barr wins Kentucky Senate seat",
     "链接": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
