@@ -1,6 +1,150 @@
 [
   {
     "来源": "TheBlock",
+    "标题": "Bitcoin ‘ripe for a squeeze’ as options traders raise odds of sub-$70,000 Christmas",
+    "链接": "https://www.theblock.co/news/markets/2026-11-11-bitcoin-ripe-for-squeeze-options-traders-raise-odds-sub-70000-christmas-437897",
+    "时间": "2026-11-11 14:44"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Deutsche Bank launches crypto custody for companies and institutions",
+    "链接": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-11 14:02"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Nomura’s Laser Digital helps launch Saudi SME credit vault targeting $100 million on BNB Chain",
+    "链接": "https://www.theblock.co/news/markets/2026-11-11-nomuras-laser-digital-helps-launch-saudi-sme-credit-vault-targeting-100-million-on-bnb-chain-437824",
+    "时间": "2026-11-11 13:35"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts",
+    "链接": "https://cointelegraph.com/magazine/paraguay-bank-collapse-shows-stablecoins-can-offer-a-lifeline-of-sorts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-11 13:30"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY — How Bitcoin could carry state across transactions",
+    "链接": "https://cointelegraph.com/research/bitcoin-covenants-part-5-matt-op-ccv?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-11 13:26"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "CoreWeave stock jumps 15% premarket after Q3 revenue beats estimates",
+    "链接": "https://cointelegraph.com/markets/coreweave-stock-surges-pre-market-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-11 13:02"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "OKXICE sets Nov. 23 launch for tokenized securities venue under SEC innovation exemption",
+    "链接": "https://www.theblock.co/news/regulation/2026-11-11-okxice-sets-nov-23-launch-for-tokenized-securities-venue-under-sec-innovation-exemption-437342",
+    "时间": "2026-11-11 13:01"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bitcoin Core discloses three patched security flaws, including high-severity mining bug",
+    "链接": "https://www.theblock.co/news/ecosystems/2026-11-11-bitcoin-core-discloses-three-patched-security-flaws-including-high-severity-mining-bug-437862",
+    "时间": "2026-11-11 12:50"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Crypto fraudster jailed for eight years over $2.7 million theft plot directed from prison",
+    "链接": "https://www.theblock.co/news/regulation/2026-11-11-crypto-fraudster-jailed-for-eight-years-over-2-7-million-theft-plot-directed-from-prison-437858",
+    "时间": "2026-11-11 12:46"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "FSB urgest Turkey to tighten crypto oversight, set stablecoin rules",
+    "链接": "https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-11 12:44"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Zcash falls below $1,000 for first time since September",
+    "链接": "https://cointelegraph.com/markets/zcash-falls-1k-grayscales-1m-ecosystem-commitment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-11 12:31"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
+    "链接": "https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-11 11:56"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Deutsche Bank goes live with digital asset custody service, signs asset management deal",
+    "链接": "https://www.theblock.co/news/business/2026-11-11-deutsche-bank-goes-live-with-digital-asset-custody-service-signs-asset-management-deal-437851",
+    "时间": "2026-11-11 11:46"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bitcoin and Blockchain Basics",
+    "链接": "https://www.theblock.co/learn/bitcoin/bitcoin-and-blockchain-basics-434447",
+    "时间": "2026-11-11 11:43"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Kraken parent adds over 200 tokenized UK and EU stocks to xStocks",
+    "链接": "https://cointelegraph.com/news/kraken-xstocks-200-tokenized-uk-eu-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-11 11:30"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin short-term holders send 47K BTC to exchanges at a loss",
+    "链接": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-11 11:05"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Crosschain protocol Across restores systems after domain hijack",
+    "链接": "https://www.theblock.co/news/defi/2026-11-11-crosschain-protocol-across-restores-systems-after-domain-hijack-437843",
+    "时间": "2026-11-11 10:55"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Kraken parent Payward adds 200 tokenized UK and European equities to xStocks offering",
+    "链接": "https://www.theblock.co/news/business/2026-11-11-kraken-parent-payward-adds-200-tokenized-uk-and-european-equities-to-xstocks-offering-437837",
+    "时间": "2026-11-11 10:54"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitget Wallet reports sevenfold jump in crypto phishing risk alerts",
+    "链接": "https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-11 10:00"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide",
+    "链接": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-11 09:58"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "New York federal judge denies Novig’s injunction bid, rules its sports event contracts are not swaps",
+    "链接": "https://www.theblock.co/news/regulation/2026-11-11-new-york-judge-denies-novig-injunction-bid-437828",
+    "时间": "2026-11-11 09:40"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "ECB warns legislative delays could postpone digital euro launch",
+    "链接": "https://cointelegraph.com/news/ecb-warns-legislative-delays-digital-euro-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-11 09:03"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Stock ETF buyers pounce on dip as Bitcoin funds bleed $1.6 billion",
+    "链接": "https://cointelegraph.com/markets/bitcoin-etf-outflows-persist-while-equity-investors-buy-the-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-11 08:55"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "SEC enforcement actions fall 24%, crypto cases in spotlight",
+    "链接": "https://cointelegraph.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-11 08:43"
+  },
+  {
+    "来源": "TheBlock",
     "标题": "Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline",
     "链接": "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812",
     "时间": "2026-11-11 06:22"
