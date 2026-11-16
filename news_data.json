@@ -1,5 +1,179 @@
 [
   {
+    "来源": "TheBlock",
+    "标题": "Solflare CEO says AI security reviews are essential, touts ‘bunker mode’ and MoneyGram deal",
+    "链接": "https://www.theblock.co/news/defi/2026-11-16-solflare-ceo-ai-security-reviews-bunker-mode-moneygram-441396",
+    "时间": "2026-11-16 18:59"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Winklevoss-backed Cypherpunk buys Zcash dip as mining debut delivers $2.6 million operating profit",
+    "链接": "https://www.theblock.co/news/business/2026-11-16-winklevoss-cypherpunk-buys-zcash-dip-mining-debut-delivers-2-6-million-operating-profit-441392",
+    "时间": "2026-11-16 18:43"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
+    "链接": "https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-16 18:07"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Standard Chartered says Japan’s bond tokenization plans could help drive RWA market to $2 trillion",
+    "链接": "https://www.theblock.co/news/web3/2026-11-16-japan-tokenized-government-bonds-standard-chartered-rwa-2-trillion-441384",
+    "时间": "2026-11-16 17:54"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise",
+    "链接": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-16 17:49"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Privacy on Solana is ‘non-negotiable’ for institutional adoption, Mert Mumtaz says",
+    "链接": "https://www.theblock.co/news/ecosystems/2026-11-16-privacy-solana-non-negotiable-institutional-adoption-mert-mumtaz-says-441363",
+    "时间": "2026-11-16 17:22"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Supreme Court rejects Custodia Bank’s bid for Fed master account",
+    "链接": "https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376",
+    "时间": "2026-11-16 17:15"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Boris Johnson backs tokenization months after likening bitcoin to a ‘Ponzi scheme’",
+    "链接": "https://www.theblock.co/news/regulation/2026-11-16-boris-johnson-backs-tokenization-months-after-bitcoin-to-ponzi-scheme-441368",
+    "时间": "2026-11-16 16:49"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
+    "链接": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-16 16:26"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "DeFi Development Corp. adds 9,482 SOL as CHAD dividend streak hits 31 days",
+    "链接": "https://www.theblock.co/news/markets/2026-11-16-defi-development-solana-treasury-2-62-million-sol-441361",
+    "时间": "2026-11-16 16:16"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Tom Lee says Ethereum’s ‘waterfall decline in price’ defies fundamentals as Bitmine adds 7,653 ETH",
+    "链接": "https://www.theblock.co/news/business/2026-11-16-tom-lee-ethereum-waterfall-decline-price-defies-fundamentals-bitmine-adds-7653-eth-440904",
+    "时间": "2026-11-16 15:00"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Layer 2 Scaling Explained",
+    "链接": "https://www.theblock.co/learn/basics/layer-2-scaling-explained-436103",
+    "时间": "2026-11-16 14:56"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
+    "链接": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-16 14:55"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bitwise CIO says bitcoin may fall further in the near term but still calls it the best risk-adjusted trade of the next decade",
+    "链接": "https://www.theblock.co/news/markets/2026-11-16-bitwise-cio-says-bitcoin-may-fall-further-in-the-near-term-but-still-calls-it-the-best-risk-adjusted-trade-of-the-next-decade-440901",
+    "时间": "2026-11-16 14:52"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Lighter pauses withdrawals after reported $10M account theft",
+    "链接": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-16 14:19"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Banks are banning AI agents over security... and competition concerns",
+    "链接": "https://cointelegraph.com/magazine/banks-are-banning-ai-agents-over-security-and-competition-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-16 13:30"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks",
+    "链接": "https://cointelegraph.com/news/strategy-buy-485-bitcoin-228-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-16 13:29"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "‘This dip could use a little orange’: Michael Saylor’s Strategy buys another 485 BTC for $33 million as bitcoin tumbles",
+    "链接": "https://www.theblock.co/news/business/2026-11-16-this-dip-could-use-a-little-orange-michael-saylor-strategy-bitcoin-tumbles-440886",
+    "时间": "2026-11-16 13:13"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings",
+    "链接": "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-16 13:00"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "HKMA, Swift explore tokenized deposits for cross-border bank payments",
+    "链接": "https://cointelegraph.com/news/hkma-swift-tokenized-deposits-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-16 12:54"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Solana drops ‘mainnet beta’ label and adopts protocol version 1.0",
+    "链接": "https://www.theblock.co/news/ecosystems/2026-11-16-solana-drops-mainnet-beta-label-and-adopts-protocol-version-1-0-440885",
+    "时间": "2026-11-16 12:30"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Singapore, Germany test cross-border FX settlement with CBDCs",
+    "链接": "https://cointelegraph.com/news/singapore-german-central-banks-settlement-cbdcs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-16 10:49"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Upbit parent Dunamu posts $14 million Q3 net loss as revenue falls 61%",
+    "链接": "https://www.theblock.co/news/business/2026-11-16-upbit-parent-dunamu-q3-net-loss-440876",
+    "时间": "2026-11-16 10:46"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "BTC price tags 18-week low into Nvidia earnings: Three things to know in Bitcoin this week",
+    "链接": "https://cointelegraph.com/markets/btc-price-18-week-low-nvidia-three-things-know-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-16 10:39"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Vitalik Buterin backs higher gas costs for creating accounts and deploying smart contracts to help Ethereum scale",
+    "链接": "https://www.theblock.co/news/ecosystems/2026-11-16-vitalik-buterin-backs-higher-gas-costs-for-creating-accounts-and-deploying-smart-contracts-to-help-ethereum-scale-440870",
+    "时间": "2026-11-16 10:29"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "DBS, JPMorgan launch instant tokenized deposit transfers between US and Singapore",
+    "链接": "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854",
+    "时间": "2026-11-16 09:26"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "CoW Swap goes live on Solana with intent-based trading",
+    "链接": "https://www.theblock.co/news/defi/2026-11-16-cow-swap-goes-live-solana-440840",
+    "时间": "2026-11-16 09:05"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "South Korean fintech giant Toss to launch in-app non-custodial crypto wallet: report",
+    "链接": "https://www.theblock.co/news/business/2026-11-16-toss-non-custodial-crypto-wallet-440847",
+    "时间": "2026-11-16 08:52"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "DBS, JPMorgan’s Kinexys launch 24/7 transfers of tokenized deposits",
+    "链接": "https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-16 08:50"
+  },
+  {
     "来源": "Cointelegraph",
     "标题": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
     "链接": "https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
