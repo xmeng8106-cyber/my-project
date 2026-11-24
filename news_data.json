@@ -1,6 +1,162 @@
 [
   {
     "来源": "TheBlock",
+    "标题": "Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines",
+    "链接": "https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061",
+    "时间": "2026-11-24 22:10"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
+    "链接": "https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-24 21:50"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "SEC staff gives Molecule no-action relief for scientific research tokens",
+    "链接": "https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067",
+    "时间": "2026-11-24 20:53"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Utah moves to dismiss criminal charges against Kalshi after trading halt",
+    "链接": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-24 20:48"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
+    "链接": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-24 19:44"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years",
+    "链接": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-24 19:04"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Payward’s Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC",
+    "链接": "https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498",
+    "时间": "2026-11-24 18:35"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "CFTC sets new prediction market rules as more firms seek US entry",
+    "链接": "https://cointelegraph.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-24 18:31"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
+    "链接": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-24 18:07"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Rep. Raskin probes Trump Jr.’s firm’s investments into Polymarket and Juul over ‘suspiciously well-timed government favors’",
+    "链接": "https://www.theblock.co/news/regulation/2026-11-24-rep-raskin-probes-trump-jr-s-firms-investments-polymarket-juul-suspiciously-well-timed-government-favors-446052",
+    "时间": "2026-11-24 18:05"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "We’ve Entered Peak FEAR; SKY Falls",
+    "链接": "https://www.theblock.co/newsletters/data-and-insights/2026-11-24-weve-entered-peak-fear-sky-falls-445476",
+    "时间": "2026-11-24 17:42"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
+    "链接": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-24 17:09"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Robinhood co-leads $5 million seed round for onchain trading platform Rialto",
+    "链接": "https://www.theblock.co/news/deals/2026-11-24-robinhood-onchain-trading-platform-rialto-funding-446030",
+    "时间": "2026-11-24 17:00"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Ansem denies involvement in $2.57 million wallet drain; Black Bull creator coin plummets 55%",
+    "链接": "https://www.theblock.co/news/defi/2026-11-24-ansem-denies-involvement-2-57-million-wallet-drain-black-bull-creator-coin-plummets-55-445705",
+    "时间": "2026-11-24 16:51"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Europol operation involving Binance, Coinbase and Chainalysis traces more than $28.5 million in crypto behind illegal streaming services",
+    "链接": "https://www.theblock.co/news/regulation/2026-11-24-europol-operation-binance-coinbase-chainalysis-traces-28-5-million-crypto-illegal-streaming-services-446019",
+    "时间": "2026-11-24 16:45"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "How South Korea’s proposed 20% cap could change who runs Upbit",
+    "链接": "https://cointelegraph.com/news/how-south-koreas-proposed-20-cap-could-change-who-runs-upbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-24 16:33"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says ‘we do not take this lightly’",
+    "链接": "https://www.theblock.co/news/business/2026-11-24-ethereum-treasury-firm-btcs-sells-43-8-million-eth-cut-aave-debt-ceo-says-we-do-not-take-this-lightly-445562",
+    "时间": "2026-11-24 15:27"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Bitcoin ETFs see another $570 million in net outflows as November total nears $5 billion and BTC dips below $60K",
+    "链接": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-etfs-another-570-million-net-outflows-november-total-nears-5-billion-btc-dips-below-60k-445548",
+    "时间": "2026-11-24 14:32"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "USDT buyers face 22% VAT when Moscow Exchange opens crypto trading",
+    "链接": "https://cointelegraph.com/news/russia-usdt-buyer-face-22-tax-december-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-24 14:10"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "XRP Ledger DEX volume hits 4.51 million XRP a day in Q3 as big traders take over: Evernorth",
+    "链接": "https://www.theblock.co/news/markets/2026-11-24-xrpl-dex-volume-q3-2026-evernorth-report-445395",
+    "时间": "2026-11-24 14:00"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Ledn brings US business onshore with account to hold, swap and borrow against bitcoin",
+    "链接": "https://www.theblock.co/news/business/2026-11-24-ledn-launches-us-custody-account-bitcoin-gold-stablecoins-lending-445411",
+    "时间": "2026-11-24 14:00"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "Neuberger Berman’s HINC fund brings high-yield credit to Aave’s institutional lending platform",
+    "链接": "https://www.theblock.co/news/markets/2026-11-24-neuberger-berman-tokenized-hinc-fund-aave-horizon-collateral-445391",
+    "时间": "2026-11-24 14:00"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
+    "链接": "https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-24 13:57"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Sky lender proposes buyback of up to $50M to fund stUSDS withdrawals",
+    "链接": "https://cointelegraph.com/news/sky-community-proposes-50m-buybacks-stusds-liquidity-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-24 13:43"
+  },
+  {
+    "来源": "TheBlock",
+    "标题": "BlackRock opens tokenized money market fund with $100 million in assets to Hong Kong investors",
+    "链接": "https://www.theblock.co/news/business/2026-11-24-blackrock-opens-tokenized-money-market-fund-with-100-million-in-assets-to-hong-kong-investors-445524",
+    "时间": "2026-11-24 13:17"
+  },
+  {
+    "来源": "Cointelegraph",
+    "标题": "Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks",
+    "链接": "https://cointelegraph.com/markets/bitcoin-oversold-ai-risks-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "时间": "2026-11-24 13:11"
+  },
+  {
+    "来源": "TheBlock",
     "标题": "Crypto Market Structure Basics",
     "链接": "https://www.theblock.co/learn/campus/crypto-market-structure-basics-442986",
     "时间": "2026-11-24 12:49"
